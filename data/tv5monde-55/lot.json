@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-55",
+  "lotId": 55,
+  "displayNumber": 12,
+  "title": "TV5MONDE TCF training test 12",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=55&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-1.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "321",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Bonjour, installez-vous! Qu'est-ce que vous voulez boire? A. J'aime beaucoup ce restaurant. B. Je voudrais une mental. C Merci. Apportez-nous l'addition. D Un steak frites, s'il vous plaît.",
+        "rawFile": "data/tv5monde-55/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-2.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "322",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Oh, j'adore ce présentateur télé. Tu sais, il est sur TV5Monde. Il passe tous les mardis soirs. Ah? Ah oui, c'est l'heure du journal. B Ah oui, ils ont annulé le film. C Ah oui, j'ai déjà regardé ces émissions. D? Ah oui, j'ai préféré ce programme-là.",
+        "rawFile": "data/tv5monde-55/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-3.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "323",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. On va au cinéma ce soir? On peut dîner au restaurant avant. Oh ce soir, je voulais regarder une émission à la télévision. A Mais tu as réservé sans moi? B Mais tu n'aimes pas manger là-bas? C Mais tu peux la voir un autre jour. D. Mais tu vas sortir lundi prochain?",
+        "rawFile": "data/tv5monde-55/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle doit prendre un autre train sur le trajet."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Elle est arrivée après le départ de son train."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle s’informe sur le prix d’un billet de train."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle souhaite prendre un train le jour suivant."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-4.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "324",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour madame. Bonjour. Je viens d'arriver à la gare. Et mon train est déjà parti, qu'est-ce que je dois faire? Montrez-moi votre ticket. Ça vous coûtera 15 euros pour l'échanger. Bon, très bien. À quelle heure est le prochain train pour Bordeaux? Dans 20 minutes. Quai numéro 5 Pourquoi est-ce que cette personne se présente au guichet?",
+        "rawFile": "data/tv5monde-55/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Attendre qu'on lui téléphone."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Envoyer sa candidature par courrier."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Prendre contact avec la responsable."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Repasser quelques jours plus tard."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-5.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "325",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour madame. Bonjour. Je me présente Christophe Pichon. Je suis formateur dans les métiers de la vente. Je suis en recherche d'emploi. Je voudrais vous proposer mes services. C'est que pour le moment, notre équipe est complètement. De toute façon, la directrice n'est pas là. Je peux peut-être patienter? Écoutez, laissez-moi plutôt votre CV, je le transmettrai à la directrice, elle vous appellera en cas de besoin. Que doit faire Christophe Pichon?",
+        "rawFile": "data/tv5monde-55/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle a accepté de venir le jour même."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle a changé la date du repas d'affaires."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle a envoyé ses résultats d'analyses."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle a laissé un message au cabinet."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-6.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "326",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Secrétariat du Dr Bailly, bonjour. Bonjour. Je suis Madame Dumiel. Je suis vraiment désolée, mais je ne peux pas venir à mon rendez-vous de 14h aujourd'hui. Pouvez-vous venir demain à 14h? Malheureusement non. J'ai un déjeuner professionnel. Attendez. Il y a une possibilité tout à l'heure, à 17h30. Très bien. C'est noté. N'oubliez pas d'apporter votre bilan sanguin. Oui, merci, au revoir. Café, Madame du Miel.",
+        "rawFile": "data/tv5monde-55/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "C'est un monument peu connu."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il est situé est au sud de la France."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le bâtiment est en mauvais état."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Son environnement est très bruyant."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-7.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "327",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors, tu as visité le château de Domantile? Oui, tu sais qu'en le visitant, un ancien président a dit Pourquoi m'a-t-on emmené sept fois à Versailles et jamais ici? Et c'est vrai que ce château est souvent oublié. Il se trouve où? Au milieu d'une forêt, à cinquante kilomètres de Paris. Il a été reconstruit et est comme neuf. Il n'y a pas beaucoup de touristes et on peut le visiter dans le calme. Qu'apprend-on à propos du château de Domantil?",
+        "rawFile": "data/tv5monde-55/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Pour avoir un appartement spacieux."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour partager son loyer."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Pour rencontrer des gens."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour réviser avec d’autres étudiants."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-8.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "328",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Et maintenant, chers auditeurs de Radio Loire FM, l'annonce de Ryan. Bonjour, I'm Oriane. I've 22 years. I would partake an appartement with a locataire who travail from me. I never have designants car they find trophy. Je suis jeune, mais j'aime le calme. Pour moi, l'argent n'est pas un problème, mais je veux habiter avec d'autres gens. En effet, je viens d'arriver dans cette ville et je ne connais personne. Pourquoi Oriane veut-elle vivre en colocation?",
+        "rawFile": "data/tv5monde-55/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Changer de matelas."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Faire de la natation."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Rester assis au travail."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Suivre un traitement."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-9.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "329",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour Monsieur Rollin. Qu'est-ce qui vous arrive? Je me suis fait mal au dos. Hm. Prenez ses cachets matin and soir pendant cinq jours, and fate plus d'effort and ne portez rien de lourd. Je vous donne un arrêt de travail de quelques jours. Avec les médicaments et du repos, vous irez beaucoup mieux dans une semaine. Que doit faire M. Rollin pour soigner son dos?",
+        "rawFile": "data/tv5monde-55/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La diminution de l’attention en cours."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La fréquentation de sites interdits aux mineurs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Une dépendance accrue à l'ordinateur."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Une mauvaise assimilation des connaissances."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-10.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "330",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Nous vivons dans un monde qui est un monde de l'impatience, de la rapidité. And the apprentice veults de la lenteur. que la lecture numérique est quelque chose de tout à fait particulier qui est surtout, comment dire, dirigé vers l'utilité. On prélève un renseignement dans la lecture numérique. Mais on ne s'approprie pas le texte, on ne se le met ni en bouche, ni en mémoire. Et c'est cela qui fait, je crois, le prix, la saveur des apprentissages. Quel est le risque de l'école du numérique selon cette spécialiste?",
+        "rawFile": "data/tv5monde-55/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "D’obtenir rapidement un diplôme."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De changer d’orientation en cours d’année."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De s’initier au commerce international."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "De suivre des cours à l’étranger."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-11.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "331",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Est-ce que vous savez que le premier groupe mondial pour l'enseignement du tourisme et de l'hôtellerie est français? The toute dernière école vient d'ouvrir au Mexique. In this pays, l'objectif de Vatel is clair. Former en 4 ans, des jeunes Mexicans to devenir des cadres capables de travailler. In the plus and restaurants of the planet. The students find also cursus anime, in France, l'école pilote de Vatel. The apprentice of the languages is a cœur of their formation. That's why the installation is local. de l'Alliance française de Mexico qui dispose des meilleurs professeurs pour enseigner le français du tourisme. Que permet l'école Vatel aux étudiants mexicains?",
+        "rawFile": "data/tv5monde-55/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Des diffusions multiples."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Des genres diversifiés."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Une créativité démultipliée."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Une réalisation accélérée."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-12.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "332",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. A l'heure du numérique, la production et la diffusion du cinéma... Le numérique n'a jamais permis au cinéma de bien se porter. Le numérique est un outil qui permet de tourner plus vite, avec des équipes plus réduites. Donc les coûts du personnel moins important. Donc ça permet de produire plus vite. Plus vite, pas forcément plus. En revanche, ce qu'on a remarqué, grâce au numérique, c'est l'explosion. D'un genre, c'est la série. D'après la personne interviewée, que constate-t-on dans l'industrie du cinéma à l'heure du numérique?",
+        "rawFile": "data/tv5monde-55/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Dénoncer les pratiques antiécologiques."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Évaluer les conséquences à court terme."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réussir à mobiliser les parties concernées."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Sanctionner l'ensemble des responsables."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-13.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "333",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Oui, mais vous attendez quoi de l'Europe? Vous attendez quoi des pays pollueurs? pollu aujourd'hui, qui font courir des risques à vos plages, qui font courir des risques à l'Afrique. Je pense que nous voulons dépasser cette politique qui consiste à pointer du doigt. C'est vous, vous avez tout à fait. Il faut que nous soyons tous les... Nous allons dans le même sens résolu à faire quelque chose. Ce qui est important pour les Africains aujourd'hui, c'est qu'ils comprennent que les dérèglements climatiques feront des Africains les premières victimes. Déjà, nous souffrons avec la sécheresse. Nous souffrons d'un certain nombre de problèmes qui ne vont que s'accentuer si ces changements climatiques ne sont pas maîtrisés. D'après l'intervenant, quelle attitude adopter face au changement climatique?",
+        "rawFile": "data/tv5monde-55/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il dénonce la responsabilité des industriels."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Il prend conscience de son comportement."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il s'inquiète de la toxicité des produits."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il s'interroge sur l'intérêt du reportage."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-14.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "334",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. 1 million de tonnes chaque année, c'est ce que représentent les couches jetables en France. In France, chaque nourrisson engaspille 6 000 pendant les two years of his life. The group Suez evaluation the potential of recyclage of matière, plastic, fibre, polymère, pourrait être valorisé voire servir to produce biogaz, an immense gâchis. Colin, you have reagir sur les couches culottes. Alors that could be anecdotique, but it's a very problem. But in two anfants have ported chacun six couches culottes. Et c'est vrai qu'on se rend compte qu'on génère comme ça beaucoup de pollution dont on ne se rend pas compte et qui viennent du confort dans lequel on est. Comment réagit l'invité de l'émission?",
+        "rawFile": "data/tv5monde-55/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "L’omission volontaire de l’aspect esthétique."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La médiocrité du jeu de tous les acteurs."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Le manque de simplicité de la réalisation."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Le recours fréquent aux effets spéciaux."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1211-15.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "335",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Mais en fait, oui, ce que je voulais dire, c'est qu'en fait, par rapport à la mise en scène... Le problème vraiment aussi du film, c'est qu'outre outre la grande sophistication d'intrigue qui finit par effectivement se retourner contre le film, c'est le je trouve la surmise en scène, c'est-à-dire qu'il y a vraiment toujours en permanence dans chacune des séquences. une démonstration, une démonstration de force visuelle qui fait que du coup tout ce système de qui peut être intéressant de tentatives d'analyse de ce que c'est qu'un engrenage dans un dans des systèmes secrets, de systèmes de parano, tout ça, fait que voilà, on ne voit, moi je ne vois qu'en permanence un cinéaste qui me dit, regardez comme je vous embrouille bien. Que reproche le journaliste à ce film?",
+        "rawFile": "data/tv5monde-55/q15-parakeet.json"
+      }
+    }
+  ]
+}

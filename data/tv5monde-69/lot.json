@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-69",
+  "lotId": 69,
+  "displayNumber": 16,
+  "title": "TV5MONDE TCF training test 16",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=69&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-1_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "601",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Vous voulez un pantalon de quelle couleur? A bleu ou noir en coton taille quarante.",
+        "rawFile": "data/tv5monde-69/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-2_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "602",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Si ton père est médecin, il peut me voir en consultation? A Non, il a annulé ses congés. B Non, il a arrêté ses médicaments. C Non, il doit prendre rendez-vous. No, it is a la retraite.",
+        "rawFile": "data/tv5monde-69/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-3_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "603",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Je suis très fatiguée en ce moment. Je crois que je travaille trop. Je devrais faire une pause, non? A. Absolument. Tu dois prendre des vacances. B. Certainement. La réunion commence dans dix minutes. C. Sûrement, tu gagnes beaucoup d'argent. D. Vraiment, le directeur est très content.",
+        "rawFile": "data/tv5monde-69/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "De l’accent des habitants."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Des écoles françaises."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Des langues les plus apprises."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Des méthodes d'enseignement."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-4_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "604",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Aux Pays-Bas, on parle le néerlandais. Alors si vous ne parlez pas cette langue et que vous maîtrisez l'anglais... Eh bien, pas de souci, vous ne serez pas perdus ici, tout le monde ou presque maîtrise la langue de Shakespeare. Pour le français, c'est un petit peu différent. C'est la troisième langue étudiée à l'école, loin derrière l'anglais, vous l'avez compris, et toujours en concurrence avec l'allemand. De quoi est-ce que ce reportage sur les Pays-Bas parle?",
+        "rawFile": "data/tv5monde-69/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Un album dédié à un créateur de mode français."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Un documentaire original sur le prêt-à-porter."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Un recueil de portraits de jeunes couturiers."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Un site internet de collections vestimentaires."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-5_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "605",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. L'invité de ce journal, nous avons donc le plaisir de recevoir aujourd'hui Alain Champfort. Bonjour Alain Chanfort. Bonjour. Alors merci d'être avec nous. We venez de sortir an album, an album qui est entièrement consacré, c'est une originalité, à la vie d'Yves Saint Laurent, au grand couturier, Yves Saint Laurent. Puisque ce disque est vendu hors des sentiers battus commerciaux. On va en parler, mais d'abord je vous propose de regarder ce teaser, cet avant-goût vu sur Internet. Qu'est-ce qu'Alain Champfort est venu présenter dans cette émission?",
+        "rawFile": "data/tv5monde-69/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Participer à l’inauguration d’une institution."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Prendre part à la célébration d’une fête."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Profiter d’une visite guidée exceptionnelle."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Rendre un hommage au théâtre de Molière."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-6_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "606",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. En plein cœur de Paris, à quelques pas du Pont des Arts, voici le Temple de la langue de Molière, l'Académie française. Une vénérable institution qui s'est ouverte jeudi dernier à des visiteurs du monde entier. C'est dans ces salons que la Fédération Internationale des Professeurs de Français a fêté son 40e anniversaire. Parmi les invités, des enseignants venus de tous les continents, réunis par une même passion. Que vont faire ces enseignants à Paris?",
+        "rawFile": "data/tv5monde-69/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il explique les transformations des mots."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il inclut des mots d’origine étrangère."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il liste les mots du domaine médical."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Il regroupe l’ensemble des mots inutilisés."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-7_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "607",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. La langue c'est un corps vivant, ça a toujours évolué, il y a des mots qui sont rentrés. Le Larousse a sorti la semaine dernière, c'est passé un peu inaperçu, le Larousse des mots disparus. C'est-à-dire qu'ils ont fait un dictionnaire avec tous les mots qu'ils avaient supprimés depuis quelques années de dictionnaire. Donc ça évolue, ça rentre et tout. Quelle est la particularité de ce dictionnaire?",
+        "rawFile": "data/tv5monde-69/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Améliorer la qualité de l'environnement local."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Aménager un nouvel espace de promenade."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Développer l’industrie du bois."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réduire le bruit des transports."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-8_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "608",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Recréer une forêt. Là où justement les sols sont si Pollués que l'agriculture ne peut plus les exploiter, c'est l'objectif, au nord de Paris, où un million d'arbres seront plantés dans les prochaines années. Un véritable poumon vert de plus de 13 km2 entre les autoroutes pour absorber durablement une partie de la pollution liée au premier aéroport français. Quel est le but de cette opération dans le nord de Paris?",
+        "rawFile": "data/tv5monde-69/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle a arrêté l’université pour travailler."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle a choisi une carrière administrative."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Elle a décidé de changer d’orientation."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle a eu du mal à obtenir une promotion."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-9_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "609",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Pour moi c'est une passion, la technique. La partie ronde. J'ai commencé donc à l'aéroport de Paris en tant que comptable, mais je ne me voyais pas faire ça toute ma vie. Une femme dans un atelier n'était pas envisageable à ce moment-là. Et on a la deuxième cellule. Mes parents m'ont dit It's very dominant to have a lot of études for rien. And I've had a sursaut and I was battue and force to tap at all the ports, I had this opportunity to formation continue for passion. Et ils m'ont dit, si j'ai mon DUT, je viens par cette technique. Qu'explique cette femme?",
+        "rawFile": "data/tv5monde-69/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il est affaire de spécialistes."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il est réservée à une élite."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Il facilite les relations sociales."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il procure un plaisir immédiat."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-10_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "610",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. C'était important de s'interroger sur la formation musicale en France. C'était une nécessité? Je crois qu'il faut que les choses évoluent dans tous les domaines. Donc il y a des questions à se poser dans chaque domaine et la musique en est un. Et l'enseignement de la musique en est un privilégié. Puisque je pense C'est un outil de transmission exceptionnel, de valeur, transmission de valeur extrêmement important for le savoir-vivre, le vivre ensemble. est un art vertueux. Qu'explique l'intervenant à propos de l'enseignement de la musique?",
+        "rawFile": "data/tv5monde-69/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La diminution de l’activité physique."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La multiplication des différents régimes."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les dépenses liées à une cuisine variée."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Les mauvaises habitudes alimentaires."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-11_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "611",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Moi je suis portant de mieux en mieux. J'ai l'impression en Europe avec des produits de plus en plus bio, les gens de font... On essaie de marcher 10 000 pas par jour. On y pense de plus en plus, but in fact on a un mode de vie aussi. That permit to do that. The idea is to get that, to manage so, to manage bio, to put some time to change. The reality is that we are in the stress, we change a bit, we have a plats to prepared, we changes. And it's not the reality of what happens. Quel problème évoque l'intervenant?",
+        "rawFile": "data/tv5monde-69/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Pour annoncer un reportage qu’elle va réaliser."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Pour commenter un événement sans précédent."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Pour contribuer à un débat en cours."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour retracer la vie d'une grande dame."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-12_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "612",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Simone Veil, Isabelle Mongère, présentatrice de notre magazine Terrienne sur TV5 Monde, nous a rejoint sur ce plateau. Bonjour Isabelle. On peut dire que cette annonce a surpris tout le monde. Lord of this ceremony. Jamais la decision to have enter a personality au Panthéon is prise aussi rapidement, que ce soit homme ou femme. Cinq jours après son décès, c'est historique. C'est inédit jusqu'à present cela. Ça prend des années, c'est un processus qui est long, il y a parfois des réclamations, des polémiques et parfois ça ne se fait pas du tout. Pourquoi Isabelle Mourgère est-elle invitée?",
+        "rawFile": "data/tv5monde-69/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "La liberté accordée aux protagonistes."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Le dénouement inattendu de l'histoire"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le rythme effréné de la mise en scène."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Les rebondissements du scénario."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-13_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "613",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Ce qui m'intéresse en tout cas, c'est cette... possibilité qui est offerte aux personnages de quitter leur zone de confort pour aller expérimenter quelque chose de nouveau, qui peut être pas confortable, risqué parfois, et qui n'est pas fait. Oser, faire des choix. Prendre des risques. Rompre ce temps suspendu où tout est figé, où rien ne se passe. A sa manière subtile, en attendant, les hirondelles est un film engagé. Un appel à la vie lancé à l'Algérie d'aujourd'hui. Selon le premier intervenant, quel est le principal intérêt de ce film?",
+        "rawFile": "data/tv5monde-69/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Anticiper les conséquences du réchauffement climatique."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Créer des outils pour prévenir les catastrophes climatiques."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Exploiter les éléments climatiques pour produire de l’énergie."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Repérer les traces d’anciennes transformations climatiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-14_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "614",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Vous dirigez donc une équipe de recherche au laboratoire des sciences du... climat et de l'environnement du commissariat à l'énergie atomique. Et cette équipe, elle recherche quoi exactement? Alors en fait c'est une cinquantaine de personnes, dont une dizaine d'étudiants, qui utilisent tout un tas d'archives du climat, c'est-à-dire des milieux naturels où on va Trouve the mark of variations climatic pass. Also, that will be the coraux in the regions tropical, the sediments marins, the pollen that we have to renseign on the vegetation pass, the cernes d'arbres, the concretion that we have in the grottes, the C'est les experts quoi en gros. C'est exactement ça. C'est un travail de détective pour trouver les traces des variations passées du climat avant qu'on ait des données météorologiques. Quel est l'objectif de ces recherches?",
+        "rawFile": "data/tv5monde-69/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "L’aide gouvernementale."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "L’initiative individuelle."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "La formation en écologie."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "La préservation des forêts."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1400-15_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "615",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Oh là là! Alors mon coup de pouce pour la planète. In 40 seconds, uh je dirais qu'il faut um en fait c'est d'abord un conseil. Il faut agir. Il faut en permanence être capable d'agir. Même des petits actions. An example that me concerns, I planted these arbres, voilà on my balcon in Ile-de-France. I've been in the sud-ouest, for excess, dans le Lot-et-Garonne, à Savignac-sur-Leise, and I plante dans le terrain. J'en ai déjà planté quatre, and I will bichonner chaque année. Voilà, donc ne pas hésiter à mener des actions à tous les niveaux, voilà. Parce que je fais germer aussi des idées dans la tête de mes étudiants, aussi, qui se développent bien et en faveur d'une attitude plus respectueuse de l'environnement. Sur quoi insiste cette personne au sujet de la protection de l'environnement?",
+        "rawFile": "data/tv5monde-69/q15-parakeet.json"
+      }
+    }
+  ]
+}

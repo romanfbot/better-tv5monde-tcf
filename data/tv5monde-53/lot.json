@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-53",
+  "lotId": 53,
+  "displayNumber": 6,
+  "title": "TV5MONDE TCF training test 6",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=53&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-1_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "281",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Est-ce que tu veux boire un verre? A. Oui, c'est une bonne idée. B. Oui, c'est celui-là. C oui, c'est délicieux. Oui, c'est maintenant.",
+        "rawFile": "data/tv5monde-53/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-2_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV408T5510I5700M2850_0.jpeg?itok=47W3uWY1",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "282",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. ALEz, prête-moi ton ballon. B ne me pousse pas comme ça. C. N'écoute pas les supporters. D. Regarde bien la boule orange.",
+        "rawFile": "data/tv5monde-53/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-3_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV408T8411I8629M6185_0.jpeg?itok=2pKcjGG0",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "283",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. Il y a déjà beaucoup de supporters assis. B Je trouve cette partie vraiment passionnante. C J'espère que la pluie va s'arrêter avant le match. D. On voit vraiment bien le terrain d'ici.",
+        "rawFile": "data/tv5monde-53/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Appeler un autre numéro."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Appuyer sur la touche 1."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Attendre un moment."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Téléphoner plus tard."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-4_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "284",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. École de langue, bonjour! Si vous voulez des informations concrètes, Concernant nos horaires d'ouverture, composez-le 1. Pour tout autre renseignement, merci de patienter. Un conseiller va vous répondre. Que faut-il faire pour parler à quelqu'un?",
+        "rawFile": "data/tv5monde-53/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Un déséquilibre des naissances."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Un manque d'eau dans les rivières."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Une hausse du nombre de chasseurs."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Une modification de la durée de vie."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-5_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "285",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Je suis un alligator. Nous voici dans mon royaume. The bassiness of Rio Paraguay. After the augmentation of the temperature lies to the changement of climate, inquiétant for us is in time to pass. With all the reptiles, the sex of the embryon depends on the temperature ambient. For us, a ligator. Si la température moyenne continue de s'élever, il y aura bientôt nettement plus de mâles que de femelles qui naîtront. Une grave menace pour notre espèce. Quel danger menacent ces animaux?",
+        "rawFile": "data/tv5monde-53/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Dans les pays francophones."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Dans certains pays d'Afrique."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Dans le monde entier."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "En France uniquement."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-6_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "286",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour. Aujourd'hui, je vous emmène à la découverte de la langue des signes française. Que ça soit le nord, que ça soit le sud, it is a variante de langue des signes. Par contre for two other pays francophones. en Afrique où ils utilisent la langue des signes américaine, l'ASL. Tout simplement parce que les Américains sont arrivés là-bas, ont vu qu'ils n'avaient pas de langue des signes, donc ils leur ont apporté la leur. Où utilise-t-on la langue des signes française?",
+        "rawFile": "data/tv5monde-53/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "C'est un produit bon marché."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il est garanti deux ans."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les réparations sont gratuites."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Sa durée de vie est élevée."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-7_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "287",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Avec ce téléphone, on va dire on va faire des économies. To the person is not pretty to make six, six hundred euros all the time, two years on a new telephone. And so we changed uniquely the composition that turns on pan. We say so much, it is 10 seconds, and it's formidable. After the interest is that for the temps, On peut faire évoluer son téléphone, on peut augmenter ses capacités, améliorer ses performances et donc garder un téléphone 5 ou 10 ans sans problème. Quel est l'avantage de ce téléphone?",
+        "rawFile": "data/tv5monde-53/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle est disponible dans plusieurs coloris."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle fonctionne sans courant électrique."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle permet d'écouter des chansons."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle peut être allumée à distance."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-8_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "288",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Ils seront bientôt partout les objets connectés, dans votre salle de bain. In your cuisine and produits that it is possible to control with your smartphone. It's the case not with this lampe d'ambiance conducive by an entrepreneur lyonnaise. It's a part of my telephone that I On peut choisir l'intensité et la couleur de l'éclairage. Le choix est quasiment illimité. La lumière peut aussi suivre le rythme de ma musique. Quelle est la particularité de cette lampe?",
+        "rawFile": "data/tv5monde-53/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La fabrication du plastique."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "La sélection des ordures."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le ramassage des poubelles."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Le recyclage du verre."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-9_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "289",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Depuis 20 ans, les Français ont le nez dans leur poubelle pour séparer les emballages. recyclables des ordures ménagères. Ces emballages prennent ensuite la direction d'un centre de tri car ils sont encore mélangés. Des machines permettent de mettre d'un côté le plastique, de l'autre les cartons, l'aluminium, etc. Mais ils subsistent un tri manuel. Sur le tapis, des hommes repèrent notamment les erreurs. Quel processus la journaliste décrit-elle?",
+        "rawFile": "data/tv5monde-53/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Estimer la valeur d'un meuble."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Fabriquer des meubles de qualité."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Maintenir les meubles en bon état."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Rechercher des meubles anciens."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-10_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "290",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Pour la passion, je l'ai depuis longtemps, depuis tout petit, puisque mon père était passionné de bout de bois, donc voilà quand j'ai toujours vécu dans les vieux meubles, dans les vieux morceaux de bois. Puis un jour mon médecin de famille m'a donné un meuble à restaurer et à partir de ça j'ai voulu faire de la restauration de meubles. The buttons is to conserve the meuble and to pérennise, to prolong in the time, on guarding our authenticity and value. The principal quality of the restaurateur, it's the passion. Connaître le mobilier, puis beaucoup de patience également. Et beaucoup d'humilité, oui, oui. Selon Alain Guérou, quel est l'objectif de son métier?",
+        "rawFile": "data/tv5monde-53/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle arrive en dernière position."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Elle change en fonction des sites."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle évolue de façon imprévisible."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle recule selon les statistiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-11_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "291",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. La présence du français sur internet est assez faible, mais pas partout. Par exemple pour Wikipédia, le français est la troisième langue la plus parlée sur Wikipédia après l'anglais et l'allemand. Donc à partir du moment où on a des populations qui sont de plus en plus connectées, si elles prennent l'habitude et si elles osent surtout partager leurs connaissances, leurs savoirs leurs avis, leurs opinions sur Internet. Il n'y a pas de raison que le français régresse alors que, en termes de population, il est en train d'augmenter très très largement. Quelle est la place de la langue française sur Internet?",
+        "rawFile": "data/tv5monde-53/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La richesse du sol."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Le climat particulier."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les zones ombragées."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "L'exposition au soleil."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-12_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "292",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Ravi de vous accueillir. Merci alors, oui de ces vergers de cerises. On est au côté du mont Ventoux là. C'est le mont mythique de la région. C'est légène de province. Est-ce que c'est lui qui entre autres vous permet d'avoir cette qualité de cerise? Est-ce qu'il... Le plus qu'il nous apporte, c'est des températures fraîches. en pleine saison, c'est-à-dire au point, surtout la nuit. Ce qui permet à la cerise de, malgré les chaleurs de la journée, la nuit, elle profite de cette fraîcheur pour se développer, mûrir et surtout se conserver. Parce que ce que la cerise apprécie Pas trop, on va dire, c'est quand il fait des températures trop chaudes tout le temps. Qu'est-ce qui est bénéfique au vergers voisins du Mont Ventoux?",
+        "rawFile": "data/tv5monde-53/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "À des changements climatiques."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "À des manipulations génétiques."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "À des recherches de botanistes."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "À son cycle de vie particulier."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-13_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "293",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. On peut parler d'une résurrection, une plante disparition. After 4 siècles d'hibernation, la plante, cultivée in laboratoire by des chercheurs, is en pas de retrouver son cycle naturel. À quoi est liée la renaissance de cette plante?",
+        "rawFile": "data/tv5monde-53/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il concerne uniquement les États de l’Union européenne."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Il est en concurrence avec des certifications existantes."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il favorise les groupes agroalimentaires du secteur privé."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il répond à un effet de mode autour des aliments biologiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-14_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "294",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Aller faire ses courses aujourd'hui, c'est se perdre dans les méandres des certifications et ça. Ça agace Franz Vaillant. C'est le nouveau logo biologique de l'Union Européenne le 1er juillet. On retrouvera donc sur tous les produits biologiques préemballés et fabriqués dans les 27 pays de l'UE. D'abord on pense c'est une bonne chose, c'est vrai. Aujourd'hui pour s'y retrouver on dégainerait presque son GPS. Mais ce logo européen ne résout aucun problème de visibilité. A ses côtés, sur les emballages, d'autres logos à caractère. privés, régionales ou nationales, restent autorisés. Que regrette Franz Vaillant quant à la création de ce logo?",
+        "rawFile": "data/tv5monde-53/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Pour concurrencer l'empire britannique."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour démontrer la grandeur de la France."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Pour enseigner la philosophie grecque."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour former des archéologues français."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-15_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "295",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Une oasis de calme dans le tumulte de la ville et 155 ans d'existence. L'école française d'Athènes, en soi, c'est déjà un site riche de sa propre histoire et de son prestige, le plus ancien établissement culturel français à l'étranger, avec la villa Médicis. Née au milieu du XIXe siècle, d'une ordonnance royale de Louis-Philippe, Elle illustre l'engouement de l'époque pour la Grèce antique, peut-être aussi, plus prosaïquement, une volonté de contrer l'influence anglaise dans la région. Officiellement, le rôle de l'école est alors l'étude de la langue, de l'histoire et des antiquités grecques. Vaste programme et pourtant début d'une aventure scientifique. Dans quel but l'école française d'Athènes a-t-elle été créée?",
+        "rawFile": "data/tv5monde-53/q15-parakeet.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-70",
+  "lotId": 70,
+  "displayNumber": 17,
+  "title": "TV5MONDE TCF training test 17",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=70&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-1.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "641",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Quand passes-tu me voir? A après dix-sept heures. B avec mon frère. Chez toi. D pendant cinq minutes.",
+        "rawFile": "data/tv5monde-70/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-2.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "642",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Ça y est, je viens de recevoir les résultats de l'examen de français. A. Ah bon? Moi je travaille dans ma chambre. B Oh déjà? Je vais aller vérifier ma boîte mail. C. Tu crois? Il y a peut-être une autre session? D. Vraiment? Tu pourrais réviser un peu plus?",
+        "rawFile": "data/tv5monde-70/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "D’apporter les boissons."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De s'occuper des activités."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "De trouver un autre endroit."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "De venir avec ses amis."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-3.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "643",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Salut Lola! Tout le monde peut venir samedi avec un plat et une boisson. Ah, j'adore les pique-niques, ça va être super. C'est au parc à midi, c'est ça? Euh non, il est fermé. Il faut chercher un nouvel endroit. Je m'en occupe. Qu'est-ce que Lola propose?",
+        "rawFile": "data/tv5monde-70/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Pour acheter des meubles."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour assister à un concert."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Pour faire un déménagement."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour visiter un appartement."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-4.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "644",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Allô? Salut Alexandre. Ça va? Tu sais que j'ai trouvé un nouvel appartement. Je vais déménager le 30 septembre. Tu pourrais m'aider? Oui, bien sûr, mais seulement le matin. Car ce jour-là, je vais déjeuner avec mon frère et voir un concert. Super! Ça ne devrait pas être trop long. Je n'ai pas beaucoup de meubles et seulement quelques cartons. On peut se donner rendez-vous à 9h? Pourquoi est-ce que les deux amis vont se retrouver le 30 septembre?",
+        "rawFile": "data/tv5monde-70/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Leur origine."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Leur prix."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Leur qualité."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Leur variété."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-5.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "645",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. J'ai posé mes valises il y a deux mois c'était évidemment de faire mes courses. Donc je suis allée au supermarché comme en France et là en fait j'ai réalisé que beaucoup de produits étaient importés d'autres pays. Par exemple j'ai voulu acheter du lait et venir des Etats-Unis ou alors d'Australie. J'ai trouvé de la viande du Brésil, j'ai trouvé des myrtilles d'Argentine. Qu'est-ce qui a étonné l'intervenante dans les articles qu'elle a achetés?",
+        "rawFile": "data/tv5monde-70/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle attire beaucoup de visiteurs."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Les symboles de la ville y sont regroupés."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "On y trouve les organismes internationaux."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Son aménagement date de 1958."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-6.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "646",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Sabouge à Bruxelles, vous emmène dans la jolie capitale de la Belgique. C'est ici que siègent la plupart des institutions de l'Union Européenne ainsi que de nombreuses organisations internationales. Les symboles de Bruxelles sont nombreux, Mannequin Peace, les frites, les gaufs, l'Atomium érigé lors de l'exposition universelle de 1958. Et la Grand Place. On vient du bout du monde pour la photographier. Elle est classée au patrimoine mondial de l'UNESCO. Qu'apprend-on sur la Grand Place de Bruxelles?",
+        "rawFile": "data/tv5monde-70/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La circulation automobile est interdite."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Le nombre de touristes est limité."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les activités sont gratuites."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Les animaux sont nombreux."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-7.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "647",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le Parc national du Mont-Tremblan, c'est le plus grand territoire. Protégés au sud du Québec. Alors, on parle d'un territoire de 1510 km dans lequel on retrouve un peu plus de 400 lacs. Il ne faut pas se cacher ici, on va recevoir beaucoup de gens, un peu plus d'un demi-million. de visiteurs à chaque année. Et évidemment, il y a une faune impressionnante qu'on retrouve sur le territoire du parc. On parle d'un peu plus de 40 espèces de mammifères. Qu'apront-on sur le parc national du Mont-Tremblon?",
+        "rawFile": "data/tv5monde-70/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Culturel."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Extrême."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Local."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Sportif."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-8.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "648",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Défendre un tourisme sans avion, c'est la nouvelle campagne de l'association Notre Choix. Leur stratégie, mettre en avant la beauté des paysages français. Nous on a envie de proposer une alternative aux gens qui peuvent aussi aller prendre des vacances, prendre l'air, etc., sans avoir à aller loin, sans avoir à... Découvrir un pays dit exotique sans avoir à détruire la planète en essayant de l'explorer. De quel type de tourisme cette association fait-elle la promotion?",
+        "rawFile": "data/tv5monde-70/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Les avantages d’un établissement francophone."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Les démarches pour trouver un emploi en France."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les différentes options de logement en France."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Les événements francophones dans son pays."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-9.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "649",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. L'Université française en Arménie donne la possibilité de s'ouvrir vers d'autres. and créate vers la culture française. En échangeant avec les enseignants français, avec la possibility to get a stage in France, for a student it's the premier opportunity to visit l'Europe. De passer un stage en France, c'est la grande expérience de découvrir notre mode de pensée, notre style de vie. Que présente la personne interviewée?",
+        "rawFile": "data/tv5monde-70/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Augmenter la taille de son entreprise."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Développer une marque de vêtements."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Exporter des objets traditionnels africains."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Promouvoir une production textile locale."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-10.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "650",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Aïssa Dionne est une femme d'affaires et styliste. Elle a fait le choix de se spécifique. Specialist in the tissue d'ammeublement. The very grand marks and hotels de luxe find appear to him. Some entrepreneurs comes in a centaur of employees and makes a point d'honneur to utilise the matter issues of his family, the Senegal. After these days, Elle se bat pour faire entendre que le Sénégal et l'Afrique de l'Ouest pourraient avoir une place importante dans l'industrie mondiale du textile. Que souhaite faire cette styliste sénégalaise?",
+        "rawFile": "data/tv5monde-70/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Pour découvrir de nouveaux écrivains."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour récompenser les meilleures notes obtenues."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Pour rendre l’apprentissage du français attrayant."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour réunir des participants de tous les âges."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-11.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "651",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Grand habitué des dictées, le romancier Rachid Santaki ne plaisante pas avec la langue française. Pour lui, organiser cette dictée géante au Stade de France, c'est un vieux rêve. L'idée c'est de donner goût à l'écriture, à la lecture, donc désacraliser l'exercice en enlevant les notes, en en faisant un jeu, ça contribue aussi, c'est une petite graine complante qui va pousser dans l'esprit des participants, en tout cas des... plus jeune des réfractaires à l'orthographe, de se dire finalement une dictée ça peut être cool et voilà il y a un véritable enjeu autour de la langue française, des mots, de l'écriture et de la lecture. Pourquoi Rachid Santaki organise-t-il cette dictée?",
+        "rawFile": "data/tv5monde-70/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Encourager un système d’échange de romans."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Faciliter l’accès au livre dans des lieux publics."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Organiser des lectures de contes populaires."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Promouvoir les œuvres écrites par des femmes."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-12.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "652",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le temps, ces femmes le prennent lorsqu'elles viennent notamment se faire Tressée ici pendant des years. Elle se laisse donc tenter par un roman or an essai sur le droit des femmes or l'enfant. Colette Tossou, la patronne des lieux, n'a pas hésité lorsque la Bibliothèque nationale d'Abidjan lui a proposé d'installer cette petite vitrine dans son salon à Abobo. Et elle pousse ses employés à faire une pause-lecture lorsque le cœur leur en dit. Quel est le projet de la Bibliothèque nationale d'Abidjan?",
+        "rawFile": "data/tv5monde-70/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Collecter les résidus plastiques pour les recycler."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Mesurer l’étendue de la contamination des mers."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Répertorier les espèces aquatiques menacées."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Tester les solutions proposées par les scientifiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-13.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "653",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. On trouve en pleine mer de gros déchets en plastique. Uh myriade of petits fragments. The micro-détritus constitue une grave menace for the biodiversity. They peuvent blesser ou étouffer les poissons or autres organismes marins qui les ingèrent. The substances toxiques. Déséquilibre the ecosystem. The échantillons prélevés by l'équipe de Patrick Beckson are exploited at terror by the scientific. The expedition has also donated for mission to cartographier ces zones polluées qui rassemblaient from six fois la France. Un septième continent qui n'est du qu'à l'activité humaine. Quel est l'un des objectifs de l'équipe de Patrick Dexon?",
+        "rawFile": "data/tv5monde-70/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "C’est une nouvelle initiative pédagogique."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il présente des personnages de contes traditionnels."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les enfants francophones participent à sa création."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Un des auteurs est enseignant de langue."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-14.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "654",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. La Louisiane compte 26 écoles d'immersion pour environ 5000 élèves scolarisés. And the aventures of Boudini are l'une des initiatives the plus recente for accroître plus l'apprentissage of the languages. In his studio, Marshall Woodworth met the dernières touches au prochain episode of Boudini. About another animateur, Philippe Bilodeau, Ils ont développé les personnages du premier dessin animé en français louisianais, Boudini, Colinda et Coco l'Aligator, ou comme on dit ici, le Cocodri. I think it's very mentally healthy for people. Des points de vue différents, des langues différentes, mais que cela représente fidèlement cette région, la Louisiane.",
+        "rawFile": "data/tv5monde-70/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle est envisageable avec des revenus conséquents."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle occasionne des risques importants d’épuisement au travail."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle offre une solution aux problèmes des retraites."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle permet de s’affranchir des principes économiques en cours."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/2306-15.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "655",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le frugalisme, c'est un mode de vie qui consiste à se serrer la ceinture et à Along with Fanny Paris, who is specialist in the mode of consummation and anthropologue at Lausanne, the démarche of frugalists is paradoxical. One code, did he, it will One society that they desoit, métro, boulot, dodo, what sense to my view, j'en ai marre? And the other code they profit of this system because they continue to perceive a revenue boursian, for example. And the other bémol, is that the frugalism is not pour les petits salaires. Il faut quand même gagner un minimum pour pouvoir économiser. Que pense Fanny Paris de la démarche frugaliste?",
+        "rawFile": "data/tv5monde-70/q15-parakeet.json"
+      }
+    }
+  ]
+}

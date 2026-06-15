@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-44",
+  "lotId": 44,
+  "displayNumber": 10,
+  "title": "TV5MONDE TCF training test 10",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=44&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-1.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "81",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Excusez-moi, je voudrais aller au lac de Saint-Cassien. Vous connaissez le chemin? A. Oui. Allez tout droit. B oui. Descendez d'un étage. C'est un étage. Oui, partez maintenant. D. Oui. Prenez l'ascenseur.",
+        "rawFile": "data/tv5monde-44/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-2.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "82",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Pardon madame, je suis un peu perdue. Où se trouve la poste, s'il vous plaît? A. Attendez votre tour. B. Ouvrez la porte. C. Revenez à 14h. D tourne à droite.",
+        "rawFile": "data/tv5monde-44/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-3.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "83",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Mesdames, Messieurs, sur cette place, vous pouvez vous dire. Quel est le bâtiment à côté de la mairie? A. C'est juste à 5 minutes à pied. B. C'est le musée des beaux-arts. C C'est une fête traditionnelle. D. C'est une place vraiment magnifique.",
+        "rawFile": "data/tv5monde-44/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-4.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "84",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Vous avez rendu un bon texte? Mais j'ai trouvé quelques erreurs. Nous pouvons en discuter cette semaine, si vous voulez. A. Oui, je lis votre livre. B Oui, je suis disponible. C. Oui, je voudrais un renseignement. D? Oui, je vous demande de partir.",
+        "rawFile": "data/tv5monde-44/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Le niveau élevé des études."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Les difficultés linguistiques."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les problèmes de transport."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Les températures en hiver."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-5.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "85",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Julie a 21 ans, son truc à elle, c'est le droit. Pour son année Erasmus, Julie a choisi d'étudier à l'université d'Oslo, très réputée dans le domaine des droits de l'homme. Là-bas, elle a étudié le droit, forcément, et puis elle a aussi découvert le froid avec un grand F. C'est vrai qu'on est arrivé à moins 20, nous environs moins 20 en janvier? C'est vrai que c'était dur. C'était très dur. Attendre cinq minutes en bus, c'était comme si on attendait pendant une heure. C'était insupportable. Qu'est-ce qui a gêné Julie pendant son séjour à Oslo?",
+        "rawFile": "data/tv5monde-44/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle a abandonné la course."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle a battu un record."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Elle a repris l’entraînement."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle a subi une opération."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-6.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "86",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Agnès Dupuis, vous êtes notre meilleur espoir aux prochains Jeux Olympiques pour la course du 100 mètres. Comment vous préparez-vous pour cet événement? La semaine dernière, je n'ai pas couru. Je me suis reposée. Et pourquoi? J'avais mal aux genoux. J'ai suivi un traitement et maintenant ça va. J'ai recommencé à courir ce matin. Et dans deux mois, je sais que je peux retrouver mon meilleur niveau et gagner. Merci. Et nous espérons que vous rapporterez une médaille des Jeux Olympiques. Qu'apprend-on sur Agnès Dupuis?",
+        "rawFile": "data/tv5monde-44/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "En faisant des bouquets de fleurs."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "En jardinant avec ses parents."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "En prenant exemple sur sa mère."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "En travaillant chez un fleuriste."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-7.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "87",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. J'adore les fleurs. J'adore en avoir chez moi. J'adore en offrir. My mom was her. When I was participated with his parents at seven, she was florist. And it's my mom who made the good flowers. Avec mon père parfois on jardine un peu. On aime bien les rosiers, on a mis plein de rosiers partout chez nous autour de la maison. J'aime bien faire ça. Ça me détend pas mal. Comment est née la passion de cette femme?",
+        "rawFile": "data/tv5monde-44/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle a créé une maison de disques."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Elle a été remarquée par un professionnel."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle a participé à un jeu télévisé musical."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle a remporté une compétition de karaoké."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-8.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "88",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Comment êtes-vous devenue une star? En gagnant un concours de chant? No. At the book I travaillais comme serveuse dans un bar karaoke, and it m'arrives souvent to chanter en rangeant la salle, par plaisir. I ne pensais pas devenir professionnel. Un soir, pensant être seule, Je chantais comme d'habitude, et en fait un ami du patron était resté. Il travaillait pour une maison de disques, et voilà. Et ensuite, vous avez enchaîné les concerts, les émissions de radio et de télévision. Exactement. Comment cette chanteuse est-elle devenue célèbre?",
+        "rawFile": "data/tv5monde-44/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "D'accueillir des hommes politiques étrangers."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "De faire découvrir le quotidien d'un chef d'État."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De mettre en place des visites historiques."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "D'organiser des conférences de presse."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-9.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "89",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le fort de Brégançon est l'une des résidences des présidents de la République française depuis bientôt 5 ans. Et presque dès le début, il a été un objet de curiosité. Effectivement, pas un été sans reportage sur les vacances des présidents de la République au fort de Brégançon. Que ce soit dans la presse magazine ou à la télévision. Tous les Français ont des images en tête. Le président Georges Pompidou fut le premier à comprendre que ce lieu fascinait ses concitoyens. Avec son épouse, Claude, ils décidèrent ainsi en 1970 d'une journée porte ouverte. Comproposait les pompidoux pour la première fois au fort de Brégançon.",
+        "rawFile": "data/tv5monde-44/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "On cherche à l'introduire en Asie."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "On essaie d'étendre son utilisation."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "On l’arrache pour planter des céréales."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "On le cultive pour l'industrie pharmaceutique."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-10.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "90",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le moringa. Moringa olei fera. Pour être exact, un arbre originaire d'Inde, dont les feuilles et les fruits ont depuis toujours été consommés pour leur qualité nutritive. Mais ici en Afrique de l'Ouest on ne le connaît presque pas. Pourtant, Elisabeth travaille main dans la main avec la Croix-Rouge pour expliquer. Comment le cuisiner et l'intégrer à l'alimentation quotidienne. Car dans un pays comme le Togo, où la malnutrition est une réalité trop répandue, le moringa représente une véritable alternative au maïs et au riz. Quand on mange du moringa, on est en meilleure santé parce qu'il contient beaucoup de vitamines qui peuvent nous aider à bien travailler. Qu'apprend-on sur l'arbre cité?",
+        "rawFile": "data/tv5monde-44/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle est le fruit d'un travail d'équipe."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Elle offre une expérience sensorielle complète."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle se déguste en famille ou entre amis."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle s'inscrit dans une tradition régionale ancienne."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-11.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "91",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors monsieur Piège, c'est quoi pour vous le métier de chef? Le métier de chef c'est quoi? C'est le métier de cuisinier en fait. C'est d'abord faire la cuisine et après le métier de chef c'est diriger une entreprise, diriger une équipe pour le plaisir des mangeurs qui sont à table. Convoquer tous les sens au sein d'une assiette, c'est quoi? C'est l'odeur, c'est la vision, c'est la sensation avec le toucher, donc le craquant. Le craquant est quelque chose d'assez important dans ma cuisine où j'essaie toujours d'apporter de la texture, soit par une cuisson, soit par la jonction de quelque chose qui va apporter ce craquant. Qu'est-ce qui fait la particularité de la cuisine de Monsieur Piège?",
+        "rawFile": "data/tv5monde-44/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Pour améliorer les conditions de vie des populations."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour défendre les libertés fondamentales des gens."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Pour favoriser les échanges commerciaux entre pays."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour garantir l’accès à l’emploi aux plus défavorisés."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-12.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "92",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Réunion après réunion, Katharina. Commence par écouter, puis elle oriente la conversation vers ses priorités. Elle cherche à obtenir les informations qui pourront lui être utiles pour la rédaction du rapport final. Il s'agit de vendre un produit. Le droit humain à l'eau et à l'assainissement. Je veux captiver les gens pour qu'ils comprennent, qu'ils soient convaincus, utiliser les droits humains comme cadre de travail pour la question de l'eau et de l'assainissement, par exemple, c'est faire un meilleur travail qui leur permettra. Pourquoi Katharina se bat-t-elle?",
+        "rawFile": "data/tv5monde-44/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Les identités régionales résistent à la mondialisation."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Les paysages français sont transformés par l'économie."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les provinciaux se ressemblent de plus en plus."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Les traditions régionales tendent à disparaitre."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-13.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "93",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Tant de livres pour célébrer la province. Pour célébrer quoi? Les Bretons têtuent, les Auvergniens près de leur sous. Pour souligner la diversity extraordinaire de la France. C'est ce qui fait sa principal richesse. And the character of them vary also in function of their regions. It's very Pierre. A lot of the mondialisation, alone of this? Alright, there's so much brassage of the population. But we have to have a character breton. Tempérament provençal, vous avez des caractères propres aux Savoyards ou aux Berrichons, c'est comme ça et moi et mon étonnement justement c'est que ça persiste encore. Quelle est l'opinion de l'écrivain interviewé?",
+        "rawFile": "data/tv5monde-44/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle a une puissance d’intervention limitée faute de moyens."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle manque de savoir-faire financier pour la levée de fonds."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle peut faire mieux que bon nombre de politiques publiques."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle subventionne l’aide quand les États sont déficients."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-14.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "94",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. L'humanitaire est à la fois une place importante. Dans le cœur des gens, dans le cœur des victimes, aujourd'hui MSF, action contre la faim, handicap international sont reconnus mondialement, mais en même temps, il ne faut pas perdre de vue que les ONG ont une place qui est une place réduite. C'est-à-dire qu'elles n'ont pas les moyens des États. Elles n'interviennent d'autres en fait à dose thérapeutique. And it faut toujours gérer cette image d'un humanitaire qui apparaît comme tout puissant à travers le fait d'être partout dans le monde, mais en même temps. Qui, revenons à la réalité des chiffres, ça ne représente même pas 900 millions d'euros humanitaires français. Quel est le point de vue de l'intervenant au sujet de l'action humanitaire?",
+        "rawFile": "data/tv5monde-44/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Abolir un modèle économique irrespectueux de l'humanité."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Décréter la fin du gaspillage des ressources terrestres."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Déterminer quel usage l’homme souhaite faire de la technologie."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Proscrire le recours aux armes pour régler les conflits."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/943-15.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "95",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Est-ce que la modernité, telle que vous l'étudiez, is compatible with the sauvegarde necessary of the planet. It's a nous devoir. C'est ça l'avenir à faire soi-même. It's really the question. La modernity nous donne des tas de moyens. On a pu imaginer that we oblige à en faire certainement, and notamment des choses pas jolies like la guerre, l'oppression economic. Peut-être que alors we have invented other systems, not literature, that we permit to have d'autres choses beaucoup plus intéressantes, et là on n'est même pas en carrefour, on est devant une mosaïque de carrefour, d'état de choix qui vont nous permettre de décider si cette modernité nous amène à l'extinction de l'espèce. Ou bien si on arrive à faire quelque chose de bien. Que prône le philosophe interrogé pour l'avenir de la planète?",
+        "rawFile": "data/tv5monde-44/q15-parakeet.json"
+      }
+    }
+  ]
+}

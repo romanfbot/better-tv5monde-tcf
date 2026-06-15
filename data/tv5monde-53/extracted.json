@@ -1,0 +1,487 @@
+{
+  "extractedAt": "2026-06-15T20:47:13.154Z",
+  "lotId": 53,
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-1_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "281",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-2_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV408T5510I5700M2850_0.jpeg?itok=47W3uWY1",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "282",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-3_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV408T8411I8629M6185_0.jpeg?itok=2pKcjGG0",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "283",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Appeler un autre numéro."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Appuyer sur la touche 1."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Attendre un moment."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Téléphoner plus tard."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-4_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "284",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Un déséquilibre des naissances."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Un manque d'eau dans les rivières."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Une hausse du nombre de chasseurs."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Une modification de la durée de vie."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-5_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "285",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Dans les pays francophones."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Dans certains pays d'Afrique."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Dans le monde entier."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "En France uniquement."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-6_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "286",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "C'est un produit bon marché."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il est garanti deux ans."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les réparations sont gratuites."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Sa durée de vie est élevée."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-7_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "287",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle est disponible dans plusieurs coloris."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle fonctionne sans courant électrique."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle permet d'écouter des chansons."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle peut être allumée à distance."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-8_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "288",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La fabrication du plastique."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "La sélection des ordures."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le ramassage des poubelles."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Le recyclage du verre."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-9_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "289",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Estimer la valeur d'un meuble."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Fabriquer des meubles de qualité."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Maintenir les meubles en bon état."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Rechercher des meubles anciens."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-10_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "290",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle arrive en dernière position."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Elle change en fonction des sites."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle évolue de façon imprévisible."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle recule selon les statistiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-11_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "291",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La richesse du sol."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Le climat particulier."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les zones ombragées."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "L'exposition au soleil."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-12_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "292",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "À des changements climatiques."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "À des manipulations génétiques."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "À des recherches de botanistes."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "À son cycle de vie particulier."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-13_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "293",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il concerne uniquement les États de l’Union européenne."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Il est en concurrence avec des certifications existantes."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il favorise les groupes agroalimentaires du secteur privé."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il répond à un effet de mode autour des aliments biologiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-14_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "294",
+      "skill": "Compréhension orale"
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Pour concurrencer l'empire britannique."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour démontrer la grandeur de la France."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Pour enseigner la philosophie grecque."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour former des archéologues français."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/408-15_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "295",
+      "skill": "Compréhension orale"
+    }
+  ],
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=53&competence=CO#tcf_header"
+}

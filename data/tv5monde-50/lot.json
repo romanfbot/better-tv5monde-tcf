@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-50",
+  "lotId": 50,
+  "displayNumber": 11,
+  "title": "TV5MONDE TCF training test 11",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=50&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-1.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "201",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Qu'est-ce que vous voulez manger? A. Au restaurant, je préfère. B. Avec mes amis, je crois. C ce soir, vers 20h. D Le plat du jour, s'il vous plaît.",
+        "rawFile": "data/tv5monde-50/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-2.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "202",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Bonjour monsieur, c'est pour un sondage. Qu'est-ce que vous venez voir ce soir? A un aller-retour pour Marseille. B un café avec un verre d'eau. C un film sur la vie de Louis XIV D Une promenade en bord de mer",
+        "rawFile": "data/tv5monde-50/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-3.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "203",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Salut Jeanne, c'est Jérémy. J'organise une soirée chez moi pour vous montrer les photos de mon dernier voyage. Super, tu veux que j'apporte quelque chose pour le repas? Ah? Oui, un bouquet de fleurs. B oui, un film policier C oui, un jeu de cartes D oui, un plat fai maison",
+        "rawFile": "data/tv5monde-50/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-4.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "204",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. La réunion commence dans 5 minutes. Pourquoi est-ce que vous n'êtes pas prêt? A. Parce que j'ai fini depuis longtemps. B. Parce que j'ai rendez-vous dans un instant. C Parce que je cherche encore un dossier. D. Parce que je suis disponible maintenant.",
+        "rawFile": "data/tv5monde-50/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle a une carte d’étudiant."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle choisit l’exposition."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle est venue un dimanche."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle va visiter le musée."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-5.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "205",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour, je voudrais un ticket d'entrée, s'il vous plaît. Pour le musée ou pour l'exposition? Je voudrais voir les deux. Alors, pour le musée, c'est gratuit. Pour l'exposition, c'est 8 euros. Il y a une réduction pour les jeunes ou les étudiants? Non, c'est un tarif unique en semaine. Le dimanche, c'est gratuit. Ah. Je vais voir seulement le musée alors. Très bien. Voilà votre ticket gratuit. Pourquoi la jeune femme entre-t-elle gratuitement?",
+        "rawFile": "data/tv5monde-50/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Organiser une réunion."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Préparer ses vacances."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Rencontrer une journaliste."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Répondre à un questionnaire."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-6.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "206",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Sophie, pourriez-vous réaliser un petit sondage dans le service? Je voudrais savoir quel jour de la semaine prochaine nous pouvons nous voir avec les collègues pour discuter de la nouvelle rubrique Voyage du magazine. J'aimerais que nous en parlions tous ensemble rapidement. Que veut faire cette personne?",
+        "rawFile": "data/tv5monde-50/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle affiche ses couvertures de magazines."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle offre des voyages à ses lecteurs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle organise une fête dans un train."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle présente une exposition de photos."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-7.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "207",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Paris sortir, l'un des magazines parisiens les plus lus à 60 ans. Pour célébrer l'événement, 32 photographies sur l'histoire des voyages en train à Paris sont visibles dans le hall de la gare de Lyon jusqu'au 29 mars. Comment est-ce que la revue À célébrer son anniversaire.",
+        "rawFile": "data/tv5monde-50/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Le jeu des comédiens."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Les applaudissements du public."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les décors de la scène."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Les préparatifs du spectacle."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-8.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "208",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Quel est votre premier souvenir de théâtre? J'ai 10 ans. And my pair a saison at Congo of César. I was enthusiasm by this scene after the debut of the spectacle. I adore watching the action. S'habiller, se maquiller, entendre le public s'installer dans la salle. Qu'est-ce que cette personne a aimé lorsqu'elle est allée au théâtre pour la première fois?",
+        "rawFile": "data/tv5monde-50/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Analyser des problèmes de santé."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Connaître les futurs utilisateurs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Mener une étude socioéconomique."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "S’adresser à un public spécifique."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-9.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "209",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Moi quand j'étais étudiant en design, je me suis fait I'm saying I do design these objects, concevoir these things for these humans. So it's compromised these humans. It's not just like a group of consumers, adolescents, adults, and seniors, que j'essaie de savoir qui ils sont vraiment. Comment ils voient, comment ils entendent, comment ils pensent, comment ils croient. Que veut faire cette personne?",
+        "rawFile": "data/tv5monde-50/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Ils sont conçus pour des spécialistes."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Ils sont destinés au grand public."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Ils sont élaborés pour des adultes."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Ils sont réservés à une élite."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-10.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "210",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Ce qui fait que je me sens passionné pour les dictionnaires. C'est que it's really the trait d'union entre les générations, le trait d'union entre les gens de two niveau culturel, parce que tout le monde consulte le dictionnaire for an orthographe, pour un mot qu'on ne comprend pas. à la fois précis, simple, élégant aussi, des définitions qu'on puisse lire, qui ne soient pas trop jargonnantes. Quel est l'avis de l'intervenant sur les dictionnaires?",
+        "rawFile": "data/tv5monde-50/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle collabore avec des chefs."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle échange avec son personnel."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle s’appuie sur les traditions."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle s’inspire de ses émotions."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-11.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "211",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. L'avantage, moi je ne le situerai pas là, je le situerai dans le fait que moi je suis née dans une I am the quatrième generation of a family of cuisiniers. I'm the jupons of my grandparents and my papa who was chef. And that is a very advantage. In the case, the fact that I have a parcours very traditional. apprentissage du métier fait que je suis quelqu'un de très intuitive. Et ça c'est peut-être un avantage. Parce que c'est vrai que du coup je laisse parler mon cœur avant de laisser parler ma tête, avant de laisser parler la technique. Et ça c'est peut-être intéressant dans mon approche. Comment travaille cette personne?",
+        "rawFile": "data/tv5monde-50/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Éviter d'affronter les problèmes."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Multiplier les défis professionnels."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "S'investir dans des projets variés."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Surmonter les épreuves de la vie."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-12.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "212",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Une bonne nouvelle, c'est le meilleur médicament du monde. Une mauvaise nouvelle... It's the désespoir that's abatted. Tout the both and mauvaise nouvelles that I've had the chance to traversing have been uttered. I mean already at what point the eche are important. Et à quel point les échecs m'ont fait faire plus de progrès que mes succès. Je veux dire que la plus grande université du monde, c'est la souffrance, c'est la sueur, c'est la difficulté. Tout est compliqué avant d'être simple. Qu'est-ce qui a permis à l'intervenant de progresser?",
+        "rawFile": "data/tv5monde-50/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle concurrence les films d'animation."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle est rentable pour les maisons d’édition."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Elle traduit l’état d’esprit de la population."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle voit son succès diminuer à l'étranger."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-13.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "213",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Non moi je pense qu'en fait, effectivement, pour la bande dessinée, il y a un certain nombre d'ingrédients. We retrieve in Belgique. The bande dessinée is a little cinema of poor. And we in Belgique we have petrol, but we have a idea. We are a bit irreverencious, it's right, rebel, we have a lot of imagination and we Sommes surréalistes et donc tous ces ingrédients sont utiles pour faire de la bande dessinée, ce qui explique, à mon avis, cette grande cette grande tradition et aussi toute une série d'auteurs qui ont le mérite d'avoir fait vivre. Que dit l'intervenante? Sur la bande dessinée belge.",
+        "rawFile": "data/tv5monde-50/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il applaudit sa propagation dans le monde."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il constate sa prédominance sur le chinois."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Il conteste son caractère universel."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il défend son usage professionnel."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-14.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "214",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. C'est compliqué à dire parce que d'abord la domination de l'anglais, moi je mets la formule en... cause. L'anglais est omniprésent partout à certains niveaux d'activité. Par contre, quand il s'agit de l'usage spontané par les masses, c'est-à-dire la majorité de la population de la Terre. D'une langue bien maîtrisée, l'anglais is not too dominant. I could promote in China, it's arrived for a journey entire, sending one person who parts anglais. We are angry partout, it's not very On parle anglais partout dans les banques. Quelle est l'attitude de cet intervenant à propos de la langue anglaise?",
+        "rawFile": "data/tv5monde-50/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il atteint une phase critique de développement."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il dispose de facultés d’imagination illimitées."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Il est perméable aux influences de la société."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il se structure différemment de celui des adultes."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1055-15.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "215",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Et une des choses importantes, et qu'on s'est rendu compte depuis quelques années, C'est que le monde extérieur n'est pas comme un film, n'est pas quelque chose d'extérieur à nous, but au contraire, c'est quelque chose that notre cerveau vit d'une façon presque hallucinée. The images du monde extérieur s'incarnent en nous. J'entendais tout à l'heure que l'adolescent était comme autiste au monde. Pas du tout. L'adolescent au contraire est hypersensible au monde. Et du coup, il est obligé de compartimenter, de faire des cases, de ranger des choses, de faire des priorités. Le rôle des parents, finalement, c'est peut-être d'ouvrir des portes et de permettre à l'adolescent de se construire, de continuer à se construire. Que mentionne ce chercheur à propos du cerveau des adolescents?",
+        "rawFile": "data/tv5monde-50/q15-parakeet.json"
+      }
+    }
+  ]
+}

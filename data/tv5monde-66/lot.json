@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-66",
+  "lotId": 66,
+  "displayNumber": 14,
+  "title": "TV5MONDE TCF training test 14",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=66&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-1.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV41T3739I3869M2463.jpeg?itok=vWoG1eHe",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "521",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. Nous commençons la visite du centre-ville. B. On m'a volé mon parapluie. C. Quel temps magnifique! D. Vous pouvez monter dans la voiture.",
+        "rawFile": "data/tv5monde-66/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-2.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV41T3735I3865M2452.jpeg?itok=LqFocEJ6",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "522",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. Votre coiffure est presque terminée. B. Votre commande est déjà arrivée. C. Votre rendez-vous de demain est annulé. D. Votre robe est bientôt prête.",
+        "rawFile": "data/tv5monde-66/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-3.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV41T3744I3874M2488.jpeg?itok=lSCWZKEj",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "523",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. J'ai acheté des fruits. B Euh Je n'ai plus rien à vendre. C Je ne fais pas les marchés. D. Je vous conseille ces légumes-là.",
+        "rawFile": "data/tv5monde-66/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-4.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV41T3748I3878M2496.jpeg?itok=8fe2nGQV",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "524",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A quelle heure commence la soirée? B Comment seras-tu habillé pour la fête? C. Où se trouve le rayon musique? D. Vous venez souvent danser ici?",
+        "rawFile": "data/tv5monde-66/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle a suivi des cours particuliers."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle a changé de collège."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Elle a passé un test."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle a redoublé une classe."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-5.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "525",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. La femme qui s'occupe des évaluations nous a dit que... Khibba had a petit problème avec la compréhension des questions and a eu du mal à comprendre quelques questions, pas la totalité. Ils vont nous rappeler pour dire pour nous envoyer à une école qui est tout près. Qu'apprend-on, Suriba?",
+        "rawFile": "data/tv5monde-66/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "D’assister à des émissions."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De participer à des concours."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "De proposer des sujets."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "De réaliser des films courts."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-6.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "526",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Merci professeur. Une émission qui raconte l'histoire d'un mot ou un peu. qui explique un point de grammaire. C'est une émission quotidienne. J'ai donc besoin d'une idée par jour. Posez-moi vos questions sur tv5.org, par courriel ou par cybercaméra, ce que certains palutent. Webcap. Je vous répondrai. Je peux. Oh, merci. Merci. Qui? Merci, professeur. Que demande le présentateur au public?",
+        "rawFile": "data/tv5monde-66/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Fabriquer un aliment."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Posséder une ferme."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "S’occuper des animaux."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Travailler sur un écran."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-7.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "527",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Ce qui est fantastique dans ce métier, c'est qu'on voit ce qu'on crée, c'est-à-dire If I was a bureau two months via an ordinary, I cried. I live the matter, I part of a product. We arrive at the product, we don't have an exploitation, it's not evident. But we are a product, we have another product, we valorise. On crée quelque chose. Tous les jours on crée quelque chose et on amène quelque chose aux gens. Sa fierté, c'est son fromage. L'artisan. Qu'est-ce que l'intervenante apprécie dans son métier?",
+        "rawFile": "data/tv5monde-66/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle a pour sujet l’éducation des enfants."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Elle est animée par des étudiants."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle offre des interviews de professionnels."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle propose des émissions ludiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-8.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "528",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Modu prend son rôle très au sérieux. Aujourd'hui il s'exerce à présenter le journal télévisé. de la toute nouvelle chaîne Téléécole. Au programme des émissions éducatives, littérature, histoire, sciences. C'est important de transmettre des informations concernant l'éducation via Padligette. Parce qu'on partage le même langage et on nous comprend bien, entre jeunes, on se comprend bien. Aux manettes de cette télé, des étudiants uniquement. Ils sont quand même encadrés par des professionnels, des passionnés qui aiment avant tout transmettre. Quelle est la particularité de cette chaîne de télévision?",
+        "rawFile": "data/tv5monde-66/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Ils sont appréciés par les sportifs de haut niveau."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Ils sont fabriqués à partir de vieux vêtements."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Ils sont faits pour éviter les coups de soleil."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Ils sont imaginés par des couturiers brésiliens."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-9.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "529",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Au Brésil, Lionel possède sa propre société, dans ce drôle d'immeuble de San Paolo. C'est sa petite entreprise. Donc voilà, la boutique OVLine, la première, toute première. Ici on vend des chemises, des robes, des chapeaux, toutes sortes d'accessoires. A priori, rien de révolutionnaire, a priori seulement. Nos produits filtrent au moins 98% de la radiation EV. Donc il y a du t-shirt un petit peu sport. Et oui, les vêtements de Lionel protègent du soleil, des rayons ultraviolets. Le tout grâce à un traitement spécifique. Un vêtement santé et pour le style, direction le sous-sol. Quelle est la spécificité des produits créés par Lionel?",
+        "rawFile": "data/tv5monde-66/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "L’influence de son père."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Les conseils d’un professeur."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Sa facilité à mémoriser un texte."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Sa passion pour Tchékhov."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-10.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "530",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Il m'avait dit non, je pense que he avait déjà monté l'ours de Tchekov à an exercice d'élèves. Il m'avait dit Si j'étais vous, eh ben j'tenterais peut-être ma chance au théâtre. I me présentera au conservatoire. Je rentre à Paris, I mean I présente au conservatoire, je suis prix élève, je suis pris comme stagiaire at the Comédie Française. Mon père a dit it's very facility incroyable. Well, I démarrent. Qu'est-ce qui a poussé cet homme à faire du théâtre?",
+        "rawFile": "data/tv5monde-66/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Les besoins croissants en production de miel."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "L’absence de prédateurs en milieu urbain."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "La faible utilisation de substances chimiques."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Les aménagements prévus par la municipalité."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-11.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "531",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Les ruches citadines se multiplient un peu partout dans le monde. And Paris n'échappe pas à la règle. On en trouve partout, sur les bâtiments les plus prestigieux de la capitale, but also chez de simples particuliers. Parce qu'ils sont à l'abri des pesticides and other engrais, les abeilles ont fait des villes un de leurs. Terrain de butinage favori et c'est tant mieux car il y a urgence. Je chapitre Twitter depuis 1960. Des abeilles, on en perd, disons, une colonie ou deux chaque année. Mais depuis trois ans... Chaque année, c'est un tiers de mon chepelle qui meurt. C'est pas normal. Qu'est-ce qui facilite l'installation de ruches en ville?",
+        "rawFile": "data/tv5monde-66/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il a été pensé par des femmes."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il a soutenu une usine écologique."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le gouvernement français le finance."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Les habitants y participent."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-12.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "532",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Zazou, c'est le terme mauritanien pour désigner le plastique. C'est aussi un nouveau moyen de gagner un peu d'argent pour certains habitants de Noixchot. La municipalité rémunère désormais la collecte des matières plastiques, un projet social et écologique initié par une ONG française qui sous traite à des coopératives de femmes. Qu'apprend-on au sujet du projet Zazou?",
+        "rawFile": "data/tv5monde-66/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Il reste optimiste quant à son impact sur le papier."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il se réjouit de ses retombées sur les jeunes lecteurs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il souligne ses avantages pour les bibliothèques."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il vante son rôle dans la conservation d’ouvrages."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-13.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "533",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors on entend beaucoup dire que la numérisation c'est la fin du livre. papier à la fin des bibliothèques. A mon avis, c'est une faribole. Car on peut dire au contraire qu'accéder à plus de livres par l'intermédiaire de son ordinateur, c'est d'avoir envie d'autres livres sous forme papier. Le toucher du livre, l'odeur du livre. Vous savez bien que l'odeur du livre, c'est très important. Nous avons tous le souvenir de lecture qui reste attachée à une certaine senteur d'un ouvrage. Je n'ai pas besoin de plaider pour le maintien du livre papier. Il va durer. Que pense la personne interviewée? De la numérisation du livre.",
+        "rawFile": "data/tv5monde-66/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Des classes à effectif réduit."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Des mesures contre les inégalités."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "L’autonomie dès le plus jeune âge."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "L’investissement des parents."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-14.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "534",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Il faut une politique d'investir dans l'enfant. Vous avez parlé du cercle investir dans l'enfant. C'est-à-dire que chaque enfant puisse à la fois, quelle que soit sa situation familiale, famille aisée, famille pauvre, famille cultivée, famille moins cultivée, famille monoparentale, famille... que tous ces enfants... qui ont chacun un trésor en eux-mêmes, puissent avoir les mêmes chances, par une combinaison de l'aide à l'enfant et de l'aide aux familles, et de notre école maternelle, qui est d'ailleurs très bonne. Puis ensuite, il s'agit pour l'école. primaire et l'école secondaire de prévoir des possibilités de discrimination positive dans les milieux où l'échec scolaire est le plus important.",
+        "rawFile": "data/tv5monde-66/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Ils dépendent de la croissance des pays."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Ils doivent avoir une portée internationale."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Ils influencent les résultats des votes."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Ils participent des avancées d'une nation."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/41-15.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "535",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Tout d'abord notre première illustration de sujets à propos des médias. The médias responsables et indépendants sont évidemment un prérequis de ce juste État. Sur le garant d'élections libres, d'un système politique, économique et administratif responsable, d'une démocratie vivante. d'une société de progrès, en un mot, qu'ils permettent de faire progresser le développement. Je souhaite de toutes mes forces que ces travaux puissent nous conduire à l'élaboration d'une charte commune. qui fixerait les droits et les devoirs d'une presse libre garantie par des États de droit. Voilà, c'était donc Louis Michel, le commissaire européen au développement, lors d'une réunion en septembre dernier, même d'un sommet de l'Union africaine. et il s'est exprimé à travers à propos des médias. Que pense Louis Michel des médias?",
+        "rawFile": "data/tv5monde-66/q15-parakeet.json"
+      }
+    }
+  ]
+}

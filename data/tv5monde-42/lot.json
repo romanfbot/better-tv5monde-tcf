@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-42",
+  "lotId": 42,
+  "displayNumber": 8,
+  "title": "TV5MONDE TCF training test 8",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=42&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-1.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "1",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Et toi alors, comment est-ce que tu as fait? Que tu vas au lycée le matin? A. Je commence tôt. B. Je pars à 8h. C. Je prends le bus. Des je rentre seul.",
+        "rawFile": "data/tv5monde-42/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-2.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "2",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. J'ai oublié ma montre. Est-ce que vous êtes en train de faire une Est-ce que vous avez l'heure, s'il vous plaît? A. Oui, il dure 45 minutes. B Oui, il est midi moins 20. C oui, il ferme à dix-sept heures. D. Oui, il part dans vingt minutes.",
+        "rawFile": "data/tv5monde-42/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-3.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "3",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Ton père est professeur de mathématiques? Alors il t'aide peut-être pour faire tes devoirs? A. Au contraire, il a le temps. B. Désolé, j'ai beaucoup de travail. C mais non, je travaille toute seule. D Pas du tout, il explique très bien.",
+        "rawFile": "data/tv5monde-42/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-4.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "4",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Pierre a réussi son bac. On organise une fête pour lui dimanche? A. Oui, c'est une excellente idée. B. Oui, j'adore aller au spectacle. C oui, j'aime beaucoup le week-end, oui, c'est pour son anniversaire.",
+        "rawFile": "data/tv5monde-42/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Il apprécie ses nouveaux collègues."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il espère une promotion rapide."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il gagne plus d’argent qu’avant."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il préfère son ancien poste."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-5.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "5",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Tiens, Martin, quelle surprise! Il y a longtemps que je ne t'ai pas vu. C'est normal. Tu sais, j'ai trouvé du travail à Nice. Super! La mer, le soleil, c'est mieux qu'à Paris, non? C'est sûr. Mais... Je suis un peu stressé par mes nouvelles tâches. Et le salaire, ça va? Je suis moins bien payé, mais les gens avec qui je travaille sont très sympas. Allons prendre un verre. Tu me raconteras tout ça en détail. Qu'apprend-on sur le nouveau travail de Martin?",
+        "rawFile": "data/tv5monde-42/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Que c’est envisageable d’habiter seul sur une île."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Que c’est faisable de travailler loin du bureau."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Que c’est possible de vivre avec des animaux dangereux."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Que c’est réalisable de créer son entreprise."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-6.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "6",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. C'est un vendredi que Gauthier Tout-Monde a débarqué sur son île déserte. Un îlot de 300 mètres sur 700 avec une jungle très dense qui abrite des gros lézards et des serpents. Gauthier Tout-le-Monde, patron d'une société d'édition, a décidé de vivre seul, quelque part du côté de Sumatra, loin de son bureau pour le sous-métro. Pour faire la démonstration que travailler à distance est possible. Un ami l'a accompagné pour installer le matériel informatique et les transmissions pour qu'il puisse communiquer avec son bureau parisien. Que veut démontrer Gauthier Tout-Londe?",
+        "rawFile": "data/tv5monde-42/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle étudie les sciences à la Sorbonne."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle organise son voyage en Europe."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle profite de ses vacances au soleil."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle révise la biologie pour un examen."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-7.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "7",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour Hélène Ravie de vous accueillir avec avec Julien. Hélène, vous entrez tout juste en faculté à la Sorbonne. Quelle spécialité? Biologie. Biologie, ce qui veut dire que vous avez obtenu il y a quelques mois un bac S, je suppose. Exact. Oui. Les vacances se sont bien passées. Avez-vous eu le temps de vous reposer? Absolument. C'était mérité cette année particulièrement. Qu'avez-vous fait pendant ces deux mois, deux mois et demi de vacances au moins? et la République tchèque. Est-ce que vous êtes partis avec des amis? Non, juste la famille. Juste la famille, très bien. Que fait Hélène actuellement?",
+        "rawFile": "data/tv5monde-42/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Pour avoir de longues vacances."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour pouvoir adopter des enfants."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Pour recevoir des aides financières."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Pour tous obtenir les mêmes droits."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-8.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "8",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Les papas sont dans la rue. Ils voudraient que tous les pères d'Europe... Impair belge a droit à 10 jours, mais il n'est pas payé à 100%. Impère allemand, lui, n'a rien. Pour quelles raisons les pères manifestent-ils?",
+        "rawFile": "data/tv5monde-42/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle coûte moins cher."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Elle est adaptée au climat."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle est ramassée en hiver."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle vient de la région."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-9.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "9",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Ici pousse une olive bien particulière. Nous sommes très fidèles à la glande eau. La glande eau est une variété typique d'ici. Elle a deux avantages pour nous. Elle résiste bien au gel parce qu'il fait froid. On est dans des vergers d'altitude. et elle résiste bien au vent, c'est-à-dire que l'olive est bien accrochée sur l'arbre et les jours de Mistral, on n'a pas la récolte par terre au vrai. Pourquoi ce producteur a-t-il choisi cette sorte d'olive?",
+        "rawFile": "data/tv5monde-42/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Du fond documentaire de TV5MONDE."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "D'un site consacré à l'histoire littéraire."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "D'une collection de livres français."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "D'une sélection personnelle d'ouvrages."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-10.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "10",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. La bibliothèque idéale, qui en l'occurrence porte mon nom puisque... On m'a fait cet hommage et cette fleur, cette gentillesse, que d'avoir l'idée de me demander ce que seraient au fond mes titres préférés. Alors on a commencé par Atisse et Large, c'est la bibliothèque idéale d'Olivier Barrault, en langue française, évidemment. Nous sommes sur TV5 Monde et cette bibliothèque idéale comprend une centaine de titres, pour un grand nombre d'entre eux, venus de France et également de l'ensemble des pays qui s'expriment majoritairement ou partiellement en français. La période envisagée, c'est finalement de la chanson de Roland à nos jours, c'est-à-dire mille ans de littérature en langue française. De quoi est composée cette bibliothèque?",
+        "rawFile": "data/tv5monde-42/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle assure leur production."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle étudie leur réalisation."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Elle organise leur promotion."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle s'occupe de leur achat."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-11.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "11",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Et votre mission donc c'est de défendre le cinéma français, le faire découvrir, c'est ça? Oui, le faire découvrir, les exportateurs sur les grands marchés internationaux comme Berlin, Hong Kong, Los Angeles, Cannes bien sûr qui est le premier et Toronto, mais aussi montrer à la fois dans les festivals internationaux et dans les festivals que nous organisons, les films français dans leur diversité. Que fait cette personne pour les films français?",
+        "rawFile": "data/tv5monde-42/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "De falsifier les étiquettes de leurs produits."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "De planifier la vente de produits médiocres."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De vendre des produits à des prix élevés."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "D'utiliser des produits nocifs pour la santé."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-12.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "12",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le Parlement européen a également voté contre certaines pratiques qui pourraient être en train de se faire. Je pense notamment at that call à viande qui était reclamée par l'industrie agroalimentaire. Ce n'est pas possible, nous voulons des denrées de bonne qualité. De quoi cette femme accuse-t-elle les entreprises agroalimentaires?",
+        "rawFile": "data/tv5monde-42/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Pour contrôler les ventes d’œuvres d’art sur le marché mondial."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour faire découvrir la diversité des collections des bibliothèques."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Pour permettre d’avoir accès à la culture par des voies multiples."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour simplifier l’accès aux œuvres littéraires peu connues."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-13.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "13",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Découvrez la joker. En évitant les files d'attente, retrouver en un clic une œuvre de Mozart ou accéder à l'intégralité des écrits de Victor Hugo, c'est désormais possible grâce à Europeana, la bibliothèque numérique européenne disponible sur Internet. Pourquoi avons-nous pris l'initiative de ce projet d'Europeana? Parce que Google a annoncé à son de trompe, en décembre 2004, son intention de faire une bibliothèque numérique universelle. C'était à certains égards magnifique. Cela nous rappelait que Internet est un cadeau splendide pour la diffusion de la culture. Et en même temps, l'idée de monopole nous paraissait insupportable. Il faut la diversité culturelle, là comme ailleurs. Pour quelles raisons a-t-on créé le site Europeana?",
+        "rawFile": "data/tv5monde-42/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "De redécouvrir l'œuvre de l'écrivain."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De renouveller le genre romanesque."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "De resituer le récit dans son époque."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "De souligner des évènements historiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-14.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "14",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Et nous recevons ce matin le dessinateur Stéphane Heet. Bonjour. L'univers de Proust en livres n'est pas très accessible, n'est pas facile d'accès. Quelle est, selon vous, la valeur ajoutée de la bande dessinée? It's certainly plus facile to mémoriser un texte quand il est associé à une image. Selon Stéphane Huet, que permet l'adaptation en bande dessinée d'un roman de Proust?",
+        "rawFile": "data/tv5monde-42/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Il les considère comme un patrimoine commun."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il les modernise avec de nouveaux personnages."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il refuse de les modifier par respect des auteurs."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il s’en inspire pour écrire des pièces futuristes."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/622-15.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "15",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Mon but était d'adapter tous les comptes de Grimm, les 350 comptes de Grimm. Mais pour ça, il me faudrait, je crois, cinq vies ou six vies. Puis j'ai pris du retard, puisque j'en ai fait que trois en dix ans. Mais c'est certain, je continuerai, je veux continuer. cette aventure avec les frères Grimm parce que étrangement en adaptant entre guillemets les frères Grimm je fais mon œuvre donc c'est ainsi la littérature n'est jamais qu'un palimceste et puis les frères Grimm eux-mêmes n'ont pas inventé Ces textes-là, ils nous appartiennent, ils appartiennent à l'inconscient collectif, à l'inconscient européen. Quelle relation ce metteur en scène entretient-il avec les contes des frères Grimm?",
+        "rawFile": "data/tv5monde-42/q15-parakeet.json"
+      }
+    }
+  ]
+}

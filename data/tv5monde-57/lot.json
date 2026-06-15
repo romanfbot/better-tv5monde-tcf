@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-57",
+  "lotId": 57,
+  "displayNumber": 2,
+  "title": "TV5MONDE TCF training test 2",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=57&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-1.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV200T4901I5063M2881.jpeg?itok=28I13yaY",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "401",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. A toi de jouer, Paul. B Bon appétit, jeune homme. C Bonjour, messieurs. D. Excusez-moi, garçon.",
+        "rawFile": "data/tv5monde-57/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-2.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV200T4900I5062M2866.jpeg?itok=5rhRqLuf",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "402",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. Vous avez la réduction étudiant? B. Vous faites les paquets cadeaux? C. Vous prenez les tickets restaurants? D. Vous vendez le magazine Telerama?",
+        "rawFile": "data/tv5monde-57/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-3.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV200T4905I5067M2862.jpeg?itok=qB0PX7ji",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "403",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. Ah! Bien sûr, je suis en colère. B. Bonne nuit, fais de beaux rêves. C. Tiens, va t'acheter une glace. D. Voilà, c'est ta petite sœur.",
+        "rawFile": "data/tv5monde-57/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-4.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV200T3742I3872M2485.jpeg?itok=pOqDXlYn",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "404",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. À quelle heure allez-vous déjeuner? B. Où se trouve la cabine d'essayage? C. Pouvez-vous m'indiquer la sortie? D. Quelle est la matière de ce tissu?",
+        "rawFile": "data/tv5monde-57/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "De sensibiliser les enfants à l'environnement."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De rédiger des guides pédagogiques."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De proposer des sorties éducatives."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "De cuisiner avec des produits biologiques."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-5.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "405",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Décisant, on peut faire des expériences. Ecologique, rigolote. Récupérer des feuilles utilisées, les recycler et créer son propre papier. Facile avec une bassine, un mixer, de l'eau et un tamis. Fabriquer son propre jeu de loi écolo ou apprendre à relever les empreintes des animaux. Quinzaine d'idées simples à réaliser pour s'amuser en respectant la nature. Que propose cette journaliste?",
+        "rawFile": "data/tv5monde-57/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle exploite des vignes."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle enseigne le français."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle étudie la sécheresse."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle vend des vins étrangers."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-6.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "406",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. La campagne australienne, son caractère rude, Son atmosphere fermière, his vignobles perfectly soigné. It's the decor of the view of Céline Rousseau. In the France had decided to produce a vinegar in the collines des Hill Tops. A region souvent hostile. La sécheresse menace les récoltes chaque année. Au petit matin, il fait encore frais dans les vignes. Mais dans quelques heures, la température atteindra les 40 degrés. Quelle est l'activité de Céline Rousseau?",
+        "rawFile": "data/tv5monde-57/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Se promener dans la nature."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Observer les insectes des bois."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Continuer son entraînement."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Contempler le lever du soleil."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-7.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "407",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Guy Martin aime faire corps avec le cheval. Il est passionné de dressage. Le week-end il monte à cheval pour se ressourcer. La balade, ce sont des moments hors du temps parce que je monte dans des forêts immenses avec des allées cavalières, il y a des chevreuils, j'ai vu des portées de sangliers, des lapins. des renards, enfin ce sont vraiment des moments magiques, ce sont des moments où vraiment vous êtes seul avec votre cheval. Qu'est-ce que Guy Martin apprécie le week-end?",
+        "rawFile": "data/tv5monde-57/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Un concours de cuisiniers amateurs."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Un grand rassemblement d’artistes."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Une fête autour de l’alimentation."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Un repas gratuit offert par la ville."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-8.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "408",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Nous sommes dans une manifestation qui s'appelle le Festin de Rabelais. Première édition de cette manifestation. Et le festin de Rabelais, ce sont des artisans, ce sont des producteurs, ce sont des chefs qui proposent leurs produits au public et le public vient et on ne fait goûter ces produits. Nous aussi on va goûter ces produits. Qu'est-ce que le festin de Rabelais?",
+        "rawFile": "data/tv5monde-57/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle intéresse un bon acheteur."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle coûte cher à entretenir."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Elle lui est désormais inutile."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle doit être entièrement rénovée."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-9.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "409",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. C'est une drôle d'annonce que relaient nos confrères de TeraEco. En Norvège, cette plateforme pétrolière est à vendre. Le prix, une couronne symbolique. Son propriétaire, la compagnie norvégienne Statoil, vante ses 20 chambres avec vue imprenable sur la mer. La multinationale souhaite s'en débarrasser car le gisement de pétrole est épuisé, un exemple de la difficulté à recycler ces plateformes alors que les pétroliers prospectent aujourd'hui dans le cercle polaire. Pourquoi la compagnie Statoil vend-t-elle sa plateforme pétrolière?",
+        "rawFile": "data/tv5monde-57/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Les autres langues sont en déclin dans la ville."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle représente l’élite de la population."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "On l’associe encore au courant romantique."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle permettrait d’accéder au marché du travail."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-10.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "410",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Dans les années 90, la transition se traduit notamment par la montée de l'anglais. Suprématie aujourd'hui confirmée, mais la tendance se nuance. Avec près de 50 000 élèves à Saint-Pétersbourg, le français résiste bien, un peu derrière l'allemand. Parmi la vingtaine d'écoles spécialisées, ce lycée bilingue, fondé en 1994, établissement d'élite, Près de 700 élèves pour qui notre langue est plus un moyen d'accès à l'Europe qu'un souvenir romantique. Le français reprend ses positions, on peut le dire. Parce que et surtout c'est à Saint-Pétersbourg. Mais pas seulement la culture, aussi il y a beaucoup d'entre eux. Et ça aussi ce sont des débouchés pour nos jeunes. Selon ce reportage, comment s'exprimer? explique la popularité de la langue française à Saint-Pétersbourg.",
+        "rawFile": "data/tv5monde-57/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Sélectionner des documentaires amateurs."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Faire découvrir des films bilingues."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Distribuer des œuvres pour jeune public."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Révéler des cinéastes du monde entier."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-11.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "411",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors il y a des courts-métrages, il y a des moyens métrages, il y a donc des longs métrages, il y en a 7 qui sont en compétition parce que maintenant. Alors part of the films. Qui viennent de quel continent? Est-ce qu'il y a Amérique, Asie, Europe. Donc ce n'est pas les cinq dans les longs métrages. Par contre, sur l'ensemble de la sélection de la semaine, les cinq continents sont représentés. Quel est l'objectif de ce festival?",
+        "rawFile": "data/tv5monde-57/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "La société de consommation déforme la conception du bonheur."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La tendance française est à la recherche d’un progrès écologique."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le bonheur reste indissociable du développement économique."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Les prochaines générations doivent porter le retour à la morale."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-12.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "412",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. On consomme énormément, on use les ressources, on pollue la terre, il faut arrêter. for the generation future, but it's not arrêting to be consummators irresponsable, to vivid superflu, to vivid, to vivid. Tout that is not necessary, not non plus necessary au bonheur, parce que The bonheur is by the quality of the view, it's by the quality of the view, and the progress human is evidently the progress moral. This is the very famous progress economic. du progrès écologique et du progrès humain. Quelle est la thèse défendue par ce spécialiste?",
+        "rawFile": "data/tv5monde-57/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Ils adoptent des habitudes totalement nouvelles."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Ils émigrent généralement vers les pays européens."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Ils se classent parmi ceux qui s’expatrient le plus."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Ils se comportent comme leurs voisins italiens."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-13.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "413",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. 2 300 000 Français aujourd'hui expatriés. C'est peu, si j'ose dire, par rapport aux quelques cinq millions d'Italiens vivant hors de la péninsule italienne. Ceci étant, depuis une vingtaine d'années, je ne dis pas que nous comblons notre retard, mais nous avons des taux d'expérience. très fort, près de 4% en moyenne depuis 1988-89, chaque année. Les tendances varient mais les habitudes demeurent. L'Europe proche accueille encore la majorité des Français recensés. Seuls les États-Unis entrent dans le top 5 des pays où leur présence est la plus forte. Quelle est la tendance des Français en matière d'expatriation?",
+        "rawFile": "data/tv5monde-57/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle doit être accessible sur tout le territoire."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle doit être gratuite pour tous les citoyens."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle doit favoriser l’apprentissage des coutumes."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle doit représenter l’ensemble de la population."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-14.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "414",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Je pense que probablement pour des raisons objectives et financières. L'on a pensé dans certains États où il y avait une multitude d'ethnies et de tribus, de langues et de dialectes, qu'il valait mieux prendre le français comme le dénominateur commun. Mais il est vrai que si une télévision veut être nationale, parce qu'on a parlé au début de la télévision nationale, une télévision nationale, c'est une télévision où la nation se reconnaît. Absolument sur le plan linguistique et sur aussi dans ces différentes catégories, à savoir le troisième âge, les handicapés, les femmes, les jeunes, etcetera. Je pense qu'une vraie télévision nationale doit pouvoir rendre compte de toutes les réalités de la nation au sens linguistique. Au sens ethnique, au sens géographique. Quel est le point de vue de la personne interrogée à propos de la télévision nationale?",
+        "rawFile": "data/tv5monde-57/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Les articles font largement appel à des études statistiques."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Les événements sont présentés de façon approfondie."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les faits divers de l’année écoulée y sont mis en avant."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Les thèmes abordés sont choisis par des pédagogues."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/200-15.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "415",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. C'est un grand plaisir pour moi chaque année de travailler avec une petite équipe. And to reflect at what we're making, what we've got to play. And we commence evidently by penchant on the actual day. What has marked the actual Quebec, what's been the object of debate, what has created the polemic. And we cherry to identify the And it's that we construct a table of matters. On essaye de, par la publication L'État du Québec, de montrer quelles sont les grandes tendances sociales à l'œuvre. La particularité de cette publication.",
+        "rawFile": "data/tv5monde-57/q15-parakeet.json"
+      }
+    }
+  ]
+}

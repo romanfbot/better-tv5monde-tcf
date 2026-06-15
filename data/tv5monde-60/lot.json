@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-60",
+  "lotId": 60,
+  "displayNumber": 13,
+  "title": "TV5MONDE TCF training test 13",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=60&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-1_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "481",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Votre passeport, s'il vous plaît. Quelle est votre destination? A j'aime les États-Unis. B je suis français. C Je vais à New York. D J'habite à Lyon.",
+        "rawFile": "data/tv5monde-60/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-2_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "482",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. J'ai fini mon livre, je n'ai plus rien à lire. Si tu vas à la bibliothèque, est-ce que tu pourrais me prendre un roman d'amour? A bien sûr. Je te prête ma carte. B D'accord, je vais choisir une belle histoire. C oui, ils ont beaucoup de journaux. D? Parfait, j'irai l'acheter demain.",
+        "rawFile": "data/tv5monde-60/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-3_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "483",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. L'anniversaire de Camille est vendredi prochain à 21h. Je ne sais pas du tout comment m'habiller. Tu as une idée? A. Achète-lui un cadeau. B. Pars en même temps que moi. C. Porte ce que tu aimes. D. Prends plutôt le métro.",
+        "rawFile": "data/tv5monde-60/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-4_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "484",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Excusez-moi, vous savez à quelle heure passe le buste? 37 A. Oui, il arrive dans deux minutes. B. Oui, il circule aussi le dimanche. C oui, il s'arrête à côté de la mairie. D? Oui. Il va en direction de l'hôpital.",
+        "rawFile": "data/tv5monde-60/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La famille."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La santé."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "L'argent."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Le sport."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-5_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "485",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Tu es en forme? Quel est ton secret? Je prends des cours de gym. Ça t'intéresse? Pourquoi pas? Mais je dois trouver quelqu'un pour garder les enfants. Tu y vas souvent? Deux fois par semaine, le lundi et le jeudi à 19h, et c'est 10 euros la séance. Viens avec moi la prochaine fois, tu pourras essayer. Quel est le thème de la conversation?",
+        "rawFile": "data/tv5monde-60/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Boire de façon modérée."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Élaborer des recettes spéciales."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Manger selon ses envies."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Préférer des plats équilibrés."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-6_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "486",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors, juste avant les repas de réveillon, dernier petit conseil, avant... Pendant, what's the consequence? Pendant I consecution because it's the fit and people profit. But after it will certainly have attention to diminutional consumation of alcohol, pass them to low, and diminute also his quantity. Selon cette personne, que doit-on faire pendant les fêtes?",
+        "rawFile": "data/tv5monde-60/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il a arrêté la danse."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Il a créé sa compagnie."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il a dirigé une usine."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il a vendu son entreprise."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-7_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "487",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Voici donc Farid. Il est chorégraphe et possède sa propre compagnie. J'enseignais la danse. Là je gagnais bien ma vie. Et du moment où j'ai commencé à faire de la chorégraphie, ce n'était pas la même chose. Et vivre de la danse, ça a été très dur et très long. Je travaillais à l'usine et j'avais ma pratique en parallèle. Avoir une compagnie, c'est aussi faire du management, c'est-à-dire gérer des équipes. C'est aussi une entreprise, donc il faut gagner de l'argent, il faut pouvoir payer les gens correctement. Qu'explique Farid?",
+        "rawFile": "data/tv5monde-60/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Le nombre de visiteurs annuel augmente."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Le prix des billets proposé est trop élevé."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le système de sécurité est peu efficace."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Le temps d’attente à l’entrée diminue."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-8_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "488",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le Grand Louvre avait été Imaginez, organisé for 5 millions de personnes par an. Or cela fait déjà 3 ans que l'on dépasse à Paris la barre des 9 millions. Conclusion, il va falloir améliorer l'accueil du public with a mode ordre précis. Plus, c'est qu'il faut faire mieux que ce soit dans les files d'attente, dans la billetterie, dans la restauration ou encore dans le système de circulation du public, dans les quelques 404 salles de ce qui est le musée le plus visité du monde. Qu'apprend-on sur le musée du Louvre?",
+        "rawFile": "data/tv5monde-60/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "De l’anniversaire de l’indépendance du Niger."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De l’élection du dirigeant du pays."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "De la création de la Francophonie."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "De l'utilisation officielle du français en Afrique."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-9_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "489",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. L'histoire ne l'a pas vraiment retenue. La francophonie a aujourd'hui 40 ans. Mais qui sait vraiment quelle est née au Niger? Le 20 mars 1970 pourtant, 21 États et gouvernements se réunissent ici, à l'Assemblée nationale de Niame. C'est le président nigérien Amanidori qui dirige la réunion. Mesdames et Messieurs, en souhaitant la bienvenue au Niger, je déclare ouverte la deuxième conférence des pays entièrement ou partiellement de langue française. De quoi parle ce reportage?",
+        "rawFile": "data/tv5monde-60/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Bien respirer en faisant du sport."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Mesurer la qualité de l'air ambiant."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Prévenir les pics de pollution."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réduire les problèmes de souffle."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-10_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "490",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Vous vous intéressez précisément à ces problèmes de mesure de la Pollution, alors we have prepared notamment an product, an approach that we transport sur soi in permanence, is that de many to respire. In fact, plus generally Plume Labs, it's a great startup parisien. The pollution in the village already is an enjecation of sant major, it's also an enjecation of bien-être for those who don't care, for those who don't courir en ville, se déplacer, et ça devient en fait une forme d'épidémie. Que permet l'appareil proposé par l'entreprise Plume Labs?",
+        "rawFile": "data/tv5monde-60/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "D’étendre la surface des territoires dédiés."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De limiter peu à peu l’utilisation des éoliennes."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De mutualiser les ressources mondiales."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "De tenir compte des particularités locales."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-11_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "491",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le monde dont je rêve c'est un monde. différent dans la production énergétique que celui qu'on a connu. C'est-à-dire que ce n'est pas de la production de masse. Le monde dont je rêve, c'est un mixte énergétique et puis d'user selon les territoires, leurs particularités. De faire appel à l'hydraulique quand on a la possibilité, à l'éolien, bien entendu, au solaire quand on est dans des régions qui le permettent. territoire et c'est pas non je ne fais pas partie de ces personnes qui pensent que la solution c'est de planter des grands champs d'éolienne et de tout mettre sur l'éolien. Que propose l'intervenante au sujet de la production d'énergie?",
+        "rawFile": "data/tv5monde-60/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle favorise la mobilité avec l’Europe."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle freine les flux migratoires venus du sud."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle résiste aux influences méditerranéennes."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle s’enrichit grâce à sa zone portuaire."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-12_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "492",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Elle est méditerranéenne, Marseille, parce que... Elle a toujours eu cette fonction un peu d'être la porte et le port de la Méditerranée, mais aussi dans l'autre sens. Elle est aussi porte de l'Europe pour toute la Méditerranée. Donc in the sensation, Marseille produit du sens quand il s'agit de... d'exporter un modèle européen vis-à-vis du Sud et de l'Est de la Méditerranée, mais elle est aussi terre d'importation des hommes, des biens, des cultures. Et dans ce cas, elle est... ou on peut considérer qu'elle soit multi-identitaire. ou on peut considérer qu'elle est unique en son genre. Qu'explique cet intervenant sur la ville de Marseille.",
+        "rawFile": "data/tv5monde-60/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "L’augmentation des besoins alimentaires."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La faible influence des lobbies écologiques."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le coût des technologies non polluantes."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Le maintien des traditions dans la société."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-13_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "493",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Les solutions, les outils pour lancer une économie verte, a priori, It exited. I think there are other reasons. One, we have a search and a few years on the energy fossil. And the fine. completely forgé nos economy, to nos industry, la chimie, beaucoup de choses en depend, y compris the pesticides for the agriculture. And it has forgiveness. Donc we have evidently the mal to sort of an imaginaire and culture. Monter sur les énergies fossiles. Qu'est-ce qui empêche l'essor de l'économie verte?",
+        "rawFile": "data/tv5monde-60/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "L’analyse des reportages vidéos."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La diversité des thèmes abordés."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "La rapidité des prises de décision."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Le cosmopolitisme des reporters."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-14_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "494",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Chaque matin, à 9h, on se retrouve avec tous les productions. politiques, quelles sont les priorités des sujets. Alors c'est très intéressant parce qu'on a des collègues russes, chinois, arabes et chacun apporte son point de vue de journaliste. Selon la personne interrogée, Quel est le point fort des réunions évoquées?",
+        "rawFile": "data/tv5monde-60/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "À affirmer fièrement leur identité linguistique."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "À cesser de se battre contre l’influence de l’anglais."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "À promouvoir leur langue auprès des anglophones."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "À tisser des liens plus étroits avec les Français."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1361-15_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "495",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Écoutez, c'est moi je pense et j'en suis convaincue. The same faith to convaincre les francophones québécois to continue to militer for the surview of France, is to donate as latitude for francophones à part entière. Sinon l'attraction de l'anglais is là and encore plus qu'ici. I think it will absolutely, of course, and the fact that we do assume different. The Quebec are very avid. de connaître les emplois, les équivalents qui ont cours en Europe. Selon l'intervenant, à quoi les francophones québécois doivent-ils être incités?",
+        "rawFile": "data/tv5monde-60/q15-parakeet.json"
+      }
+    }
+  ]
+}

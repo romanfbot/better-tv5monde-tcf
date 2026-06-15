@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-45",
+  "lotId": 45,
+  "displayNumber": 4,
+  "title": "TV5MONDE TCF training test 4",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=45&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-1.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "121",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Vous venez dîner chez moi ce soir? A A votre santé B Avec plaisir C Bon appétit D Félicitations",
+        "rawFile": "data/tv5monde-45/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-2.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV257T3732I3862M2443.jpeg?itok=ox0u4E4t",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "122",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. Est-ce qu'on descend là? B. On arrive bientôt, on se lève. C. Tu peux ouvrir la porte? D. Tu ranges tes valises ici?",
+        "rawFile": "data/tv5monde-45/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-3.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "123",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Qu'est-ce que tu penses de ces chaussures? A. Ça vous fait 39 euros. B. Elles sont au fond du magasin. C. Je fais du 38. D. Je préfère celle de droite.",
+        "rawFile": "data/tv5monde-45/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-4.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "124",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Combien de temps est-ce que je dois attendre? A dans quinze jours. B il y a quatre mois. C la semaine prochaine. D une demi-heure.",
+        "rawFile": "data/tv5monde-45/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Des leçons privées avec un professionnel à domicile."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Des recettes de chef adaptées à des régimes spéciaux."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "La réalisation d’un menu commun aux participants du jour."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Un paiement au nombre de plats réalisés durant le cours."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-5.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "125",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Vous n'allez pas payer votre place en cours de cuisine, comme dans un cours de cuisine classique. Vous allez payer votre menu, les plats que vous faites. Et grosso modo, ça revient à 5 euros le plat par personne. And a menu entrée, plat, dessert will revenue a peu près à 12 euros par convive. Quand vous vous inscrivez à Com des Chefs, vous achetez un menu. pour X personnes, mais vous pouvez venir aussi bien cuisiner seul ou à deux pour le même prix. Que propose cette personne pour ses cours de cuisine?",
+        "rawFile": "data/tv5monde-45/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Annoncer des dates de fermeture pour les vacances."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Indiquer la panne temporaire d’un service informatique."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Informer sur l’ouverture d’une bibliothèque en ligne."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Offrir des entrées gratuites pour visiter des expositions."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-6.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "126",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Découvrir la Joconde en évitant les fils d'attaque. Attent, retrove on a click an œuvre de Mozart or acced to l'intégrality of it of Victor Hugo is désormais possible than Europeana, the bibliothek numeric European display on internet. Did his lancation the 21 November, the site has been a site. Ses portes, à cause d'une trop grande fréquentation, il est désormais opérationnel depuis le 24 décembre. Quel est l'objet de ce message?",
+        "rawFile": "data/tv5monde-45/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Découvrir différentes salles."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Offrir de nouvelles chansons."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Se présenter telle qu’elle est."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Se produire seule au piano."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-7.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "127",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Il y aura le casino de Paris, ce sera le 19 mars deux mille douze, le Bataclan le 8 décembre et c'est complet. So there's really the public who attends, who knows your chansons party. It's just a concerts where I'm not going to chant. The people who chant for me. C'est le moment où on est le plus vrai and it's bien de voir montrer ça aux gens. Qu'est-ce que cet artiste aime dans les concerts?",
+        "rawFile": "data/tv5monde-45/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Faire de l’art avec des matériaux recyclés."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Remettre en état des appareils usagés."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Rénover et exposer d’anciennes machines."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Repérer des pièces pour collectionneurs."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-8.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "128",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Amener son fer à repasser chez leur réponsion. Réparateur, c'est aujourd'hui presque un réflexe. A la bonne combine, près de Lausanne, on récupère, on recycle et on rafistole depuis près de 30 ans. Ici, on trouve l'un des rares ateliers de réparation toute marque. de Suisse romande, mais aussi une boutique d'appareils d'occasion, avec un seul credo, la chasse au Gaspi. En quoi consiste l'activité de la bonne combine?",
+        "rawFile": "data/tv5monde-45/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il faut partir à l’étranger pour obtenir du travail."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "L’homme profite des avancées technologiques."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les personnes âgées voyagent plus qu’auparavant."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "L’espérance de vie des femmes au foyer était longue."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-9.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "129",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Mon arrière-grand-mère. D'abord, est-ce qu'elle arrivait à 50 ans? Est-ce qu'elle pouvait espérer? Elle n'avait pas de mobility. Elle travaillait toute la journée. Elle était ensevelie sous les tâches domestiques. On oublie ça la libération de l'être humain par le progrès, par comment dire la machine. Par la mobilité, nous pouvons choisir aujourd'hui d'aller où nous voulons, en France ou dans le monde.",
+        "rawFile": "data/tv5monde-45/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Pour alimenter en eau la population de régions reculées."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Pour étudier les ressources en eau et en bois de la région."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Pour participer au développement d’un projet énergétique."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour soutenir la construction de voies de communication."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-10.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "130",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Voir le site de Damton 2 se mérite. 400 km de route depuis la capitale. Puis encore 5 heures d'une piste qui serpente à travers la forêt. Au bout d'un ultime tournant, le barrage, Titanesque, who pour l'heure son chantier. 8000 ouvriers for the plus grand ouvrage hydroelectrique jamais realizé in Asie du Sud-Est. Chef de field du consortium via sa filiale local. Pourquoi cette entreprise française est-elle présente en Asie du Sud-Est?",
+        "rawFile": "data/tv5monde-45/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle cherche à rassurer les consommateurs."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Elle comprend le choix des industriels."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle partage les doutes des décideurs."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle s’inquiète de la réaction des Américains."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-11.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "131",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. On vous a servi deux pots de Nutella. Deux pots parce qu'ils sont différents. L'un is fabriqué en France, l'autre in Slovaky, et il n'y a pas les mêmes ingrédients dedans. Je ne m'en inquiète pas vraiment parce que je me dis que quelque part. The industry felt these attitudes of gooey. And in function of that, that's right, it proposes a product different. Alright, is we can say discrimination? I tried very étonnam that the goût new, but it was fabricated at New York. Et voilà, je pense qu'il y a une adaptation au goût. Quelle est la position de l'intervenante?",
+        "rawFile": "data/tv5monde-45/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La personnalité du réalisateur."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La place de l’argent dans l’histoire."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "La présence d’acteurs célèbres."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Le caractère des personnages."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-12.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "132",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour Marie Gillen. Étonn Marie dans ce film Toutes nos Envies, film de Philippe Plioret après Welcome. It's a drame finalement sur l'histoire du surendettement, but it's also an extraordinary histoire of view, the passion human that we have voulu at all. We parce que quand j'ai lu le scénario ça m'a bouleversé. Je me suis dit je veux absolument aller voir ce film au cinéma and je veux en faire partie parce que c'est un film comme vous disiez qui a un combat the film. C'est des personnages who are plus vivants que la vie, puisque ils ont une espèce d'urgence to vivre. Ça parle du surendettement, donc c'est un film qui parle des humains ordinaires et puis qui sortent aussi de leur quotidien pour devenir un petit peu des héros. Qu'est-ce qui a poussé cette actrice à vouloir jouer dans ce film?",
+        "rawFile": "data/tv5monde-45/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Décomplexer les femmes concernant les postes de direction."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Encourager les femmes à s’impliquer dans la vie politique."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Imposer la mixité hommes-femmes à la tête des sociétés."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réduire de moitié la part d’impôts des femmes sans emploi."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-13.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "133",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Et un de vos combats, c'est d'imposer 50% de femmes dans les conseils d'administration. des entreprises, pourquoi c'est important en particulier? C'est important parce que c'est là qu'est le pouvoir économique. Ce serait une façon différente de diriger les entreprises. Les femmes représentent 50% des électeurs, 50% des gens qui payent leurs impôts. Donc for now it's a moyen de changer l'image du pouvoir, to see if we can make the choses autrement and to aller plus loin in this égalité that reste encore enough. Que souhaite la personne interviewée?",
+        "rawFile": "data/tv5monde-45/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle affranchit les agriculteurs des contraintes technologiques."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle développe les savoir-faire des cultivateurs-éleveurs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle prêche pour davantage de respect pour les animaux."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle veille à l’intégrité des éléments qui constituent le vivant."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-14.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "134",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Mais vous dites aussi que l'agroécologie, c'est un acte de liberté. En quoi exactement? Disons que l'agroécologie, pour moi le concept d'agroécologie ne se limite pas simplement à des transferts de technologie ou à des apprentissages de technologie, parce que ça amène, à partir du moment où on adopte l'agroécologie, notre vision change. de la vie. C'est-à-dire qu'on ne voit plus les sols comme simplement un substrat dans lequel on met des produits chimiques pour que ça pousse. On acquiert une dimension supérieure, c'est-à-dire prendre soin de la vie tout entière. Pourquoi l'agroécologie est-elle présentée comme un acte de liberté?",
+        "rawFile": "data/tv5monde-45/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Qu’il recherche une actualité inédite."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Qu’il retransmette des faits à chaud."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Qu’il prenne du recul sur les événements."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Qu'il fasse preuve d’une grande neutralité."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/257-15.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "135",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Les journalistes doivent être des rebelles, c'est ce qui ressort un peu de vos ouvrages. Pas necessarily, but in a certain manner the bon journalism s'exerce in practical critic paraphernalia to the information that we rejoice. Don't d'une certain manner the mentality rebelle predispose to a form of journalism. être aussi un journaliste qui n'est pas nécessairement de grande qualité. Donc je pense qu'il faut concilier à la fois un sentiment d'être de servir le public en cherchant l'information qui dérange, surtout celle qui dérange, et de certaines manières, donc c'est un peu une prédisposition d'être rebelle. Mais je pense que... It's not rebellious, it's applicable to journalism a series of criteria professional, the serious. It's not that the reality is victim of the rebellion, for example. It's really that we can imposer like people who pratique l'excellence. Selon cet auteur, qu'attend-on d'un journaliste digne de ce nom, même rebelle?",
+        "rawFile": "data/tv5monde-45/q15-parakeet.json"
+      }
+    }
+  ]
+}

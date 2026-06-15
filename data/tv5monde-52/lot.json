@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-52",
+  "lotId": 52,
+  "displayNumber": 5,
+  "title": "TV5MONDE TCF training test 5",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=52&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-1.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV312T3746I3876M2491.jpeg?itok=r6LoX_wT",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "241",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. Cabinet du docteur Rouvet, j'écoute. B Iva, location de voiture, ne quittez pas. C Réservation de l'hôtel Eiffel, bonjour. D Restaurant Pizza Napoli, j'écoute.",
+        "rawFile": "data/tv5monde-52/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-2.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV312T3745I3875M2490.jpeg?itok=z_lh4DbO",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "242",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A C'est à droite. B c'est à toi, c c'est d'accord, d c'est trop petit.",
+        "rawFile": "data/tv5monde-52/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-3.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/tcf_question/TV312T5513I5703M2842.jpeg?itok=mV_HlOpA",
+      "instruction": "Écoutez les 4 propositions. Choisissez celle qui correspond à l'image et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "243",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. Ah, j'ai encore oublié mon parapluie. B J'ai vraiment trop chaud. C Je déteste quand il pleut. D. J'espère qu'il va arrêter de neiger.",
+        "rawFile": "data/tv5monde-52/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-4.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "244",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Quand est-ce que vous partez en vacances? A l'année passée b Le mois prochain c les quinze jours D l'hiver dernier",
+        "rawFile": "data/tv5monde-52/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle finit sa tournée mondiale."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle publie un livre de chansons."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Elle sort un tout nouvel album."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle va donner un concert unique."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-5.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "245",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour cher de pirate. Bonjour. Que s'est-il passé depuis? It's an album that I'm very fair. And what the first channel is Adieu? There's not really particularly. In fact, it's the only chance that. parle de la phase d'une rupture où t'as vraiment envie que l'autre personne disparaisse. Qu'apprend-on sur la chanteuse Cœur de Pirates?",
+        "rawFile": "data/tv5monde-52/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Chanteur."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Comédien."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Musicien."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Technicien."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-6.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "246",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Et on me demande de faire des voix de toutes sortes. Because when we arrive in a studio d'enregistrement, we saw what we demand. On says vaguely, une bande-annonce or a documentary. We have the text. Don't have a formation solid actor and there are some courses d'art dramatic that have permit to interpret des. et non pas juste de les lire. De quelle profession parle cet homme?",
+        "rawFile": "data/tv5monde-52/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Interviewer des écrivains reconnus."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Participer à un groupe de lecture."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Assister à un programme radio."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Rencontrer des éditeurs étrangers."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-7.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "247",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le Salon du Livre de Montréal est un rendez-vous annuel pour l'équipe de la librairie francophone. L'émission a été enregistrée jeudi devant public. Elle a réuni une belle brochette d'auteurs, dont le prix Femina de cette année, Patrick Lapaire. Très bonne émission avec des très bons invités. D'après cet extrait, que pouvait-on faire au salon du livre?",
+        "rawFile": "data/tv5monde-52/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle a lieu entièrement de nuit."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle est réservée aux femmes."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle se déroule à la campagne."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle se passe dans un immeuble."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-8.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "248",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Ce sera vendredi prochain, tout près de Paris à la défense. Des coureurs vont partir à l'assaut. Et ils sont près de 800 déjà inscrits pour cette course, vraiment pas comme les autres. Quelle est la particularité de la course dont parlent ces journalistes?",
+        "rawFile": "data/tv5monde-52/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Appétit important."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Bouillon nourrissant."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Invitation au repas."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Morceau de pain."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-9.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "249",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. J'ai entrepris de vous parler de soupe. Non seulement parce que ce met est à la fois... Essentiel et délicieux, mais parce que le terme est d'une richesse incroyable. Le mot soupe, qui signifie proprement une tranche de pin, a rapidement désigné ce plat simple, rustique et nourrissant, une tranche de pin recouverte de bouillon. Soupe par suite en est venu à signifier le repas en général, voire la nourriture ou ce qui est profitable. À la soupe, vous invitez au repas, quel qu'il soit. Mangez la soupe sur la tête de quelqu'un. Signifie être plus grand que lui, pouvoir manger sur sa tête. Et bouder la soupe signifie manquer d'appétit en général. Que veut dire à l'origine le terme soupe?",
+        "rawFile": "data/tv5monde-52/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il est fabriqué selon d’anciennes techniques."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il sert seulement aux cérémonies religieuses."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Il appartient au passé et au présent du pays."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il permet d’éduquer les enfants à la musique."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-10.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "250",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Selon le mythe, le tambour existe depuis la création du Burundi. Instrument sacré Il était joué pour les rois. Aujourd'hui, il est toujours réservé aux grandes cérémonies, mais c'est aussi devenu une fierté nationale. Maintenant, c'est vraiment tous les jeunes qui veulent se mettre au tambour. Dans les quartiers, dans les villes, dans les écoles, c'est tout le monde qui veut se mettre au tambour. Et c'est quelque chose dont on est fier et qu'on ne veut pas perdre. Qu'apprend-on sur le tambour au Burundi?",
+        "rawFile": "data/tv5monde-52/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Ils peuvent bénéficier d’offres de loisirs diversifiées."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Les contraintes de communication ont eté supprimées."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Ses tarifs concurrencent ceux des lignes existantes."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il facilite les échanges commerciaux avec l'étranger."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-11.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "251",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Avec ce web documentaire, en fait, deux journalistes français ont été guidés par des blogueurs africains. And des internautes. They have parcouru le Mali and the Sénégal and have découvert comment le numérique avait changé la vie des habitants. Par exemple, le téléphone portable qui n'est pas du tout un gadget pour les Africains, mais au contraire, c'était un vrai besoin, puisqu'avant la seule solution pour parler à quelqu'un, souvent il méritait de se déplacer puisqu'il n'avait pas de réseau de téléphones fixes. Qu'est-ce que le téléphone portable a changé dans la vie des habitants du Sénégal et du Mali?",
+        "rawFile": "data/tv5monde-52/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La diminution du niveau d’éducation."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La politique environnementale actuelle."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "La puissance accordée à l’argent."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Les excès de la société moderne."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-12.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "252",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Nous avons tendance à devenir de plus en plus découvrir. consommateurs et des consommateurs boulimiques des richesses qui nous entourent, qu'il s'agisse des richesses concrètes de l'univers et que nous détruisons en les consommant. ou des richesses intellectuelles que nous absorbons avec une intensité, une rapidité beaucoup plus grand que nous ne parvenons à les renouveler. Que dénonce cet intervenant?",
+        "rawFile": "data/tv5monde-52/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Il génère des problèmes de santé."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il contribue à l'animation de la cité."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il est apprécié par les habitants."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Il est sévèrement puni par la loi."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-13.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "253",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Jackson, alarme, sirène d'ambulance, Buenos Aires est classée quatrième ville la plus bruyante au monde. Invisible, le bruit n'est pas considéré comme une véritable pollution. Pourtant, il ne provoque pas que des troubles de l'audition, stress, insomnie, complications cardiovasculaires. Les autorités ont bien essayé de réglementer le volume ambiant. Peine perdue, noyées dans ce vacarme assourdissant, les plaintes des Argentins ont bien du mal à se faire entendre. Qu'explique cette personne au sujet du bruit à Buenos Aires?",
+        "rawFile": "data/tv5monde-52/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La menace du surpeuplement est irréaliste."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "La nature est en train de reprendre ses droits."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "L’intervention humaine a façonné son aspect."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Les générations actuelles la respectent plus."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-14.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "254",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour Sylvie Brunel, géographe bien sûr, puis aussi évidemment un million de... Action contre la faim notamment. And là vous publiez un livre complet iconoclaste. Vous dites que finalement la géographie amoureuse du monde, ça veut dire que les hommes are rendu la terre encore plus belle. Alors que chaque jour on nous dit le contraire. Donc je trouve qu'elle est profondément démobilisatrice que j'ai voulu montrer que si la Terre est belle, si nous pouvons être sept milliards sur cette terre, et si nous vivons globalement bien mieux que nos ancêtres, contrairement à ce qu'on dit, c'est parce que ce sont les hommes qui aménagent la Terre, qui la rendent habitable. Quel est le constat de Sylvie Brunel sur notre planète?",
+        "rawFile": "data/tv5monde-52/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "L’emploi d’une autre langue permet de donner libre cours aux émotions."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "L’usage de la langue maternelle facilite une expression vraiment sincère."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "La maîtrise de plusieurs langues offre une liberté de création incomparable."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Le choix de la langue dépend du type de chanson qu’on veut écrire."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/312-15.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "255",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Pour moi j'ai essayé les deux en fait il y a très longtemps. I thought the chansons in France and Anglais, but I've been the impression that it's in a language maternal is a plus visceral, in the case for me, parce que I've had an approach as a theoretical and as images of Angela, alors que the France me demanded to assume. Alors que l'angle, because it's a language qui est apprise. Pour moi, il y avait une espèce de petite barrière que je mettais entre moi et mon propos. Que dit ce jeune auteur-compositeur de son rapport aux langues et à l'écriture?",
+        "rawFile": "data/tv5monde-52/q15-parakeet.json"
+      }
+    }
+  ]
+}

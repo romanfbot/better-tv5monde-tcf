@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-47",
+  "lotId": 47,
+  "displayNumber": 7,
+  "title": "TV5MONDE TCF training test 7",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=47&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-1.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "161",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. C'est bientôt l'heure de la fermeture du magasin. A Oh, arrête-toi. B. Oh, assieds-toi. C Oh, dépêche-toi. D Oh douche-toi.",
+        "rawFile": "data/tv5monde-47/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-2.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "162",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Vous voulez attendre vos amis pour commander? A non, j'aimerais la carte. B. Non, je garde mon manteau. C non, je suis manque. Je préfère cette table. D non, je voudrais l'addition.",
+        "rawFile": "data/tv5monde-47/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-3.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "163",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Ton ami musicien habite près d'ici? A. Oui. Il est en retard. B. Oui. Il joue du violon. C oui, il va au cinéma, D oui, il vit juste en face.",
+        "rawFile": "data/tv5monde-47/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "En avion."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "En bateau."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "En car."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "En train."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-4.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "164",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour, je voudrais un billet pour Marseille. Vous voulez partir quand? Lundi. Il y a un vol l'après-midi, départ à 14h et vous atterrissez à 15h30. Parfait. Combien coûte le billet? 65 euros en classe économique. Très bien, je vais le prendre. Comment la cliente va-t-elle aller à Marseille?",
+        "rawFile": "data/tv5monde-47/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il est absent à cette date."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "La sortie coûte trop cher."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le programme lui déplaît."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Une amie l'a invité à dîner."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-5.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "165",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Eric, c'est Alex. Tu es disponible ce week-end? Oui. Pourquoi? Pour aller au festival à rock, la programmation est formidable. C'est sûr, mais tu as vu le prix des billets 38 euros la journée. Justement. Allez, en plus on pourra dîner ensemble. D'accord pour un petit resto ensemble, mais je ne peux vraiment pas me permettre les deux en ce moment. Pourquoi Eric refuse-t-il d'aller au festival?",
+        "rawFile": "data/tv5monde-47/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Un animateur."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Un baby-sitter."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Un chauffeur."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Un vendeur."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-6.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "166",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour madame, je suis Théo Legendre. Oui, nous cherchons quelqu'un pour s'occuper des enfants en août et les accompagner à leurs activités. D'accord, sauf que je suis prise jusqu'au 3 août. Ce n'est pas gênant. Mais est-ce que vous avez le permis? Non, pas encore. Je me déplace en bus. Alors je suis désolée, mais c'est impossible. Les activités des enfants se terminent à 19h. Et le soir, le bus ne passe plus. Que recherche la mère de famille?",
+        "rawFile": "data/tv5monde-47/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Il y a erreur sur le produit."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il y a une différence de prix."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le vêtement est vendu."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "L'offre est annulée."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-7.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "167",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour, j'appelle pour l'annonce que j'ai lue sur le site. Oui, bien sûr. Je voulais vérifier. La taille, c'est bien 38. Non, c'est du 42. Mais pourtant sur l'annonce, vous proposez une robe de taille 38. Vous avez bien mis en vente une robe de mariée? Non, une paire de chaussures. Désolée, monsieur, j'ai dû me tromper. Au revoir. Quel est le problème?",
+        "rawFile": "data/tv5monde-47/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Comment faire lire ses enfants pendant les vacances ?"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Comment faire réviser ses enfants durant les vacances ?"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Comment organiser les vacances pour ses enfants ?"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Comment passer de bonnes vacances avec ses enfants ?"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-8.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "168",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Bienvenue dans notre émission Un jour une idée. Aujourd'hui, Comment choisir un livre à mettre dans la valise de son enfant pour les vacances? C'est parfois difficile, les enfants préfèrent en général sortir et jouer avec les copains. Prenez donc pour commencer un roman plutôt amusant et pas trop long. Éviter les sujets qui lui rappelleront l'école ou des mauvais souvenirs de l'année. L'idéal, c'est d'aller dans une librairie avec lui et de choisir le livre ensemble. Sur quoi portent les conseils donnés dans cette émission?",
+        "rawFile": "data/tv5monde-47/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Son expérience du music-hall."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Son parcours professionnel et privé."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Son succès sur scène auprès de tous."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Son tout premier tour de chant."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-9.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "169",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. C'est une histoire d'amour avec le public, Pierre Perret. Je crois parce qu'il est resté. À 80, ça n'arrête pas, toutes les générations sont là. Qu'évoque l'artiste dans cet entretien?",
+        "rawFile": "data/tv5monde-47/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Il agrémente les rubriques des magazines."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Il attire un plus grand nombre de lecteurs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Il donne envie aux jeunes de lire le journal."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Il permet de saisir l’essentiel de l’information."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-10.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "170",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors il y a une pédagogie importante avec ces dessins, notamment pour les jeunes qui viennent. C'est un message. complémentaire au fond des événements and des témoignages que vous présentez à longueur d'année. de dessin de presse et leur donner le goût de la liberté d'opinion. Selon cette personne, quel est l'intérêt du dessin de presse?",
+        "rawFile": "data/tv5monde-47/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "D'alerter sur la dangerosité de certains médicaments."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De signaler les abus commis par certains praticiens."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "D'enquêter sur les risques d'une médecine particulière."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "D'évoquer les erreurs médicales dans l'histoire moderne."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-11.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "171",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Depuis 2008, l'Organisation mondiale de la santé reconnaît les méthodes. traditional capable of prevenir, diagnostic and traiter certain maladies physiques and mental. Attention aussi à l'automédication. Elle entraîne en médecine traditionnelle de nombreuses erreurs. Quadneufdoc est rendue à Niame, au Niger, pour rencontrer des tradits praticiens. Que propose l'émission QuadneufDoc?",
+        "rawFile": "data/tv5monde-47/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Parce que c'est un pilier de la gastronomie française."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Parce qu'il est associé à la prospérité économique."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Parce qu'il figure parmi les aliments de base d'une région."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Parce qu'il incarne un mode de vie traditionnel."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-12.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "172",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le beurre était certainement une richesse puisque mettre du beurre dans les épinards en compromet. Oui parce que ça voulait dire Tout une génération, pour eux, le beurre, la génération de mes parents and my generation, le beurre symboliquement, c'est un produit un peu comme le pain, qui est très très fort. très ancré dans notre culture parce qu'il y a eu un manque, parce qu'il n'y a pas longtemps qu'on peut vraiment le consommer. Pourquoi le beurre a-t-il une valeur symbolique?",
+        "rawFile": "data/tv5monde-47/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Pour s'assurer des revenus confortables."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Pour satisfaire son besoin de création."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Pour sauver l’entreprise de ses parents."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Pour se distinguer du reste de sa famille."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-13.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "173",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Elle s'appelle Cathy Chotard, est orfèvre de son état. Mais un orfèvre vraiment pas comme les autres. Depuis que je suis petite, j'ai toujours fabriqué des choses. Depuis toujours. Ma passion quand j'étais petite était le textile. Donc je fabriquais des choses. avec des filles et j'ai eu l'influence de ma grand-mère qui était comment dire une bricoleuse donc qui qui coisait beaucoup qui faisait de la peinture qui Elle faisait tout et moi, quand j'étais petite, je l'observais. Et j'ai appris en l'observant. Comment Cathy Chautard a-t-elle choisi son métier?",
+        "rawFile": "data/tv5monde-47/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Dénoncer le manque de courage politique des médias."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Éclaircir le statut des diverses instances de décision."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Mettre en place des modes de financement innovants."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Organiser un espace de mutualisation des expériences."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-14.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "174",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Moi je crois que le coup de pouce à donner à la planète, c'est vraiment justement de fédérer toutes les initiatives dont on ne parle pas et d'imaginer un secrétariat d'État ou un ministère pour tous se regrouper, échanger avec des passerelles tout ce qu'on fait, lancer peut-être une chaîne de télé là-dessus, lancer des sites internet, développer des émissions comme la vôtre, il faut y faire honneur. and de manière à ce que tout le monde puisse se parler and that crée une dynamique where on se dit c'est possible mais c'est tout con à faire parce que la reality c'est que c'est tout con à faire. C'est simple. On est dans un monde economic where on pense que plus on est complex, plus on est intelligent. C'est tout l'inverse. Être intelligent, c'est avoir la clarté de l'esprit. Que propose cette personne pour agir pour la planète?",
+        "rawFile": "data/tv5monde-47/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle ambitionnait de devenir grand reporter."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle désirait dénoncer les dérives du football."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle souhaitait défendre la langue française."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle voulait combattre les idées toutes faites."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/527-15.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "175",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Mais alors pourquoi un site spécifiquement dédié à l' Donc the idea was I mean it would... Il faudrait faire une information plus approfondie, plus régulière, en français, qui n'existe pas dans les médias français. Qu'est-ce qui a motivé cette femme à créer son site?",
+        "rawFile": "data/tv5monde-47/q15-parakeet.json"
+      }
+    }
+  ]
+}

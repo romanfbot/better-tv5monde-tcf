@@ -9,19 +9,36 @@ Published site: https://romanfbot.github.io/tcf-transcripts/
 - `docs/` — buildless static site for GitHub Pages.
 - `docs/data/tcf-lots.json` — extracted TV5MONDE TCF lot data: questions, audio URLs, answer choices, correct answers, and transcripts.
 - `docs/EXTRACTION.md` — repeatable extraction workflow for future swarm/parallel agents.
-- `scripts/transcribe_openrouter.py` — transcription script using the OpenRouter STT endpoint.
-- `scripts/build_lot58_dataset.py` — builds the current prototype dataset from extracted metadata and transcript files.
-- `data/tv5monde-58/` — raw OpenRouter responses and transcript text files for the `tcf_lot_id=58` listening section.
+- `scripts/process_tv5_lots.py` — extracts a TV5MONDE lot with `agent-browser`, downloads audio, and transcribes it through OpenRouter.
+- `scripts/merge_tv5_lots.py` — merges processed per-lot JSON files into the static-site dataset.
+- `scripts/transcribe_openrouter.py` — standalone transcription script using the OpenRouter STT endpoint.
+- `data/tv5monde-<LOT_ID>/` — raw extraction data, OpenRouter responses, transcript text files, and per-lot `lot.json` files.
 
-## Current prototype
+## Current dataset
 
-The current deployed version includes the `Compréhension orale` section for this TV5MONDE test:
+The deployed site includes 17 TV5MONDE `Compréhension orale` training tests: display tests 1–17 map to these lot IDs:
 
 ```text
-https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=58#tcf_header
+1: 58
+2: 57
+3: 56
+4: 45
+5: 52
+6: 53
+7: 47
+8: 42
+9: 43
+10: 44
+11: 50
+12: 55
+13: 60
+14: 66
+15: 68
+16: 69
+17: 70
 ```
 
-The 15 listening questions use audio files extracted from the TV5MONDE per-question pages and transcripts generated with:
+Each test has 15 listening questions. Audio files are extracted from TV5MONDE per-question pages, and transcripts are generated with:
 
 ```text
 nvidia/parakeet-tdt-0.6b-v3
@@ -35,31 +52,23 @@ python3 -m http.server 8080
 # open http://localhost:8080
 ```
 
-## Transcribing another audio file
+## Processing more TV5MONDE lots
 
 The script expects `OPENROUTER_API_KEY` in the environment or in `~/.hermes/.env`.
 
 ```bash
-python3 scripts/transcribe_openrouter.py audio/tv5monde-58/159-2.mp3 data/tv5monde-58/q02-parakeet.json --model nvidia/parakeet-tdt-0.6b-v3
+python3 scripts/process_tv5_lots.py 71:18 72:19
+# then add the new lot IDs to ORDER in scripts/merge_tv5_lots.py
+python3 scripts/merge_tv5_lots.py
 ```
 
-The script creates two files:
+`process_tv5_lots.py` accepts `LOT_ID:DISPLAY_NUMBER` pairs and creates:
 
-- `*.json` — the full OpenRouter JSON response;
-- `*.json.txt` — transcript text only.
-
-## Adding more TV5MONDE lots
-
-Follow `docs/EXTRACTION.md` for the browser/result-page extraction flow and the expected JSON shape. The short version:
-
-1. Open the TV5MONDE TCF lot URL.
-2. Stop the test and open results.
-3. Extract correct answers from the `tcf_questions` cookie.
-4. Visit each `entrainement-frame?question=<n>&tcf_lot_id=<LOT_ID>` page.
-5. Extract audio URLs, prompts, answer choices, images, and correct answer codes.
-6. Transcribe every audio URL through OpenRouter.
-7. Merge the lot into `docs/data/tcf-lots.json`.
+- `data/tv5monde-<LOT_ID>/extracted.json` — extracted TV5MONDE metadata;
+- `data/tv5monde-<LOT_ID>/qNN-parakeet.json` — full OpenRouter JSON responses;
+- `data/tv5monde-<LOT_ID>/qNN-parakeet.json.txt` — transcript text only;
+- `data/tv5monde-<LOT_ID>/lot.json` — merged per-lot data.
 
 ## Source
 
-TV5MONDE: https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=58#tcf_header
+TV5MONDE TCF practice tests: https://apprendre.tv5monde.com/fr/tcf

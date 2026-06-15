@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-43",
+  "lotId": 43,
+  "displayNumber": 9,
+  "title": "TV5MONDE TCF training test 9",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=43&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-1.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "41",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Bonjour monsieur. Le prochain film commence quand? A dans cinq minutes. B Demain matin. C en September D la semaine prochaine.",
+        "rawFile": "data/tv5monde-43/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-2.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "42",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Qu'est-ce que tu penses de cet endroit pour le bureau? Non, ça ne va pas. Bon, alors on le met où ce bureau? A. Dans la cuisine. B. Devant la maison. C près de la fenêtre sous la table",
+        "rawFile": "data/tv5monde-43/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-3.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "43",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Bonjour madame. Est-ce que je peux passer? Je peux vous poser quelques questions. Nous aimerions avoir votre avis sur le magasin. A. Comme ça, c'est parfait. B. D'accord si ça prend 5 minutes. Merci, ce sera tout. D oui, ça va bien ensemble.",
+        "rawFile": "data/tv5monde-43/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "De langues étrangères."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "Du choix d’un restaurant."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "D'une destination de voyage."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "D'une ville célèbre."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-4.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "44",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors, où est-ce que tu veux aller ce soir? Je sais pas. Qu'est-ce que tu proposes? On pourrait manger indien? J'aime pas trop la cuisine épicée. D'accord. Ah, je connais une très bonne adresse pour la cuisine japonaise. C'est un endroit très connu à Paris. Ah très bien, j'adore. De quoi parlent ces deux personnes?",
+        "rawFile": "data/tv5monde-43/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle a été obligée de déménager à Versailles."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle a étudié dans plusieurs établissements."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle a participé à de nombreux stages."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle a payé très cher son inscription."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-5.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "45",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Une fois qu'on sait qu'on veut devenir parfumeur, le parfumeur Donc en fait, une fois qu'on sait qu'on veut devenir parfumeur, il faut devenir scientifique d'abord avant de devenir parfumeur. Qu'apprend-on sur Mathilde Laurent?",
+        "rawFile": "data/tv5monde-43/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Créer des produits de beauté féminins."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Imprimer des documents professionnels."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Informer sur les prévisions météorologiques."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Proposer des boissons chaudes originales."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-6.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "46",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Devant le succès de la fameuse dosette de café, les constructeurs élargissent maintenant. Maintenant le concept et notamment aux produits cosmétiques. La startup Romy offre cet appareil, un formulateur. Il analyse d'abord la peau de l'utilisatrice, mais aussi la météo locale ou le taux de pollution de l'air. Et il fabrique lui-même une crème ou un sérum. The plus adapté. For fabriquer le produit miracle, il faudra placer dans l'appareil plusieurs dosettes d'actifs cosmetics, un peu comme on le fait dans une imprimante. La machine choisira ensuite d'elle-même la meilleure combinaison pour le jour J. Il y a paraît-il 1000 possibilités. Quelle est la fonction de l'appareil présenté ici?",
+        "rawFile": "data/tv5monde-43/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Agriculteur."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Commerçant."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Cuisinier."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Peintre."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-7.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "47",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Je me définis plus comme un artisan. Un artisan reste fondamentalement attaché à ses produits et à ses valeurs. Après on peut être artisan et artiste. Mais j'aime bien le mot artisan parce que dans artisan il y a The côté manuel, the côté travail, l'engagement. J'aime l'engagement. La gastronomie française, déjà le mot gastronomie, c'est la cuisine de sa region. Valoriser les produits de sa region définit complètement le mot gastronomie. Quel est le métier de cette personne?",
+        "rawFile": "data/tv5monde-43/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "De faire moins de sport."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De l'écouter sérieusement."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De rentrer avant la nuit."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "De s'habiller chaudement."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-8.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "48",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Chérie, viens mettre ton pull, il fait froid dehors. Mais maman, on va faire du sport. Peu importe, je préfère que tu sois couvert. Bon d'accord. Alors je prends mon blouson. Tu rentres vers quelle heure? Je ne sais pas, dans une heure à peu près. Que demande la mère à son fils?",
+        "rawFile": "data/tv5monde-43/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "La population utilise plusieurs langues dans la vie quotidienne."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Les documents officiels sont traduits en deux langues."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Les enfants parlent une langue différente de celle de leurs parents."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Les journaux locaux sont écrits dans la langue locale."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-9.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "49",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. L'île Maurice, c'est compliqué parce qu'on a été colonie française. pendant très longtemps et puis colonie anglaise. Donc on va dire notre langue officielle c'est l'anglais, mais on a une culture francophone. C'est-à-dire que tout le monde parle français, les informations, les grands médias sont en français, mais tous nos papiers par exemple de l'administration sont en anglais. Et en plus on parle créole à la maison. Ce qui est bien, on est trilingue. Qu'apprend-on sur l'île Maurice dans cette émission?",
+        "rawFile": "data/tv5monde-43/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Entraîner une équipe sportive."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Étudier la médecine."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Faire une carrière politique."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Former des citoyens actifs."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-10.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "50",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Pour Sadrak, les sports d'équipe symbolisent le type de collaboration et de détention. dont les haïtiens ont besoin pour guérir et avancer. La façon dont les joueurs de l'équipe interagissent. Jean-Ho est défenseur. C'est de cette manière qu'ils peuvent se positionner. Pour améliorer et diriger le pays. En travaillant pour l'avenir de son pays, jour après. Après jour, Sadrak réalise tout simplement son rêve. Quel est le rêve de Sadrak?",
+        "rawFile": "data/tv5monde-43/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Leur existence est mise en cause par certains États."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Leur originalité est appréciée des collectionneurs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Leur popularité est importante dans toute l'Europe."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Leur utilité est évidente dans les petits magasins."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-11.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "51",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Les pièces de 1 et 2 centimes d'euro. On en a plein les poches. Plein les porte-monnaies, mais en a-t-on vraiment besoin? En France, les commerçants s'en passerait bien. Nous on essaie d'arrondir parce que ça va plus vite. Côté client, on n'est pas contre. A condition que ça n'augmente pas les prix à la hausse. Mais certains y sont très attachés. Par pure poésie. Elles sont si mignons, ces petites Marianne un peu rouge. Personne ne regarde les pièces, mais il y a l'art de la liberté, il y a la Marianne, il y a la semeuse. Pas question, disent l'Irlande, la Belgique and the Pays Bas qui ont voté pour leur abandon. L'Union européenne, elle, réfléchissent sérieusement à leur disparition. Motif, le coût élevé de fabrication. Qu'explique ce reportage sur les petites pièces de monnaie en Europe?",
+        "rawFile": "data/tv5monde-43/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "De favoriser toutes les langues."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De lutter contre l'anglais."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De promouvoir le français."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "De se méfier des idéologies."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-12.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "52",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Donc je suis moins hostile à l'anglais que je ne suis favorable à la diversité que l'anglais menace. Problème. Il est le vecteur d'une idéologie néolibérale qu'il a répandue très fortement, qui maintenant n'est plus vraiment promu par les États Unis parce qu'ils ont moins les moyens qu'autrefois, mais qui est promu en tout cas par les centres du monde les plus fortement américanisés. c'est-à-dire l'Europe occidentale et l'Asie du Sud-Est. Donc c'est à eux que je rappelle qu'il est bon de promouvoir la diversité afin de favoriser, contre la pensée unique, une pensée plurielle. Qu'est-ce qui est important pour ce linguiste?",
+        "rawFile": "data/tv5monde-43/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "La diffusion des livres à l'international."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "La mention du nom de la commune."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "La promotion d'auteurs de la région."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Le nombre d'ouvrages vendus."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-13.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "53",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. D'abord, Arl a une place énorme dans les éditions économiques. Sud dans la mesure où le nom d'Arles figure sur chaque livre. Mine de rien, les millions d'exemplaires, les millions de livres qui sont partis partout où ils sont où ils sont allés, et ils ont apporté un petit signe, ça vient d'Arles. Je n'ai jamais accepté qu'un livre sorte sans qu'il soit indiqué quelque part, que l'origine est Arles. Voilà, Arles, c'est for me extremement important, c'est le lieu de la deuxième naissance, non? Qu'est-ce qui est essentiel pour cet éditeur?",
+        "rawFile": "data/tv5monde-43/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elles concurrencent les médecines classiques."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elles favorisent une automédication raisonnée."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Elles peuvent traiter certaines pathologies."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elles se limitent à la prévention sans soigner."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-14.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "54",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Depuis 2008, l'Organisation mondiale de la santé reconnaît les médecins. traditional capable of prevenir, diagnostic and traiter certain maladies physique and mental. Attention aussi à l'automédication. Elle entraîne en médecine traditionnelle de nombreuses erreurs. Quadneufdox est rendue à Niame, au Niger, pour rencontrer des tradits praticiens. L'Organisation Mondiale de la Santé conseille de favoriser les passerelles entre médecins traditionnels et médecins dits classiques. Quant aux consommateurs, lorsqu'ils ont recours à la tradite médecine, ils doivent s'assurer que leur traitement traditionnel est adapté à leur maladie. Et que le praticien est qualifié. Quel est le point de vue de l'Organisation mondiale de la santé sur les médecines traditionnelles?",
+        "rawFile": "data/tv5monde-43/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle donne la liberté de créer des mots."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle est harmonieuse dans ses sonorités."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle gagne régulièrement des locuteurs."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle se décline en une multitude d'accents."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/794-15.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "55",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Ecoutez le document sonore et la question. Choisissez la bonne réponse. Fait que moi, il est là mon réflexe dans le sens où quand je raconte des histoires, quand j'ai le mot ou je ne l'ai pas sur le bord du jasage, ben j'en invente d'autres parce que je me dis qu'il ne faut pas attendre. Pour moi, il y a une urgence de parler quand je compte, je garoche des mots. Des fois ils n'ont pas de sens, des fois ils font juste la musique, mais au moins il y a une musique dans cet angle. Selon l'intervenant, quel est le propre d'une langue vivante?",
+        "rawFile": "data/tv5monde-43/q15-parakeet.json"
+      }
+    }
+  ]
+}

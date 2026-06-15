@@ -1,0 +1,581 @@
+{
+  "id": "tv5monde-tcf-68",
+  "lotId": 68,
+  "displayNumber": 15,
+  "title": "TV5MONDE TCF training test 15",
+  "sourceUrl": "https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id=68&competence=CO#tcf_header",
+  "scrapeMethod": "See docs/EXTRACTION.md",
+  "transcriptionModel": "nvidia/parakeet-tdt-0.6b-v3",
+  "questions": [
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-1_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 1,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "561",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. J'ai rencontré les nouveaux voisins. Et. Ils sont sympathiques a oui chez eux. B oui de c oui lundi. Oui, très",
+        "rawFile": "data/tv5monde-68/q01-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-2_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 2,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "562",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Thierry, tu veux aller où ce week-end? A A la campagne B avec mes parents C en voiture D pour mon anniversaire",
+        "rawFile": "data/tv5monde-68/q02-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-3_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 3,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "563",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Avec mes collègues ce soir. Tu me conseilles quel endroit? A. Je préfère l'après-midi. B. Quelle idée intéressante! C. Ton travail est trop difficile. D. Une pizzeria en centre-ville.",
+        "rawFile": "data/tv5monde-68/q03-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Réponse A"
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Réponse B"
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Réponse C"
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Réponse D"
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-4_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez la question et les 4 réponses. Choisissez la réponse qui correspond à la question et cliquez sur le bouton correspondant.",
+      "number": 4,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "564",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Je sais que tu cherches un appartement. Est-ce que tu voudrais vivre en colocation avec moi? A. Désolé. Mon propriétaire n'accepte pas les chats. B. Félicitations. C'est dans quel quartier? C. J'aimerais bien, ce serait super. D. Pas du tout. Je déteste vivre toute seule.",
+        "rawFile": "data/tv5monde-68/q04-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "De conserver des aliments."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "De faire pousser des plantes."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De produire de l’énergie."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "De tempérer la maison."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-5_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 5,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "565",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Des idées simples pour améliorer nos comportements écologiques. Voici un refrigerateur sans electricity that vient du Canada. Entre the two pots, we can make what we can make is made. humide et donc le pot va rester au frais et à l'intérieur on peut mettre des fruits et des légumes. Que permet cette méthode?",
+        "rawFile": "data/tv5monde-68/q05-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Une fermeture des stations-service."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Une grève des transports urbains."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Une journée entière sans voiture."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Une panne générale d’électricité."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-6_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 6,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "566",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Les feux de signalisation sont à l'orange clignotant, mais ils pourraient très bien être éteints. Car ce dimanche matin ici à Kigali, les véhicules n'ont pas droit de cité. Les rues sont désertées sauf par ses chaussures multicolores. Des Kigaliens qui convergent par dizaines vers le centre-ville pour faire du sport ensemble. Que se passe-t-il à Kigali?",
+        "rawFile": "data/tv5monde-68/q06-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Boire de façon modérée."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Élaborer des recettes spéciales."
+        },
+        {
+          "code": "C",
+          "correct": true,
+          "text": "Manger selon ses envies."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Préférer des plats équilibrés."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-7_0.mp3",
+      "correctAnswer": "C",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 7,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "567",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors, juste avant les repas de réveillon, dernier petit conseil, avant... Pendant, afin, what do you consey? Pendant I consecration because it's the fit and the people profit. But after it will certainly have attention to diminutional consumation of alcohol, pass it to low, and diminute also his quantity. Selon cette personne, que doit-on faire pendant les fêtes?",
+        "rawFile": "data/tv5monde-68/q07-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Des déchets flottants."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Des îles désertes."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Des pêcheurs pirates."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Des poissons malades."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-8_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 8,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "568",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Petit à petit, à mesure que le bateau avançait, L'équipage n'a plus croisé ni dauphins, ni baleines, ni oiseaux. Les animaux ont disparu et laissé place au plastique. Dans cette mer des Sargasses, à 1000 km des côtes martiniquaises, il est partout. Que découvre l'équipage?",
+        "rawFile": "data/tv5monde-68/q08-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Le nombre de visiteurs annuel augmente."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Le prix des billets proposé est trop élevé."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Le système de sécurité est peu efficace."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Le temps d’attente à l’entrée diminue."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-9_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 9,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "569",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Le Grand Louvre avait été... Imaginez, organisé pour 5 millions de personnes par an. Or cela fait déjà 3 ans que l'on dépasse à Paris la barre des 9 millions. Conclusion, il va falloir améliorer l'accueil du public avec un mot d'ordre précis. Ce n'est pas tant qu'il faut faire Plus, c'est qu'il faut faire mieux que ce soit dans les files d'attente, dans la billetterie, dans la restauration ou encore dans le système de circulation du public, dans les quelques 404 salles de ce qui est le musée le plus visité du monde. Qu'apprend-on sur le musée du Louvre?",
+        "rawFile": "data/tv5monde-68/q09-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Inciter les spectateurs à interroger le sculpteur."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Provoquer une réflexion sur les liens affectifs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Questionner le rapport des hommes à la nature."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Susciter des échanges humains non-marchands."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-10_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 10,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "570",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Cette œuvre de l'artiste taïwanais Lee Ming Wei est ce qu'on appelle une œuvre d'art interactive. Elle est composée d'une multitude de fleurs fraîches qui baignent dans une espèce de vase horizontal géant. Mais les fleurs sont posées là pour être prises par les visiteurs et offertes de nouveau à quelqu'un, à un inconnu, à qui cet acte de générosité pourrait plaire. Ce qui explique l'inscription offrir. L'artiste est séduit par l'idée que grâce à lui, des inconnus se seront rencontrés et se seront fait des cadeaux. Une blague? Ne vous fiez pas aux apparences. Cette pièce est la critique d'une société où plus jamais rien n'est vraiment gratuit. Quelle est l'intention de l'artiste?",
+        "rawFile": "data/tv5monde-68/q10-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Un ensemble de souvenirs flous."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Un lieu d'introspection."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Une immensité incompréhensible."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Une source de sérénité."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-11_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 11,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "571",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Kenatsa, votre enfance dans le sud algérien, c'est le désert d'abord qui est la plus. Première image qui vous marque? Oui, certainement. Parce qu'au déo commencement, on ne comprend pas. On regarde, on constate, on observe. Et le désert s'est imposé à moi comme une espèce de prophétie. Et ça reste une sortie de prophétie. C'est-à-dire que quelque part it vous nourrit ce que je disais. Qu'au fond, il apporte quoi à l'homme que vous êtes? L'apaisement, c'est sûr. L'apaisement. Que représente le désert pour cet écrivain?",
+        "rawFile": "data/tv5monde-68/q11-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Son attirance pour la fantaisie."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Son goût pour les bibliothèques."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Son inclination pour l’artisanat."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Son penchant pour le voyage."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-12_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 12,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "572",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Moi je suis d'origine grecque et donc mes parents sont... My brother was cordonier. It's a fashion to a artistic also, because he said. Elle était arrivée avant d'arriver en France et passée en Angleterre, etc. Donc elle a fait son enfance en Angleterre, elle devait avoir 10 ans. Et quand j'étais enfant, ma mère racontait plein d'histoires extraordinaires. Mais en mélangeant tous les... A bit of what you raconte in my history. Qu'est-ce que l'auteur a gardé de son enfance?",
+        "rawFile": "data/tv5monde-68/q12-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "D'affiner son sens du rythme."
+        },
+        {
+          "code": "B",
+          "correct": true,
+          "text": "D'affirmer son identité."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "De monter son propre groupe."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "D'exprimer ses sentiments."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-13_0.mp3",
+      "correctAnswer": "B",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 13,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "573",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. On est très sensible à la musique aussi quand on est adolescent, on découvre... It's also a question of identity, a sentiment of appartenance when we do we have that group, tell chanteur, tell chanteuses. But the music is a personalism, to meet his originality. Que permet la musique à l'adolescence?",
+        "rawFile": "data/tv5monde-68/q13-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": true,
+          "text": "Elle donne une dimension artistique à son travail."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle intègre l’histoire de son pays dans l’habitat urbain."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle milite pour un urbanisme durable et moderne."
+        },
+        {
+          "code": "D",
+          "correct": false,
+          "text": "Elle souhaite participer à la réhabilitation de bâtiments."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-14_0.mp3",
+      "correctAnswer": "A",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 14,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "574",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Lina Rothmet ne se contente pas de construire du fonctionnel. Dans cet immeuble asymétrique, Chaque étage is agencé de façon toute apporte un rapport à la ville différent. Une formation de resistance face à construction and a mode of view standardisés. Dans certains, on a un cadrage in which the village transforms in a tableaux, différents tableaux qui viennent habiller l'espace intérieur. Et certains endroits, on est plutôt projeté vers l'extérieur. Qu'apprend-on sur l'architecte?",
+        "rawFile": "data/tv5monde-68/q14-parakeet.json"
+      }
+    },
+    {
+      "answers": [
+        {
+          "code": "A",
+          "correct": false,
+          "text": "Elle a des locuteurs de plus en plus nombreux."
+        },
+        {
+          "code": "B",
+          "correct": false,
+          "text": "Elle demande un respect des usages communs."
+        },
+        {
+          "code": "C",
+          "correct": false,
+          "text": "Elle est plébicitée dans le monde culturel."
+        },
+        {
+          "code": "D",
+          "correct": true,
+          "text": "Elle profite d'un renouvellement constant."
+        }
+      ],
+      "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/tcf_question/1391-15_0.mp3",
+      "correctAnswer": "D",
+      "imageUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/styles/large_720/public/2021-05/son-sans-img_0.png?itok=nZtCfoOG",
+      "instruction": "Écoutez le document sonore et la question. Choisissez la bonne réponse et cliquez sur le bouton correspondant.",
+      "number": 15,
+      "prompt": "Cliquez sur votre réponse",
+      "questionId": "575",
+      "skill": "Compréhension orale",
+      "transcription": {
+        "model": "nvidia/parakeet-tdt-0.6b-v3",
+        "language": "fr",
+        "text": "Écoutez le document sonore et la question. Choisissez la bonne réponse. Mais moi je pense que l'universalité n'est pas antagoniste, n'est pas contradictoire avec la diversité. Toutes les langues se caractérisent par une évolution, par une fluidité, par un enrichissement progressif, historique. La langue n'est pas quelque chose de figé. Une fois de plus, les expériences des hommes, des peuples, des nations sont uniques et diverses. Et ce qui fait la richesse de la francophone. C'est cet enrichissement et cette progression continuelle. Que dit l'intervenant à propos de la francophonie?",
+        "rawFile": "data/tv5monde-68/q15-parakeet.json"
+      }
+    }
+  ]
+}
