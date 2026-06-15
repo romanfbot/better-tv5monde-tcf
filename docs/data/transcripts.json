@@ -10,13 +10,13 @@
       "id": "tcf1",
       "number": 1,
       "title": "TCF entraînement n°1",
-      "description": "Пилотная транскрипция полного аудиофайла compréhension orale через OpenRouter Whisper Large V3. Разбиение на задания сделано автоматически по словам «Question …» / «Regardez l’image …».",
+      "description": "Pilot transcription of the full compréhension orale audio file using OpenRouter Whisper Large V3. Task splitting was generated automatically from “Question …” / “Regardez l’image …” markers.",
       "audioUrl": "https://apprendre.tv5monde.com/sites/apprendre.tv5monde.com/files/audio/tcf1-podcast.mp3",
       "tasks": [
         {
           "id": "intro",
-          "number": "Вступление",
-          "title": "Вступление и инструкции",
+          "number": "Introduction",
+          "title": "Introduction and instructions",
           "kind": "intro",
           "text": "Vous allez écouter un entraînement au TCF, le test de connaissance du français. Cet entraînement a été conçu par TV5MONDE et France Éducation Internationale. Avant de commencer, téléchargez le livret correspondant à cet entraînement sur apprendre.tv5monde.com slash podcast. Ce livret contient toutes les questions et les corrigés. L'entraînement commence maintenant. Partie 1. Compréhension orale. Dans cette partie du test, vous allez montrer votre compréhension du français parlé dans des situations de la vie quotidienne ou du monde professionnel, telles qu'on peut l'entendre en France ou dans un pays francophone. Consignes générales Lisez attentivement les consignes écrites sur votre livret. Avant chaque document sonore, vous entendrez le signal sonore. Attention Vous n'entendrez ces documents sonores et les questions qu'une seule fois, alors écoutez bien. Gérez bien votre temps. Le test est chronométré. Cette partie dure 25 minutes. Répondez directement sur la feuille de réponse. N'écrivez rien sur ce livret. Vous devez choisir une seule réponse, A, B, C ou D, et cocher une seule case sur la feuille de réponse. Attention ! Si vous vous êtes trompé et avez, par exemple, coché la case B, cochez une nouvelle case et entourez cette case. Nous commençons. Tournez la page. Écoutez les quatre propositions. Choisissez celle qui correspond à l'image."
         },
@@ -51,14 +51,14 @@
         {
           "id": "q5",
           "number": "5",
-          "title": "Вопрос 5",
+          "title": "Question 5",
           "kind": "question",
           "text": "Question 5 Qu'apprend-on sur Moustapha ? À 20 km de Rabat, loin de la capitale bourdonnante, le vent balaie la campagne. Sur ces 3 ou 4 lopins de sable rouge, des paysans font pousser des légumes bio. Un défi là aussi réussi, cette ferme solidaire emploie une dizaine d'ouvriers. Chaque semaine, ils vendent des paniers bien remplis, déjà 140 clients, 200 autres sur liste d'attente."
         },
         {
           "id": "q6",
           "number": "6",
-          "title": "Вопрос 6",
+          "title": "Question 6",
           "kind": "question",
           "text": "Question 6 Qu'apprend-on sur cette production de légumes ? Les rencontres internationales du dessin de presse qui ont débuté hier sont l'occasion de partager cet univers particulier, ce langage universel qu'est le dessin, et de rencontrer notamment notre invitée, la dessinatrice Caro. Bonjour. Et merci de répondre à nos questions."
         },
@@ -79,7 +79,7 @@
         {
           "id": "q9",
           "number": "9",
-          "title": "Вопрос 9",
+          "title": "Question 9",
           "kind": "question",
           "text": "Question 9 Quelle est la particularité de cette cérémonie ? Je travaille comme Product Manager chez L'Oréal en Belgique. donc c'est vrai que quand tu as un poste comme ça tu dis que ça va être assez simple de trouver un emploi ailleurs et tu débarques ici avec ton CV en poche et en fait ils ne vont rien ton CV tes expériences belges ou européennes ne valent rien elles n'ont aucune crédibilité sur le marché australien c'est vraiment, tu dois refaire tes preuves, tu dois repartir à zéro et on te demande d'avoir une expérience en Australie pour être engagé. Le problème, c'est que personne ne va être engagé. Donc, finalement, ton expérience, tu ne sais jamais la faire."
         },
@@ -93,14 +93,14 @@
         {
           "id": "q11",
           "number": "11",
-          "title": "Вопрос 11",
+          "title": "Question 11",
           "kind": "question",
           "text": "Question 11 Pourquoi Agnès Varda est-elle touchée par ce prix ? C'était une rive paisible du Niger, à quelques kilomètres en amont de Bamako, tout juste fréquentée par les pêcheurs et quelques lavandières. Aujourd'hui, Kalabankoura est devenue une fourmilière fébrile, une berge où les pirogues affluent chaque soir par centaines avec leurs chargements précieux. Ni or ni argent pourtant à leur bord, ni même un quelconque minerai, tout juste du sable, du simple sable puisé par quelques mètres au fond du fleuve. Recherché pour sa pureté et sa finesse, c'est lui qui donne aux bâtiments de Bamako leur couleur particulière. L'expansion de la ville en fait une matière recherchée et spéculative."
         },
         {
           "id": "q12",
           "number": "12",
-          "title": "Вопрос 12",
+          "title": "Question 12",
           "kind": "question",
           "text": "Question 12 A quoi Kalabankura doit son développement ? Sous Soci Radio Je vous donne 40 secondes pour nous expliquer votre coup de c votre coup de pouce pour la plan Attention, top chrono. Bon, c'est difficile parce qu'on a envie de 40 minutes, mais je crois que le plus important à faire maintenant, c'est d'utiliser la crise financière de manière à résoudre la crise écologique. J'entends par là de socialiser les banques. Toute banque qui a reçu quelque chose du public, c'est-à-dire notre argent, devrait être obligée de prêter au PME, PMI vert, ou les particuliers avec un projet vert. On devrait utiliser l'argent qui a été servi à renflouer les banques pour aller vers une conversion verte de toute notre économie."
         },
@@ -114,7 +114,7 @@
         {
           "id": "q15",
           "number": "15",
-          "title": "Вопрос 15",
+          "title": "Question 15",
           "kind": "question",
           "text": "Question 15 Quelle particularité présente cette exposition ? Vous venez de terminer les questions de compréhension orale. Continuez l'entraînement en répondant aux questions de structure de la langue et de compréhension écrite dans le livret d'entraînement disponible sur le site apprendre.tv5monde.com. Lorsque vous aurez terminé, calculez votre score avec la grille à la fin du livret. Bon courage !"
         }

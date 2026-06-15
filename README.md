@@ -1,15 +1,15 @@
 # TCF transcripts prototype
 
-Небольшой статический сайт с транскриптами аудио к тренировочным заданиям TCF от TV5MONDE.
+A small static website with transcripts for TV5MONDE TCF training audio files.
 
-## Что сейчас внутри
+## What is included
 
-- `docs/` — buildless static site для GitHub Pages.
-- `docs/data/transcripts.json` — данные для UI: тесты, задания, транскрипты, ссылки на источники.
-- `scripts/transcribe_openrouter.py` — скрипт транскрибации через OpenRouter STT endpoint и модель `openai/whisper-large-v3`.
-- `data/tcf1-openrouter.json` — сырой ответ OpenRouter для TCF entraînement n°1.
+- `docs/` — buildless static site for GitHub Pages.
+- `docs/data/transcripts.json` — UI data: tests, tasks, transcripts, and source links.
+- `scripts/transcribe_openrouter.py` — transcription script using the OpenRouter STT endpoint and the `openai/whisper-large-v3` model.
+- `data/tcf1-openrouter.json` — raw OpenRouter response for TCF entraînement n°1.
 
-## Локальный запуск
+## Local development
 
 ```bash
 cd docs
@@ -17,21 +17,21 @@ python3 -m http.server 8080
 # open http://localhost:8080
 ```
 
-## Транскрибация нового аудио
+## Transcribing another audio file
 
-Скрипт ожидает `OPENROUTER_API_KEY` в окружении или в `~/.hermes/.env`.
+The script expects `OPENROUTER_API_KEY` in the environment or in `~/.hermes/.env`.
 
 ```bash
 python3 scripts/transcribe_openrouter.py audio/tcf2-podcast.mp3 data/tcf2-openrouter.json
 ```
 
-Скрипт создаёт два файла:
+The script creates two files:
 
-- `data/tcf2-openrouter.json` — полный JSON-ответ OpenRouter;
-- `data/tcf2-openrouter.json.txt` — только текст транскрипта.
+- `data/tcf2-openrouter.json` — the full OpenRouter JSON response;
+- `data/tcf2-openrouter.json.txt` — transcript text only.
 
-После этого нужно добавить новый тест в `docs/data/transcripts.json` и при необходимости вычитать автоматическое разбиение на задания.
+After that, add the new test to `docs/data/transcripts.json` and review the automatic task splitting if needed.
 
-## Источник
+## Source
 
 TV5MONDE: https://apprendre.tv5monde.com/fr/article/les-livrets-dentrainement-au-tcf-r-avec-tv5monde

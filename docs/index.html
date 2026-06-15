@@ -1,30 +1,30 @@
 <!doctype html>
-<html lang="ru">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>TCF — транскрипты аудио</title>
+    <title>TCF audio transcripts</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <main class="shell">
       <header class="hero">
         <p class="eyebrow">Prototype</p>
-        <h1>TCF — транскрипты пробных аудио</h1>
+        <h1>TCF training audio transcripts</h1>
         <p>
-          Небольшой сайт для чтения транскриптов к тренировочным заданиям TCF от TV5MONDE.
-          Сейчас опубликован один тестовый прогон: <strong>Entraînement n°1</strong>, распознанный через
+          A small site for reading transcripts of TV5MONDE TCF training audio files.
+          The current prototype contains one test run: <strong>Entraînement n°1</strong>, transcribed with
           OpenRouter Whisper Large V3.
         </p>
       </header>
 
-      <section class="panel controls" aria-label="Выбор транскрипта">
+      <section class="panel controls" aria-label="Transcript selection">
         <label>
-          <span>Номер теста</span>
+          <span>Test number</span>
           <select id="testSelect"></select>
         </label>
         <label>
-          <span>Номер задания</span>
+          <span>Task number</span>
           <select id="taskSelect"></select>
         </label>
       </section>
@@ -32,21 +32,21 @@
       <section class="panel transcript-card" aria-live="polite">
         <div class="card-topline">
           <div>
-            <p class="eyebrow" id="taskMeta">Загрузка…</p>
-            <h2 id="taskTitle">Транскрипт</h2>
+            <p class="eyebrow" id="taskMeta">Loading…</p>
+            <h2 id="taskTitle">Transcript</h2>
           </div>
-          <a id="audioLink" class="button" href="#" target="_blank" rel="noreferrer">Открыть аудио</a>
+          <a id="audioLink" class="button" href="#" target="_blank" rel="noreferrer">Open audio</a>
         </div>
         <article id="transcript" class="transcript"></article>
       </section>
 
       <section class="panel notes">
-        <h2>Источники и оговорки</h2>
+        <h2>Sources and notes</h2>
         <ul>
-          <li><a id="sourcePage" href="#" target="_blank" rel="noreferrer">Страница TV5MONDE с livrets d’entraînement</a></li>
-          <li><a id="sourcePdf" href="#" target="_blank" rel="noreferrer">PDF livret для выбранного теста</a></li>
-          <li>Транскрипт автоматический; перед массовым добавлением стоит вычитать спорные места.</li>
-          <li>Разбиение на задания в этом прототипе автоматическое по маркерам «Question …» / «Regardez l’image …».</li>
+          <li><a id="sourcePage" href="#" target="_blank" rel="noreferrer">TV5MONDE training booklets page</a></li>
+          <li><a id="sourcePdf" href="#" target="_blank" rel="noreferrer">PDF booklet for the selected test</a></li>
+          <li>The transcript is automatic; ambiguous passages should be reviewed before adding all tests.</li>
+          <li>Task splitting in this prototype is automatic, based on “Question …” / “Regardez l’image …” markers.</li>
         </ul>
       </section>
     </main>

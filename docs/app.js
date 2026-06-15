@@ -17,7 +17,7 @@ const els = {
 
 init().catch((error) => {
   console.error(error);
-  els.taskTitle.textContent = 'Не удалось загрузить транскрипты';
+  els.taskTitle.textContent = 'Failed to load transcripts';
   els.transcript.textContent = String(error?.message || error);
 });
 
@@ -48,7 +48,7 @@ async function init() {
 
 function fillTestSelect() {
   els.testSelect.replaceChildren(
-    ...state.data.tests.map((test) => new Option(`Тест ${test.number} — ${test.title}`, test.id)),
+    ...state.data.tests.map((test) => new Option(`Test ${test.number} — ${test.title}`, test.id)),
   );
   els.testSelect.value = state.selectedTest.id;
 }
@@ -56,7 +56,7 @@ function fillTestSelect() {
 function fillTaskSelect() {
   els.taskSelect.replaceChildren(
     ...state.selectedTest.tasks.map((task) => {
-      const label = task.kind === 'intro' ? task.number : `Задание ${task.number}`;
+      const label = task.kind === 'intro' ? task.number : `Task ${task.number}`;
       return new Option(`${label} — ${task.title}`, task.id);
     }),
   );
@@ -68,8 +68,8 @@ function render() {
   const task = state.selectedTask;
 
   els.taskMeta.textContent = task.kind === 'intro'
-    ? `Тест ${test.number} · вступление`
-    : `Тест ${test.number} · задание ${task.number}`;
+    ? `Test ${test.number} · introduction`
+    : `Test ${test.number} · task ${task.number}`;
   els.taskTitle.textContent = task.title;
   els.transcript.replaceChildren(...paragraphs(task.text));
 
