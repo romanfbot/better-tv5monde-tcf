@@ -2,12 +2,14 @@ const state = {
   data: null,
   lot: null,
   question: null,
+  selections: new Map(),
 };
 
 const els = {
   lotSelect: document.querySelector('#lotSelect'),
   questionSelect: document.querySelector('#questionSelect'),
   questionMeta: document.querySelector('#questionMeta'),
+  skillMeta: document.querySelector('#skillMeta'),
   questionTitle: document.querySelector('#questionTitle'),
   instruction: document.querySelector('#instruction'),
   imageBlock: document.querySelector('#imageBlock'),
@@ -17,6 +19,8 @@ const els = {
   audioLink: document.querySelector('#audioLink'),
   sourceLink: document.querySelector('#sourceLink'),
   answers: document.querySelector('#answers'),
+  feedback: document.querySelector('#feedback'),
+  nextButton: document.querySelector('#nextButton'),
   modelMeta: document.querySelector('#modelMeta'),
   transcript: document.querySelector('#transcript'),
 };
@@ -50,6 +54,8 @@ async function init() {
     state.question = state.lot.questions.find((question) => String(question.number) === els.questionSelect.value);
     render();
   });
+
+  els.nextButton.addEventListener('click', goToNextQuestion);
 }
 
 function fillLotSelect() {
@@ -74,6 +80,7 @@ function render() {
   const question = state.question;
 
   els.questionMeta.textContent = `${question.skill} · question ${question.number}`;
+  els.skillMeta.textContent = `${question.skill}`;
   els.questionTitle.textContent = question.prompt || `Question ${question.number}`;
   els.instruction.textContent = question.instruction || '';
   els.sourceLink.href = lot.sourceUrl;
@@ -97,13 +104,20 @@ function render() {
 
   renderAnswers(question);
   renderTranscript(question);
+  updateNextButton();
 }
 
 function renderAnswers(question) {
+  const selectedCode = getSelectedCode(question);
+  const answered = Boolean(selectedCode);
+
   els.answers.replaceChildren(
     ...question.answers.map((answer) => {
-      const item = document.createElement('div');
-      item.className = `answer ${answer.correct ? 'correct' : ''}`;
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = answerClass(answer, selectedCode);
+      button.setAttribute('aria-pressed', String(answer.code === selectedCode));
+      button.addEventListener('click', () => selectAnswer(question, answer.code));
 
       const code = document.createElement('strong');
       code.textContent = answer.code;
@@ -111,15 +125,54 @@ function renderAnswers(question) {
       const text = document.createElement('span');
       text.textContent = answer.text;
 
-      item.append(code, text);
-      if (answer.correct) {
+      button.append(code, text);
+
+      if (answered && answer.correct) {
         const badge = document.createElement('em');
         badge.textContent = 'Correct answer';
-        item.append(badge);
+        button.append(badge);
+      } else if (answered && answer.code === selectedCode && !answer.correct) {
+        const badge = document.createElement('em');
+        badge.textContent = 'Your answer';
+        button.append(badge);
       }
-      return item;
+
+      return button;
     }),
   );
+
+  renderFeedback(question, selectedCode);
+}
+
+function answerClass(answer, selectedCode) {
+  const classes = ['answer'];
+  if (!selectedCode) return classes.join(' ');
+  if (answer.correct) classes.push('correct');
+  if (answer.code === selectedCode) classes.push('selected');
+  if (answer.code === selectedCode && !answer.correct) classes.push('incorrect');
+  return classes.join(' ');
+}
+
+function selectAnswer(question, code) {
+  state.selections.set(selectionKey(question), code);
+  renderAnswers(question);
+}
+
+function renderFeedback(question, selectedCode) {
+  if (!selectedCode) {
+    els.feedback.textContent = 'Choose an answer to reveal the correct option.';
+    els.feedback.className = 'feedback muted';
+    return;
+  }
+
+  const selected = question.answers.find((answer) => answer.code === selectedCode);
+  if (selected?.correct) {
+    els.feedback.textContent = `Correct — ${selectedCode}.`;
+    els.feedback.className = 'feedback correct';
+  } else {
+    els.feedback.textContent = `Not quite. Correct answer: ${question.correctAnswer}.`;
+    els.feedback.className = 'feedback incorrect';
+  }
 }
 
 function renderTranscript(question) {
@@ -136,6 +189,30 @@ function renderTranscript(question) {
     p.textContent = part;
     return p;
   }));
+}
+
+function goToNextQuestion() {
+  const questions = state.lot.questions;
+  const index = questions.findIndex((question) => question.number === state.question.number);
+  const next = questions[(index + 1) % questions.length];
+  state.question = next;
+  els.questionSelect.value = String(next.number);
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function updateNextButton() {
+  const questions = state.lot.questions;
+  const index = questions.findIndex((question) => question.number === state.question.number);
+  els.nextButton.textContent = index === questions.length - 1 ? 'Back to question 1' : 'Next question';
+}
+
+function getSelectedCode(question) {
+  return state.selections.get(selectionKey(question));
+}
+
+function selectionKey(question) {
+  return `${state.lot.id}:${question.number}`;
 }
 
 function splitTranscript(text) {

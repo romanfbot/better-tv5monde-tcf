@@ -12,8 +12,8 @@
         <p class="eyebrow">TV5MONDE TCF helper</p>
         <h1>TCF practice with audio transcripts</h1>
         <p>
-          A cleaner study interface for TV5MONDE TCF practice tests: source audio, answer choices,
-          the correct answer, and an added automatic transcript for each listening question.
+          Listen, choose an answer, then reveal whether you were right. Transcripts stay next to the
+          audio so you can review the spoken French after listening.
         </p>
       </header>
 
@@ -29,16 +29,15 @@
       </section>
 
       <section class="layout">
-        <article class="panel question-card">
+        <article class="panel media-card">
           <div class="card-topline">
             <div>
               <p class="eyebrow" id="questionMeta">Loading…</p>
-              <h2 id="questionTitle">Question</h2>
+              <h2>Listen</h2>
             </div>
             <a id="sourceLink" class="button secondary" href="#" target="_blank" rel="noreferrer">Open source</a>
           </div>
 
-          <p id="instruction" class="instruction"></p>
           <figure id="imageBlock" class="image-block" hidden>
             <img id="questionImage" alt="Question visual from TV5MONDE" />
           </figure>
@@ -48,20 +47,31 @@
             <a id="audioLink" href="#" target="_blank" rel="noreferrer">Open MP3</a>
           </div>
 
-          <h3>Answer choices</h3>
-          <div id="answers" class="answers"></div>
+          <section class="transcript-section" aria-label="Audio transcript">
+            <p class="eyebrow" id="modelMeta">Transcript</p>
+            <div id="transcript" class="transcript"></div>
+          </section>
         </article>
 
-        <article class="panel transcript-card">
-          <p class="eyebrow" id="modelMeta">Transcript</p>
-          <h2>Audio transcript</h2>
-          <div id="transcript" class="transcript"></div>
+        <article class="panel answer-card">
+          <p class="eyebrow" id="skillMeta">Question</p>
+          <h2 id="questionTitle">Question</h2>
+          <p id="instruction" class="instruction"></p>
+
+          <h3>Choose your answer</h3>
+          <div id="answers" class="answers"></div>
+          <p id="feedback" class="feedback" aria-live="polite"></p>
+
+          <div class="actions">
+            <button id="nextButton" class="button" type="button">Next question</button>
+          </div>
         </article>
       </section>
 
       <section class="panel notes">
         <h2>Notes</h2>
         <ul>
+          <li>Correct answers are hidden until you choose an option.</li>
           <li>Question data and correct answers are extracted from the TV5MONDE result view.</li>
           <li>Transcripts are generated with OpenRouter model <code>nvidia/parakeet-tdt-0.6b-v3</code>.</li>
           <li>This prototype currently includes the listening section for <code>tcf_lot_id=58</code>.</li>

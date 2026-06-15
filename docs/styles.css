@@ -9,6 +9,8 @@
   --accent-2: #d6603d;
   --good: #16794b;
   --good-bg: #eaf8ef;
+  --bad: #b43b2f;
+  --bad-bg: #fff0ec;
   --border: #eadfd0;
   --shadow: 0 24px 80px rgba(61, 43, 26, 0.12);
 }
@@ -58,7 +60,7 @@ h2 {
   letter-spacing: -0.03em;
 }
 
-h3 { margin-top: 24px; font-size: 1rem; }
+h3 { margin-top: 28px; font-size: 1rem; }
 
 p { line-height: 1.65; }
 
@@ -99,14 +101,19 @@ select {
 
 .layout {
   display: grid;
-  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+  grid-template-columns: minmax(0, 1.05fr) minmax(360px, 0.95fr);
   gap: 24px;
   align-items: start;
 }
 
-.question-card,
-.transcript-card,
+.media-card,
+.answer-card,
 .notes { padding: clamp(20px, 4vw, 32px); }
+
+.answer-card {
+  position: sticky;
+  top: 20px;
+}
 
 .card-topline {
   display: flex;
@@ -123,14 +130,21 @@ select {
   justify-content: center;
   min-height: 44px;
   padding: 0 16px;
+  border: 0;
   border-radius: 999px;
   background: var(--accent);
   color: #fff;
+  font: inherit;
   font-weight: 800;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .button.secondary { background: #efe4d5; color: var(--text); }
+.button:focus-visible, .answer:focus-visible, select:focus-visible {
+  outline: 3px solid rgba(31, 95, 139, 0.35);
+  outline-offset: 3px;
+}
 
 .instruction {
   color: var(--muted);
@@ -159,42 +173,10 @@ select {
 
 audio { width: 100%; }
 
-.answers {
-  display: grid;
-  gap: 10px;
-  margin-top: 12px;
-}
-
-.answer {
-  display: grid;
-  grid-template-columns: 2.2rem 1fr auto;
-  gap: 12px;
-  align-items: center;
-  padding: 14px;
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  background: var(--panel-strong);
-}
-
-.answer strong {
-  display: inline-grid;
-  place-items: center;
-  width: 2rem;
-  height: 2rem;
-  border-radius: 999px;
-  background: #f0e6d8;
-}
-
-.answer.correct {
-  border-color: rgba(22, 121, 75, 0.35);
-  background: var(--good-bg);
-}
-
-.answer.correct strong { background: var(--good); color: #fff; }
-.answer em { color: var(--good); font-style: normal; font-weight: 800; font-size: 0.82rem; }
+.transcript-section { margin-top: 26px; }
 
 .transcript {
-  margin-top: 18px;
+  margin-top: 12px;
   padding: clamp(18px, 4vw, 28px);
   border-radius: 22px;
   background: var(--panel-strong);
@@ -205,6 +187,70 @@ audio { width: 100%; }
 
 .transcript p { margin: 0 0 1em; }
 .transcript p:last-child { margin-bottom: 0; }
+
+.answers {
+  display: grid;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.answer {
+  display: grid;
+  grid-template-columns: 2.2rem 1fr auto;
+  gap: 12px;
+  align-items: center;
+  width: 100%;
+  padding: 15px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--panel-strong);
+  color: var(--text);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 120ms ease, border-color 120ms ease, background 120ms ease;
+}
+
+.answer:hover { transform: translateY(-1px); }
+
+.answer strong {
+  display: inline-grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 999px;
+  background: #f0e6d8;
+}
+
+.answer.selected { border-width: 2px; }
+.answer.correct {
+  border-color: rgba(22, 121, 75, 0.45);
+  background: var(--good-bg);
+}
+
+.answer.correct strong { background: var(--good); color: #fff; }
+.answer.incorrect {
+  border-color: rgba(180, 59, 47, 0.45);
+  background: var(--bad-bg);
+}
+.answer.incorrect strong { background: var(--bad); color: #fff; }
+.answer em { color: var(--good); font-style: normal; font-weight: 800; font-size: 0.82rem; }
+.answer.incorrect em { color: var(--bad); }
+
+.feedback {
+  min-height: 1.8em;
+  margin: 16px 0 0;
+  font-weight: 800;
+}
+.feedback.muted { color: var(--muted); font-weight: 650; }
+.feedback.correct { color: var(--good); }
+.feedback.incorrect { color: var(--bad); }
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 24px;
+}
 
 .notes {
   margin-top: 24px;
@@ -225,6 +271,7 @@ code {
 
 @media (max-width: 900px) {
   .layout, .controls { grid-template-columns: 1fr; }
+  .answer-card { position: static; }
   .card-topline { flex-direction: column; }
   .button { width: 100%; }
 }
