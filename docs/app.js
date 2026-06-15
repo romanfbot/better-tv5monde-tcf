@@ -1,95 +1,147 @@
 const state = {
   data: null,
-  selectedTest: null,
-  selectedTask: null,
+  lot: null,
+  question: null,
 };
 
 const els = {
-  testSelect: document.querySelector('#testSelect'),
-  taskSelect: document.querySelector('#taskSelect'),
-  taskMeta: document.querySelector('#taskMeta'),
-  taskTitle: document.querySelector('#taskTitle'),
-  transcript: document.querySelector('#transcript'),
+  lotSelect: document.querySelector('#lotSelect'),
+  questionSelect: document.querySelector('#questionSelect'),
+  questionMeta: document.querySelector('#questionMeta'),
+  questionTitle: document.querySelector('#questionTitle'),
+  instruction: document.querySelector('#instruction'),
+  imageBlock: document.querySelector('#imageBlock'),
+  questionImage: document.querySelector('#questionImage'),
+  audioBlock: document.querySelector('#audioBlock'),
+  audio: document.querySelector('#audio'),
   audioLink: document.querySelector('#audioLink'),
-  sourcePage: document.querySelector('#sourcePage'),
-  sourcePdf: document.querySelector('#sourcePdf'),
+  sourceLink: document.querySelector('#sourceLink'),
+  answers: document.querySelector('#answers'),
+  modelMeta: document.querySelector('#modelMeta'),
+  transcript: document.querySelector('#transcript'),
 };
 
 init().catch((error) => {
   console.error(error);
-  els.taskTitle.textContent = 'Failed to load transcripts';
+  els.questionTitle.textContent = 'Failed to load TCF data';
   els.transcript.textContent = String(error?.message || error);
 });
 
 async function init() {
-  const response = await fetch('./data/transcripts.json');
+  const response = await fetch('./data/tcf-lots.json');
   if (!response.ok) throw new Error(`HTTP ${response.status}: ${response.statusText}`);
 
   state.data = await response.json();
-  state.selectedTest = state.data.tests[0];
-  state.selectedTask = state.selectedTest.tasks[0];
+  state.lot = state.data.lots[0];
+  state.question = state.lot.questions[0];
 
-  fillTestSelect();
-  fillTaskSelect();
+  fillLotSelect();
+  fillQuestionSelect();
   render();
 
-  els.testSelect.addEventListener('change', () => {
-    state.selectedTest = state.data.tests.find((test) => test.id === els.testSelect.value);
-    state.selectedTask = state.selectedTest.tasks[0];
-    fillTaskSelect();
+  els.lotSelect.addEventListener('change', () => {
+    state.lot = state.data.lots.find((lot) => lot.id === els.lotSelect.value);
+    state.question = state.lot.questions[0];
+    fillQuestionSelect();
     render();
   });
 
-  els.taskSelect.addEventListener('change', () => {
-    state.selectedTask = state.selectedTest.tasks.find((task) => task.id === els.taskSelect.value);
+  els.questionSelect.addEventListener('change', () => {
+    state.question = state.lot.questions.find((question) => String(question.number) === els.questionSelect.value);
     render();
   });
 }
 
-function fillTestSelect() {
-  els.testSelect.replaceChildren(
-    ...state.data.tests.map((test) => new Option(`Test ${test.number} — ${test.title}`, test.id)),
+function fillLotSelect() {
+  els.lotSelect.replaceChildren(
+    ...state.data.lots.map((lot) => new Option(`${lot.title}`, lot.id)),
   );
-  els.testSelect.value = state.selectedTest.id;
+  els.lotSelect.value = state.lot.id;
 }
 
-function fillTaskSelect() {
-  els.taskSelect.replaceChildren(
-    ...state.selectedTest.tasks.map((task) => {
-      const label = task.kind === 'intro' ? task.number : `Task ${task.number}`;
-      return new Option(`${label} — ${task.title}`, task.id);
+function fillQuestionSelect() {
+  els.questionSelect.replaceChildren(
+    ...state.lot.questions.map((question) => {
+      const hasAudio = question.audioUrl ? '🎧 ' : '';
+      return new Option(`${hasAudio}Question ${question.number}`, String(question.number));
     }),
   );
-  els.taskSelect.value = state.selectedTask.id;
+  els.questionSelect.value = String(state.question.number);
 }
 
 function render() {
-  const test = state.selectedTest;
-  const task = state.selectedTask;
+  const lot = state.lot;
+  const question = state.question;
 
-  els.taskMeta.textContent = task.kind === 'intro'
-    ? `Test ${test.number} · introduction`
-    : `Test ${test.number} · task ${task.number}`;
-  els.taskTitle.textContent = task.title;
-  els.transcript.replaceChildren(...paragraphs(task.text));
+  els.questionMeta.textContent = `${question.skill} · question ${question.number}`;
+  els.questionTitle.textContent = question.prompt || `Question ${question.number}`;
+  els.instruction.textContent = question.instruction || '';
+  els.sourceLink.href = lot.sourceUrl;
 
-  els.audioLink.href = test.audioUrl || state.data.source.audio;
-  els.sourcePage.href = state.data.source.page;
-  els.sourcePdf.href = state.data.source.pdf;
+  if (question.imageUrl) {
+    els.questionImage.src = question.imageUrl;
+    els.imageBlock.hidden = false;
+  } else {
+    els.questionImage.removeAttribute('src');
+    els.imageBlock.hidden = true;
+  }
+
+  if (question.audioUrl) {
+    els.audio.src = question.audioUrl;
+    els.audioLink.href = question.audioUrl;
+    els.audioBlock.hidden = false;
+  } else {
+    els.audio.removeAttribute('src');
+    els.audioBlock.hidden = true;
+  }
+
+  renderAnswers(question);
+  renderTranscript(question);
 }
 
-function paragraphs(text) {
-  return splitTranscript(text).map((part) => {
+function renderAnswers(question) {
+  els.answers.replaceChildren(
+    ...question.answers.map((answer) => {
+      const item = document.createElement('div');
+      item.className = `answer ${answer.correct ? 'correct' : ''}`;
+
+      const code = document.createElement('strong');
+      code.textContent = answer.code;
+
+      const text = document.createElement('span');
+      text.textContent = answer.text;
+
+      item.append(code, text);
+      if (answer.correct) {
+        const badge = document.createElement('em');
+        badge.textContent = 'Correct answer';
+        item.append(badge);
+      }
+      return item;
+    }),
+  );
+}
+
+function renderTranscript(question) {
+  const tx = question.transcription;
+  if (!tx?.text) {
+    els.modelMeta.textContent = 'Transcript unavailable';
+    els.transcript.textContent = 'No transcript is available for this question.';
+    return;
+  }
+
+  els.modelMeta.textContent = `Transcript · ${tx.model}`;
+  els.transcript.replaceChildren(...splitTranscript(tx.text).map((part) => {
     const p = document.createElement('p');
     p.textContent = part;
     return p;
-  });
+  }));
 }
 
 function splitTranscript(text) {
   return text
     .replace(/\s+(?=(?:A|B|C|D)\.\s)/g, '\n')
-    .replace(/\s+(?=(?:Question|Regardez|Écoutez)\b)/g, '\n')
+    .replace(/\s+(?=(?:Écoutez|Choisissez|Quand|Quelle|Pourquoi|Selon|De quoi|A quoi)\b)/g, '\n')
     .split(/\n+/)
     .map((part) => part.trim())
     .filter(Boolean);

@@ -3,50 +3,69 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>TCF audio transcripts</title>
+    <title>TCF practice with transcripts</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <main class="shell">
       <header class="hero">
-        <p class="eyebrow">Prototype</p>
-        <h1>TCF training audio transcripts</h1>
+        <p class="eyebrow">TV5MONDE TCF helper</p>
+        <h1>TCF practice with audio transcripts</h1>
         <p>
-          A small site for reading transcripts of TV5MONDE TCF training audio files.
-          The current prototype contains one test run: <strong>Entraînement n°1</strong>, transcribed with
-          OpenRouter Whisper Large V3.
+          A cleaner study interface for TV5MONDE TCF practice tests: source audio, answer choices,
+          the correct answer, and an added automatic transcript for each listening question.
         </p>
       </header>
 
-      <section class="panel controls" aria-label="Transcript selection">
+      <section class="panel controls" aria-label="Question selection">
         <label>
-          <span>Test number</span>
-          <select id="testSelect"></select>
+          <span>Training test</span>
+          <select id="lotSelect"></select>
         </label>
         <label>
-          <span>Task number</span>
-          <select id="taskSelect"></select>
+          <span>Question</span>
+          <select id="questionSelect"></select>
         </label>
       </section>
 
-      <section class="panel transcript-card" aria-live="polite">
-        <div class="card-topline">
-          <div>
-            <p class="eyebrow" id="taskMeta">Loading…</p>
-            <h2 id="taskTitle">Transcript</h2>
+      <section class="layout">
+        <article class="panel question-card">
+          <div class="card-topline">
+            <div>
+              <p class="eyebrow" id="questionMeta">Loading…</p>
+              <h2 id="questionTitle">Question</h2>
+            </div>
+            <a id="sourceLink" class="button secondary" href="#" target="_blank" rel="noreferrer">Open source</a>
           </div>
-          <a id="audioLink" class="button" href="#" target="_blank" rel="noreferrer">Open audio</a>
-        </div>
-        <article id="transcript" class="transcript"></article>
+
+          <p id="instruction" class="instruction"></p>
+          <figure id="imageBlock" class="image-block" hidden>
+            <img id="questionImage" alt="Question visual from TV5MONDE" />
+          </figure>
+
+          <div id="audioBlock" class="audio-block" hidden>
+            <audio id="audio" controls preload="metadata"></audio>
+            <a id="audioLink" href="#" target="_blank" rel="noreferrer">Open MP3</a>
+          </div>
+
+          <h3>Answer choices</h3>
+          <div id="answers" class="answers"></div>
+        </article>
+
+        <article class="panel transcript-card">
+          <p class="eyebrow" id="modelMeta">Transcript</p>
+          <h2>Audio transcript</h2>
+          <div id="transcript" class="transcript"></div>
+        </article>
       </section>
 
       <section class="panel notes">
-        <h2>Sources and notes</h2>
+        <h2>Notes</h2>
         <ul>
-          <li><a id="sourcePage" href="#" target="_blank" rel="noreferrer">TV5MONDE training booklets page</a></li>
-          <li><a id="sourcePdf" href="#" target="_blank" rel="noreferrer">PDF booklet for the selected test</a></li>
-          <li>The transcript is automatic; ambiguous passages should be reviewed before adding all tests.</li>
-          <li>Task splitting in this prototype is automatic, based on “Question …” / “Regardez l’image …” markers.</li>
+          <li>Question data and correct answers are extracted from the TV5MONDE result view.</li>
+          <li>Transcripts are generated with OpenRouter model <code>nvidia/parakeet-tdt-0.6b-v3</code>.</li>
+          <li>This prototype currently includes the listening section for <code>tcf_lot_id=58</code>.</li>
+          <li><a href="./EXTRACTION.md">Extraction workflow for future parallel agents</a></li>
         </ul>
       </section>
     </main>
