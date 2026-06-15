@@ -22,6 +22,7 @@ const els = {
   feedback: document.querySelector('#feedback'),
   nextButton: document.querySelector('#nextButton'),
   modelMeta: document.querySelector('#modelMeta'),
+  transcriptDetails: document.querySelector('#transcriptDetails'),
   transcript: document.querySelector('#transcript'),
 };
 
@@ -176,6 +177,7 @@ function renderFeedback(question, selectedCode) {
 }
 
 function renderTranscript(question) {
+  els.transcriptDetails.open = false;
   const tx = question.transcription;
   if (!tx?.text) {
     els.modelMeta.textContent = 'Transcript unavailable';
