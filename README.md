@@ -19,6 +19,9 @@ Published site: https://romanfbot.github.io/better-tv5monde-tcf/
 - `scripts/process_tv5_lots.py` — extracts a TV5MONDE lot with `agent-browser`, downloads audio, and transcribes it through OpenRouter.
 - `scripts/merge_tv5_lots.py` — merges processed per-lot JSON files into the static-site dataset.
 - `scripts/transcribe_openrouter.py` — standalone transcription script using the OpenRouter STT endpoint.
+- `scripts/transcribe_whisper_lots.py` — batch transcription for existing audio with `openai/whisper-large-v3`.
+- `scripts/select_best_transcripts.py` — compares Parakeet vs Whisper text output, removes known subtitle artifacts, selects the better transcript, and formats it for the site.
+- `data/transcript-selection-report.json` — per-question comparison report showing which model was selected.
 - `data/tv5monde-<LOT_ID>/` — raw extraction data, OpenRouter responses, transcript text files, and per-lot `lot.json` files.
 
 ## Current dataset
@@ -45,10 +48,11 @@ The deployed site includes 17 TV5MONDE `Compréhension orale` training tests: di
 17: 70
 ```
 
-Each test has 15 listening questions. Audio files are extracted from TV5MONDE per-question pages, and transcripts are generated with:
+Each test has 15 listening questions. Audio files are extracted from TV5MONDE per-question pages. Transcripts were generated with both models below, then selected per question by text-quality comparison:
 
 ```text
 nvidia/parakeet-tdt-0.6b-v3
+openai/whisper-large-v3
 ```
 
 ## Local development
@@ -67,6 +71,9 @@ The script expects `OPENROUTER_API_KEY` in the environment or in `~/.hermes/.env
 python3 scripts/process_tv5_lots.py 71:18 72:19
 # then add the new lot IDs to ORDER in scripts/merge_tv5_lots.py
 python3 scripts/merge_tv5_lots.py
+# optional: generate Whisper Large alternatives and select the better transcript per question
+python3 scripts/transcribe_whisper_lots.py 71 72
+python3 scripts/select_best_transcripts.py --apply
 ```
 
 `process_tv5_lots.py` accepts `LOT_ID:DISPLAY_NUMBER` pairs and creates:

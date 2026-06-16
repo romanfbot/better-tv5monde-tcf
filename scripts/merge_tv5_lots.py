@@ -83,27 +83,36 @@ def format_lot_transcripts(lot: dict) -> None:
         if isinstance(text, str):
             transcription["text"] = format_transcript(text)
 
-lots = []
-for display_number, lot_id in enumerate(ORDER, start=1):
-    path = ROOT / "data" / f"tv5monde-{lot_id}" / "lot.json"
-    if not path.exists():
-        raise FileNotFoundError(path)
-    lot = json.loads(path.read_text(encoding="utf-8"))
-    lot["displayNumber"] = display_number
-    lot["title"] = f"Test {display_number}"
-    lot["id"] = f"tv5monde-tcf-{lot_id}"
-    lot["lotId"] = lot_id
-    lot["sourceUrl"] = f"https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id={lot_id}&competence=CO#tcf_header"
-    format_lot_transcripts(lot)
-    lots.append(lot)
+def build_payload() -> dict:
+    lots = []
+    for display_number, lot_id in enumerate(ORDER, start=1):
+        path = ROOT / "data" / f"tv5monde-{lot_id}" / "lot.json"
+        if not path.exists():
+            raise FileNotFoundError(path)
+        lot = json.loads(path.read_text(encoding="utf-8"))
+        lot["displayNumber"] = display_number
+        lot["title"] = f"Test {display_number}"
+        lot["id"] = f"tv5monde-tcf-{lot_id}"
+        lot["lotId"] = lot_id
+        lot["sourceUrl"] = f"https://apprendre.tv5monde.com/fr/tcf/test-dentrainement-au-tcf?tcf_lot_id={lot_id}&competence=CO#tcf_header"
+        format_lot_transcripts(lot)
+        lots.append(lot)
 
-payload = {
-    "version": 3,
-    "source": "tv5monde-tcf",
-    "description": "Better TV5MONDE TCF listening-practice data with extracted answers and OpenRouter transcripts.",
-    "lots": lots,
-}
+    return {
+        "version": 3,
+        "source": "tv5monde-tcf",
+        "description": "Better TV5MONDE TCF listening-practice data with extracted answers and OpenRouter transcripts.",
+        "lots": lots,
+    }
 
-out = ROOT / "docs" / "data" / "tcf-lots.json"
-out.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-print(f"wrote {out} with {len(lots)} lots / {sum(len(l['questions']) for l in lots)} questions")
+
+def main() -> None:
+    payload = build_payload()
+    out = ROOT / "docs" / "data" / "tcf-lots.json"
+    out.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    lots = payload["lots"]
+    print(f"wrote {out} with {len(lots)} lots / {sum(len(l['questions']) for l in lots)} questions")
+
+
+if __name__ == "__main__":
+    main()

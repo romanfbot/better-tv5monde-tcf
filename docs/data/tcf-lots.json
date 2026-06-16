@@ -272,10 +272,10 @@
           "questionId": "447",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes rencontres internationales du dessin de presse qui ont débuté hier sont l'occasion de partager Partage that univers particulier, the language universal dessin, and to rencontre notamment notre invité, la dessinatrice Caro. Bonjour.\n\nQuel est le but de ces rencontres sur le dessin de presse?",
-            "rawFile": "data/tv5monde-58/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes rencontres internationales du dessin de presse qui ont débuté hier sont l'occasion de partager cet univers particulier, ce langage universel qu'est le dessin. et de rencontrer notamment notre invitée, la dessinatrice Caro. Bonjour et merci de répondre à nos questions.\n\nD'après cette présentation, quel est le but de ces rencontres sur le dessin de presse ?",
+            "rawFile": "data/tv5monde-58/q07-whisper-large-v3.json"
           }
         },
         {
@@ -310,10 +310,10 @@
           "questionId": "448",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBienvenue dans Écran Vert pour le numéro 10 de votre magazine. consacré au development durable, we have decided to aborder the theme de la santé. Notre santé, votre santé, la santé de nos enfants.\nA bien précieux, mais un bien peut-être menacé.\n\nQuel est?\n\nQuel sera l'impact du réchauffement climatique? Sur le bien-être de tous. Faut-il d'ores et déjà parler d'urgence sanitaire liée à l'environnement? Nous allons chercher des réponses avec nos invités, nos reportages. Écran vert numéro 10, c'est parti. Voici le sommaire. S'intéressera à ce magazine.",
-            "rawFile": "data/tv5monde-58/q08-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBienvenue dans Écran Vert. Pour le numéro 10 de votre magazine consacré au développement durable, nous avons décidé d'aborder le thème de la santé. Notre santé, votre santé, la santé de nos enfants, un bien précieux mais un bien peut-être menacé.\n\nQuel est, quel sera l'impact du réchauffement climatique sur le bien-être de tous ? Faut-il d'ores et déjà parler d'urgence sanitaire liée à l'environnement ? Nous allons chercher des réponses avec nos invités, nos reportages. Écran vert numéro 10, c'est parti, voici le sommaire. À quel aspect du danger sanitaire s'intéressera ce magazine ?",
+            "rawFile": "data/tv5monde-58/q08-whisper-large-v3.json"
           }
         },
         {
@@ -348,10 +348,10 @@
           "questionId": "449",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn termine avec la 16e cérémonie des lumières. Une cérémonie où la presse You pour la suivante en direct if you leave it on the site of the Académie des Lumières. Ce vendredi à 19h30, temps universel, académielumière.com\n\nQuelle est la particularité de cette cérémonie?",
-            "rawFile": "data/tv5monde-58/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn termine avec la 16e cérémonie des Lumières. Une cérémonie où la presse étrangère récompense le cinéma français et francophone et dont TV5MONDE est évidemment... Eh bien, cette cérémonie est présidée cette année par l'acteur François Berléand. Vous pourrez la suivre en direct, si vous le souhaitez, sur le site de l'Académie des Lumières. Ça se passera ce vendredi à 19h30, temps universel, académilumière.com.\n\nQuelle est la particularité de cette cérémonie ?",
+            "rawFile": "data/tv5monde-58/q09-whisper-large-v3.json"
           }
         },
         {
@@ -424,10 +424,10 @@
           "questionId": "451",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAgnès Varda, vous avez reçu le carrosse d'or. C'est bête, c'est parce que ce n'était pas un vrai carrosse. J'espérais repartir avec. Mais c'était une très belle sculpture. En fait, ça m'a été donné, et c'est assez rare, par mes pères, c'est-à-dire les autres réalisateurs et réalisatrices de cette société française de films. Et c'est toujours touchant quand ce sont des collègues, comme on dit, qui vous identifient. Et c'est très très rare. La seule fois que j'avais vu un jury de réalisateurs, c'était au Festival de Venise il y a longtemps, c'était Bertolucci qui avait réuni des... réalisateur. Donc ils m'ont fait plaisir et l'intitulé du prix est formidable. C'est parce que c'est pour l'audace et pour l'intransigeance.\n\nPourquoi Agnès Varda est-elle touchée par ce prix?",
-            "rawFile": "data/tv5monde-58/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAgnès Varda, vous avez reçu le carrosse d'or. Oui, c'est bête parce que ce n'était pas un vrai carrosse. J'espérais repartir avec. Mais c'était une très belle sculpture. En fait, ça m'a été donné Et c'est assez rare par mes pairs, c'est-à-dire les autres réalisateurs et réalisatrices de cette société française de films. Et c'est toujours touchant quand ce sont des collègues, comme on dit, qui vous identifient. Et c'est très très rare. La seule fois que j'avais vu un jury de réalisateurs, c'était au festival. De Venise, il y a longtemps, c'était Bertolucci qui avait réuni des réalisateurs. Donc, ils m'ont fait plaisir. Et l'intitulé du prix est formidable, c'est parce que c'est pour l'audace. et pour l'intransigeance.\n\nPourquoi Agnès Varda est-elle touchée par ce prix ?",
+            "rawFile": "data/tv5monde-58/q11-whisper-large-v3.json"
           }
         },
         {
@@ -500,10 +500,10 @@
           "questionId": "453",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJe vous donne 40 secondes pour nous expliquer votre... coup de cœur, votre coup de pouce pour la planète. Attention, top chrono. Mais je crois que le plus important à faire maintenant, c'est d'utiliser la crise financière. de manière à résoudre la crise ecologic. J'entends par là de socialiser les banques. Tout bank qui a reçu quelque chose du public, c'est-à-dire notre argent, devrait être obligé de prêter aux PME. PMI vert or the particuliers with a project. We have the argument that served to renflouer the banks for a conversion verte. de toute notre économie.\n\nQuelle banque serait concernée par la proposition de cette interlocutrice?",
-            "rawFile": "data/tv5monde-58/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJe vous donne 40 secondes pour nous expliquer votre coup de cœur, votre coup de pouce pour la planète. Attention, top chrono. Bon, c'est difficile parce qu'on a envie de 40 minutes, mais je crois que le plus important à faire maintenant, c'est d'utiliser la crise financière de manière à résoudre la crise écologique. J'entends par là de socialiser les banques. Toute banque qui a reçu quelque chose du public, c'est-à-dire notre argent, devrait être obligée de prêter au PME, PMI vert, ou les particuliers avec un projet vert. On devrait utiliser l'argent qui a été servi à renflouer les banques pour aller vers une conversion verte de toute notre économie.",
+            "rawFile": "data/tv5monde-58/q13-whisper-large-v3.json"
           }
         },
         {
@@ -538,10 +538,10 @@
           "questionId": "454",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nIl s'agit d'une œuvre de Pilar Albaracine, qui est une artiste espagnole. Un taureau empaillé à genoux. It's very important. It symbolises in part one sort of défaite de la virilité, en tout cas de mise à mal de la virilité. C'est un travail qui est très nourrit de la culture et du pays d'origine de l'artiste. Souvent les artistes ont tendance à se présenter, les artistes contemporains en particulier, comme flottant à la surface de la Terre et ayant un propos et une inspiration. inspiration universelle, certains revendiquent une inspiration locale et construisent une œuvre qui touche universellement mais qui assume ses racines locales.\n\nSelon cet intervenant,\n\nComment travaille Pilar Albaracine?",
-            "rawFile": "data/tv5monde-58/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nIl s'agit d'une œuvre de Pilar Albarracín, qui est une artiste espagnole qui joue sur les symboles de l'hispanité. Un taureau empaillé à genoux, c'est très important. Ça symbolise en partie une sorte de défaite de la virilité, en tout cas de mise à mal de la virilité. C'est un travail qui est très nourri de la culture et du pays d'origine de l'artiste. Souvent, les artistes ont tendance à se présenter, les artistes contemporains en particulier, comme... Flottant à la surface de la Terre et ayant un propos et une inspiration universelle, certains revendiquent une inspiration locale et construisent une œuvre qui touche universellement, mais qui assume ses racines locales.\n\nSelon cet intervenant, comment travaille Pilar Albaracin ?",
+            "rawFile": "data/tv5monde-58/q14-whisper-large-v3.json"
           }
         },
         {
@@ -967,10 +967,10 @@
           "questionId": "410",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDans les années 90, la transition se traduit notamment par la montée de l'anglais. Suprématie aujourd'hui confirmée, mais la tendance se nuance. Avec près de 50 000 élèves à Saint-Pétersbourg, le français résiste bien, un peu derrière l'allemand. Parmi la vingtaine d'écoles spécialisées, ce lycée bilingue, fondé en 1994, établissement d'élite, Près de 700 élèves pour qui notre langue est plus un moyen d'accès à l'Europe qu'un souvenir romantique. Le français reprend ses positions, on peut le dire. Parce que et surtout c'est à Saint-Pétersbourg. Mais pas seulement la culture, aussi il y a beaucoup d'entre eux. Et ça aussi ce sont des débouchés pour nos jeunes.\n\nSelon ce reportage, comment s'exprimer? explique la popularité de la langue française à Saint-Pétersbourg.",
-            "rawFile": "data/tv5monde-57/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDans les années 90, la transition se traduit notamment par la montée de l'anglais. Suprématie aujourd'hui confirmée, mais la tendance se nuance. Près de 50 000 élèves à Saint-Pétersbourg, le français résiste bien, un peu derrière l'allemand. Parmi la vingtaine d'écoles spécialisées, ce lycée bilingue, fondé en 1994. Établissement d'élite, près de 700 élèves pour qui notre langue est plus un moyen d'accès à l'Europe qu'un souvenir romantique. Le français reprend ses positions, on peut le dire. Et surtout, c'est à Saint-Pétersbourg. Mais pas seulement la culture, il y a beaucoup d'entreprises, il y a beaucoup de firmes françaises qui apparaissent à Saint-Pétersbourg. Et ça aussi, ce sont des débouchés pour nos jeunes.\n\nSelon ce reportage,\n\nComment s'exprimer ? explique la popularité de la langue française à Saint-Pétersbourg.",
+            "rawFile": "data/tv5monde-57/q10-whisper-large-v3.json"
           }
         },
         {
@@ -1043,10 +1043,10 @@
           "questionId": "412",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn consomme énormément, on use les ressources, on pollue la terre, il faut arrêter. for the generation future, but it's not arrêting to be consummators irresponsable, to vivid superflu, to vivid, to vivid. Tout that is not necessary, not non plus necessary au bonheur, parce que The bonheur is by the quality of the view, it's by the quality of the view, and the progress human is evidently the progress moral. This is the very famous progress economic. du progrès écologique et du progrès humain.\n\nQuelle est la thèse défendue par ce spécialiste?",
-            "rawFile": "data/tv5monde-57/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn consomme énormément, on use les ressources, on pollue la terre, il faut arrêter pour les générations futures, donc il faut arrêter d'être des consommateurs irresponsables. de vivre du superflu, de vivre de l'inutile, de vivre du futile, tout ça n'est pas nécessaire, n'est pas non plus nécessaire au bonheur, parce que le bonheur c'est par la qualité de la vie affective, c'est par la qualité de la vie spirituelle, et le vrai progrès humain, c'est évidemment le progrès moral. Ce n'est pas seulement le très fameux progrès économique. Il faut du progrès écologique et du progrès humain.\n\nQuelle est la thèse défendue par ce spécialiste ?",
+            "rawFile": "data/tv5monde-57/q12-whisper-large-v3.json"
           }
         },
         {
@@ -1157,10 +1157,10 @@
           "questionId": "415",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nC'est un grand plaisir pour moi chaque année de travailler avec une petite équipe. And to reflect at what we're making, what we've got to play. And we commence evidently by penchant on the actual day. What has marked the actual Quebec, what's been the object of debate, what has created the polemic. And we cherry to identify the And it's that we construct a table of matters. On essaye de, par la publication L'État du Québec, de montrer quelles sont les grandes tendances sociales à l'œuvre. La particularité de cette publication.",
-            "rawFile": "data/tv5monde-57/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDonc c'est un grand plaisir pour moi chaque année de travailler avec une petite équipe et de réfléchir à ce qu'on va y mettre, de quoi on va en parler. Et on commence évidemment par se pencher sur l'actualité de l'année. Qu'est-ce qui a marqué l'actualité québécoise? Qu'est-ce qui a fait l'objet de débats? Qu'est-ce qui a créé de la polémique? Et on cherche à identifier des personnes, des chercheurs universitaires qui sont le mieux en mesure de nous expliquer ces débats, de nous vulgariser les enjeux, de nous donner un peu d'analyse, un peu de... plus que ce qu'on retrouverait normalement dans les médias quotidiens. Et c'est ça, on construit une table des matières qui se penche à la fois sur l'actualité plus chaude et sur des mouvements de fond de la société. On essaye, par la publication de l'État du Québec, de montrer quelles sont les grandes tendances sociales à l'œuvre.\n\nQuelle est la particularité de cette publication ?",
+            "rawFile": "data/tv5monde-57/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -1434,10 +1434,10 @@
           "questionId": "367",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nQu'est-ce qui vous a inspiré vous justement dans la vie de Dip Saint Laurent? It's an um discretion but what are the passages of his life that you have on apprentice the plus mark his is really a dramaturg as if it was the romantic. Tout petit a eu conscience qu'il aurait un destin exceptionnel. Qu'est-ce qui ressort de cette interview sur Yves Saint-Laurent?",
-            "rawFile": "data/tv5monde-56/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nQu'est-ce qui vous a inspiré, vous, justement, dans la vie d'Yves Saint-Laurent ? Vous dites que c'est un homme discret, mais quels sont les passages de sa vie qui vous ont, en apprenant à le connaître, le plus marqué, peut-être ? Écoutez, sa vie est vraiment une dramaturgie écrite, comme si c'était l'œuvre d'un romancier. tout petit et eu conscience qu'il aurait un destin exceptionnel. Qu'est-ce qui ressort de cette interview sur Yves Saint Laurent ?",
+            "rawFile": "data/tv5monde-56/q07-whisper-large-v3.json"
           }
         },
         {
@@ -1510,10 +1510,10 @@
           "questionId": "369",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe 16 mai 1929 à Hollywood, la nouvelle banlieue de Los Angeles, l'industrie This ceremony initial mediatization is sort of suspense. The list of laureats has been rendered public three months later. But during the day, the interest suscited by the event En fait la première grande messe du 7e art et marque l'hégémonie du cinéma hollywoodien.\n\nQue s'est-il passé à la première cérémonie des Oscars?",
-            "rawFile": "data/tv5monde-56/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe 16 mai 1929 à Hollywood, la nouvelle banlieue de Los Angeles, l'industrie du cinéma fête avec un grand banquet, la première remise des Oscars. Cette cérémonie initiale peu médiatisée et sans suspense, la liste des lauréats a été rendue publique trois mois plus tôt. Mais dès les années suivantes, l'intérêt suscité par l'événement en fait la première grande messe du 7e art et marque l'hégémonie du cinéma hollywoodien.",
+            "rawFile": "data/tv5monde-56/q09-whisper-large-v3.json"
           }
         },
         {
@@ -1548,10 +1548,10 @@
           "questionId": "370",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAu départ Valeria était nourrice, mais après quelques galères et pas mal de ténacité... Elle a changé de voice. Alright, she gets a big entrepreneur. On very femme d'affaires, she dirige a quinzaine d'employes. She has a big salaire also, $1000 Canadian mensual, so $6550. And this is not her activity. Valeria fit also formation for the nouveau migrants. Un programme financé par l'État, presque du bénévolat. Là, elle donne des cours, des conseils pour s'adapter au Canada le plus vite possible et son expérience lui sert. Qu'apprend-on sur Valérien?",
-            "rawFile": "data/tv5monde-56/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAu départ Valéria était nourrice mais après quelques galères et pas mal de ténacité elle a changé de voie. Aujourd'hui elle gère sa petite entreprise en vraie femme d'affaires elle dirige une quinzaine d'entreprises Elle a un bon salaire aussi, 10 000 dollars canadiens mensuels, soit 6 550 euros. Et ce n'est pas là sa seule activité, Valéria fait aussi de la formation pour les nouveaux migrants, un programme financé par l'État, presque du bénévolat. Là, elle donne des cours, des conseils pour s'adapter au Canada le plus vite possible et son expérience lui sert. Qu'apprend-on sur Valéria ?",
+            "rawFile": "data/tv5monde-56/q10-whisper-large-v3.json"
           }
         },
         {
@@ -1662,10 +1662,10 @@
           "questionId": "373",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt on va commencer par notre propre site internet de TV5Monde, tv5monde.com Oui, c'est une première dans le monde multimédia. Une Web TV consacrée entièrement à l'Afrique. Avec une page d'accueil, à droite le menu, à gauche l'écran. L'émission en cours apparaîtra automatiquement, mais il est aussi possible de visionner le programme de son choix, une émission par exemple, que l'on a loupé la veille à l'antenne, la palette des thématiques est large du sport, du cinéma, de la musique. et surtout des séries à succès populaire. On peut même créer une liste perso de ses programmes préférés. Il suffit de cliquer sur Ma sélection.\n\nQuelle est la particularité de la Web TV? Lancé par le site internet de TV5Monde.",
-            "rawFile": "data/tv5monde-56/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt on va commencer par notre propre site internet de TV5MONDE, tv5monde.com, qui lance aujourd'hui sa web TV sur l'Afrique. Oui, c'est une première dans le monde multimédia, une web TV consacrée entièrement à l'Afrique. Avec une page d'accueil, à droite le menu, à gauche l'écran. L'émission en cours apparaîtra automatiquement, mais il est aussi possible de visionner le programme de son choix. Une émission par exemple que l'on a loupé la veille à l'antenne. La palette des thématiques est large, du sport, du cinéma, de la musique et surtout des séries à succès populaire. On peut même créer une liste perso de ses programmes préférés. Il suffit de cliquer sur « Ma sélection ».\n\nQuelle est la particularité de la Web TV lancée par le site internet de TV5MONDE ?",
+            "rawFile": "data/tv5monde-56/q13-whisper-large-v3.json"
           }
         },
         {
@@ -2015,10 +2015,10 @@
           "questionId": "127",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nIl y aura le casino de Paris, ce sera le 19 mars deux mille douze, le Bataclan le 8 décembre et c'est complet. So there's really the public who attends, who knows your chansons party. It's just a concerts where I'm not going to chant. The people who chant for me. C'est le moment où on est le plus vrai and it's bien de voir montrer ça aux gens. Qu'est-ce que cet artiste aime dans les concerts?",
-            "rawFile": "data/tv5monde-45/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nIl y aura le Casino de Paris, ce sera le 19 mars 2012, le Bataclan le 8 décembre et c'est complet ? C'est complet. Ça veut dire qu'il y a vraiment le public qui vous attend, qui connaît vos chansons par cœur ? Oui, en fait j'ai assez hâte parce que le public français a toujours été très généreux avec moi en concert. C'est toujours les concerts où vraiment des fois j'ai même pas à chanter. Les gens ils chantent pour moi et c'est génial, c'est vraiment assez émouvant. C'est le plaisir d'être au piano, le plaisir d'être devant les gens comme ça, de leur donner du bonheur, de partager finalement vos sentiments. Oui et puis c'est une façon aussi de me montrer vraiment, j'ai l'impression qu'en concert on est le plus vulnérable, c'est le moment où on est le plus vrai et c'est bien de pouvoir montrer ça aux gens. Qu'est-ce que cet artiste aime dans les concerts ?",
+            "rawFile": "data/tv5monde-45/q07-whisper-large-v3.json"
           }
         },
         {
@@ -2091,10 +2091,10 @@
           "questionId": "129",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMon arrière-grand-mère. D'abord, est-ce qu'elle arrivait à 50 ans? Est-ce qu'elle pouvait espérer? Elle n'avait pas de mobility. Elle travaillait toute la journée. Elle était ensevelie sous les tâches domestiques. On oublie ça la libération de l'être humain par le progrès, par comment dire la machine. Par la mobilité, nous pouvons choisir aujourd'hui d'aller où nous voulons, en France ou dans le monde.",
-            "rawFile": "data/tv5monde-45/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBon mais attendez, moi je suis une femme, j'ai 50 ans.\n\nComment elle vivait ? Mon arrière-grand-mère, il y a 50 ans. D'abord, est-ce qu'elle arrivait à 50 ans ? Est-ce qu'elle pouvait espérer ? Elle n'avait pas de mobilité. Elle travaillait. Elle était ensevelie sous les tâches domestiques. On oublie ça, la libération de l'être humain, par le progrès, par...\n\nComment dire ? La machine par la mobilité. Nous pouvons choisir aujourd'hui d'aller où nous voulons, en France ou dans le monde.\n\nQue rappelle cette intervenante ?",
+            "rawFile": "data/tv5monde-45/q09-whisper-large-v3.json"
           }
         },
         {
@@ -2167,10 +2167,10 @@
           "questionId": "131",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn vous a servi deux pots de Nutella. Deux pots parce qu'ils sont différents. L'un is fabriqué en France, l'autre in Slovaky, et il n'y a pas les mêmes ingrédients dedans. Je ne m'en inquiète pas vraiment parce que je me dis que quelque part. The industry felt these attitudes of gooey. And in function of that, that's right, it proposes a product different. Alright, is we can say discrimination? I tried very étonnam that the goût new, but it was fabricated at New York. Et voilà, je pense qu'il y a une adaptation au goût.\n\nQuelle est la position de l'intervenante?",
-            "rawFile": "data/tv5monde-45/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn vous a servi deux pots de Nutella. Deux pots parce qu'ils sont différents. L'un est fabriqué en France, l'autre en Slovaquie et il n'y a pas de... Il n'y a pas les mêmes ingrédients dedans. Il y a des députés, des parlementaires européens qui s'en inquiètent. Vous aussi ? Je m'en inquiète. Non, je ne m'en inquiète pas vraiment parce que je me dis que quelque part, l'industrie, elle fait quand même des études de goût. Et en fonction de ça, c'est vrai, elle propose des produits différents. Alors, est-ce qu'on peut parler de discrimination ? Moi-même, aux États-Unis, j'ai déjà dégusté. C'était un fromage français. Je trouvais très étonnamment que le goût n'était pas le même. Mais il était fabriqué à New York. Et voilà, je pense qu'il y a une adaptation au goût.\n\nQuelle est la position de l'intervenante ?",
+            "rawFile": "data/tv5monde-45/q11-whisper-large-v3.json"
           }
         },
         {
@@ -2205,10 +2205,10 @@
           "questionId": "132",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour Marie Gillen. Étonn Marie dans ce film Toutes nos Envies, film de Philippe Plioret après Welcome. It's a drame finalement sur l'histoire du surendettement, but it's also an extraordinary histoire of view, the passion human that we have voulu at all. We parce que quand j'ai lu le scénario ça m'a bouleversé. Je me suis dit je veux absolument aller voir ce film au cinéma and je veux en faire partie parce que c'est un film comme vous disiez qui a un combat the film. C'est des personnages who are plus vivants que la vie, puisque ils ont une espèce d'urgence to vivre. Ça parle du surendettement, donc c'est un film qui parle des humains ordinaires et puis qui sortent aussi de leur quotidien pour devenir un petit peu des héros. Qu'est-ce qui a poussé cette actrice à vouloir jouer dans ce film?",
-            "rawFile": "data/tv5monde-45/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour Marie-Gilin. Bonjour. Étonnante Marie, dans ce film Toutes nos envies. C'est le film de Philippe Plioré, après Welcome. C'est un drame, finalement, sur l'histoire du surendettement, mais c'est aussi une extraordinaire histoire de vie, de passion humaine, que vous avez voulu à tout prix jouer. Oui, parce que quand j'ai lu le scénario, ça m'a bouleversée. Je me suis dit, je veux absolument aller voir ce film au cinéma. Et je veux en faire partie parce que c'est un film, comme vous disiez, c'est un combat, ce film. C'est des personnages qui sont plus vivants que la vie, puisqu'ils ont une espèce d'urgence de vivre tout ça. Ça parle du surendettement, donc c'est un film qui parle des humains ordinaires et qui sortent aussi de leur quotidien pour devenir un petit peu des héros. Qu'est-ce qui a poussé cette actrice à vouloir jouer dans ce film ?",
+            "rawFile": "data/tv5monde-45/q12-whisper-large-v3.json"
           }
         },
         {
@@ -2243,10 +2243,10 @@
           "questionId": "133",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt un de vos combats, c'est d'imposer 50% de femmes dans les conseils d'administration. des entreprises, pourquoi c'est important en particulier? C'est important parce que c'est là qu'est le pouvoir économique. Ce serait une façon différente de diriger les entreprises. Les femmes représentent 50% des électeurs, 50% des gens qui payent leurs impôts. Donc for now it's a moyen de changer l'image du pouvoir, to see if we can make the choses autrement and to aller plus loin in this égalité that reste encore enough.\n\nQue souhaite la personne interviewée?",
-            "rawFile": "data/tv5monde-45/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt un de vos combats, c'est d'imposer 50% de femmes dans les conseils d'administration des entreprises.\n\nPourquoi c'est important ? Là en particulier. C'est important parce que... Parce que c'est là qu'est le pouvoir économique. Ce serait une façon différente de diriger les entreprises. Les femmes représentent 50% des électeurs, 50% des gens qui payent leurs impôts. Donc pour nous, c'est un moyen aussi de changer l'image du pouvoir, de voir si on peut faire les choses autrement et d'aller plus loin dans cette égalité qui reste. Et il y a des pays européens qui ont déjà imposé des quotas, la Norvège par exemple.\n\nQue souhaite la personne interviewée?",
+            "rawFile": "data/tv5monde-45/q13-whisper-large-v3.json"
           }
         },
         {
@@ -2319,10 +2319,10 @@
           "questionId": "135",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes journalistes doivent être des rebelles, c'est ce qui ressort un peu de vos ouvrages. Pas necessarily, but in a certain manner the bon journalism s'exerce in practical critic paraphernalia to the information that we rejoice. Don't d'une certain manner the mentality rebelle predispose to a form of journalism. être aussi un journaliste qui n'est pas nécessairement de grande qualité. Donc je pense qu'il faut concilier à la fois un sentiment d'être de servir le public en cherchant l'information qui dérange, surtout celle qui dérange, et de certaines manières, donc c'est un peu une prédisposition d'être rebelle. Mais je pense que... It's not rebellious, it's applicable to journalism a series of criteria professional, the serious. It's not that the reality is victim of the rebellion, for example. It's really that we can imposer like people who pratique l'excellence.\n\nSelon cet auteur, qu'attend-on d'un journaliste digne de ce nom, même rebelle?",
-            "rawFile": "data/tv5monde-45/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes journalistes doivent être des rebelles, c'est ce qui ressort un peu d'un de vos ouvrages, l'éthique de la dissidence. Pas nécessairement, mais de toute manière le bon journalisme s'exerce... en pratiquant une distance critique par rapport à toute l'information que l'on reçoit. Donc d'une certaine manière, la mentalité rebelle prédispose à une forme de journalisme. C'est-à-dire, le rebelle peut être aussi un journaliste qui n'est pas nécessairement de grande qualité. Donc je pense qu'il faut concilier à la fois un sentiment de servir le public en cherchant l'information qui dérange, surtout celle qui dérange. Et de certaine manière, c'est un peu une prédisposition d'être rebelle. Mais je pense qu'il ne suffit pas d'être rebelle. Il faut aussi appliquer au journalisme une série de critères professionnels, de sérieux. Il ne faut pas que la vérité soit victime de la rébellion, par exemple. Il faut vraiment qu'on puisse s'imposer comme quelqu'un qui pratique l'excellence.\n\nSelon cet auteur, Qu'attend-on d'un journaliste digne de ce nom, même rebelle ?",
+            "rawFile": "data/tv5monde-45/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -2406,10 +2406,10 @@
           "questionId": "242",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez les quatre propositions.\n\nChoisissez celle qui correspond à l'image.\nA C'est à droite.\nB c'est à toi, c c'est d'accord, d c'est trop petit.",
-            "rawFile": "data/tv5monde-52/q02-parakeet.json"
+            "text": "Écoutez les quatre propositions.\n\nChoisissez celle qui correspond à l'image.\n\nà C'est à droite.\nB C'est à toi !\nC. C'est d'accord.\nD. C'est trop petit !",
+            "rawFile": "data/tv5monde-52/q02-whisper-large-v3.json"
           }
         },
         {
@@ -2520,10 +2520,10 @@
           "questionId": "245",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour cher de pirate. Bonjour.\n\nQue s'est-il passé depuis? It's an album that I'm very fair. And what the first channel is Adieu? There's not really particularly. In fact, it's the only chance that. parle de la phase d'une rupture où t'as vraiment envie que l'autre personne disparaisse. Qu'apprend-on sur la chanteuse Cœur de Pirates?",
-            "rawFile": "data/tv5monde-52/q05-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour fiers de pirates ! Bonjour !\n\nQue s'est-il passé depuis ce premier album ? Un triomphe en France ! 600 000 albums vendus et voici l'album du retour ! C'est un grand plaisir de retrouver le public. Oui, en fait, ça me fait du bien. Je sais que je vais pouvoir retourner en concert, vraiment montrer ce que j'ai appris de ma dernière tournée et puis aussi de présenter des chansons qui sont quand même assez près de moi. C'est un album dont je suis très, très, très fière. Et pourquoi la première chanson s'appelle « Adieu » ? Il n'y a pas vraiment de lien particulier. En fait, c'est la seule chanson qui parle de la phase d'une rupture où tu as vraiment envie que l'autre personne disparaisse. Qu'apprend-on sur la chanteuse Chœur de Pirate ?",
+            "rawFile": "data/tv5monde-52/q05-whisper-large-v3.json"
           }
         },
         {
@@ -2558,10 +2558,10 @@
           "questionId": "246",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt on me demande de faire des voix de toutes sortes. Because when we arrive in a studio d'enregistrement, we saw what we demand. On says vaguely, une bande-annonce or a documentary. We have the text. Don't have a formation solid actor and there are some courses d'art dramatic that have permit to interpret des. et non pas juste de les lire. De quelle profession parle cet homme?",
-            "rawFile": "data/tv5monde-52/q06-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt on me demande de faire des voix de toutes sortes parce que quand on arrive dans un studio d'enregistrement, on ne sait pas ce qu'on va nous demander. On sait vaguement que c'est une... Une pub, une bande-annonce ou un documentaire, on n'a jamais les textes. Donc ça, il faut avoir une formation solide d'acteur et ce sont des cours d'art dramatique qui m'ont permis d'interpréter des textes et non pas juste de les lire. De quelle profession parle cet homme ?",
+            "rawFile": "data/tv5monde-52/q06-whisper-large-v3.json"
           }
         },
         {
@@ -2596,10 +2596,10 @@
           "questionId": "247",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe Salon du Livre de Montréal est un rendez-vous annuel pour l'équipe de la librairie francophone. L'émission a été enregistrée jeudi devant public. Elle a réuni une belle brochette d'auteurs, dont le prix Femina de cette année, Patrick Lapaire. Très bonne émission avec des très bons invités.\n\nD'après cet extrait, que pouvait-on faire au salon du livre?",
-            "rawFile": "data/tv5monde-52/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe Salon du Livre de Montréal est un rendez-vous annuel pour l'équipe de la librairie francophone. L'émission a été enregistrée jeudi devant public. Elle a réuni une belle brochette d'auteurs. dont le prix féminin de cette année, Patrick Laperre. Très bonne émission avec des très bons invités et puis on est ravis de trouver le public québécois qui est un public très fidèle de la librairie francophone.\n\nD'après cet extrait, que pouvait-on faire au salon du livre ?",
+            "rawFile": "data/tv5monde-52/q07-whisper-large-v3.json"
           }
         },
         {
@@ -2634,10 +2634,10 @@
           "questionId": "248",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nCe sera vendredi prochain, tout près de Paris à la défense. Des coureurs vont partir à l'assaut. Et ils sont près de 800 déjà inscrits pour cette course, vraiment pas comme les autres.\n\nQuelle est la particularité de la course dont parlent ces journalistes?",
-            "rawFile": "data/tv5monde-52/q08-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nCe sera vendredi prochain, tout près de Paris, à la Défense, des coureurs vont partir à l'assaut d'une tour. Oui, des centaines de coureurs, et pas n'importe quelle tour, la tour. First, c'est la plus haute. Écoutez bien, 230 mètres de dénivelé, 48 étages, 954 marches. Voilà ce qui attend les courageux. Et ils sont près de 800 déjà inscrits pour cette course. Vraiment, pas comme les autres.\n\nQuelle est la particularité de la course dont parlent ces journalistes ?",
+            "rawFile": "data/tv5monde-52/q08-whisper-large-v3.json"
           }
         },
         {
@@ -2672,10 +2672,10 @@
           "questionId": "249",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJ'ai entrepris de vous parler de soupe. Non seulement parce que ce met est à la fois... Essentiel et délicieux, mais parce que le terme est d'une richesse incroyable. Le mot soupe, qui signifie proprement une tranche de pin, a rapidement désigné ce plat simple, rustique et nourrissant, une tranche de pin recouverte de bouillon. Soupe par suite en est venu à signifier le repas en général, voire la nourriture ou ce qui est profitable. À la soupe, vous invitez au repas, quel qu'il soit. Mangez la soupe sur la tête de quelqu'un. Signifie être plus grand que lui, pouvoir manger sur sa tête. Et bouder la soupe signifie manquer d'appétit en général.\n\nQue veut dire à l'origine le terme soupe?",
-            "rawFile": "data/tv5monde-52/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJ'ai entrepris de vous parler de soupe. Non seulement parce que ce mets est à la fois essentiel et délicieux, mais parce que le terme est d'une richesse incroyable. Le mot soupe, qui signifie proprement une tranche de pain, a rapidement désigné ce plat simple, rustique et nourrissant, une tranche de pain recouverte de bouillon. Soupe, par suite, on est venu à signifier le repas en général, voire la nourriture ou ce qui est profitable. La soupe vous invite au repas, quel qu'il soit. Mangez la soupe sur la tête de quelqu'un ! signifie être plus grand que lui, pouvoir manger sur sa tête. Et bouder la soupe signifie manquer d'appétit en général.\n\nQue veut dire à l'origine ? le terme soupe.",
+            "rawFile": "data/tv5monde-52/q09-whisper-large-v3.json"
           }
         },
         {
@@ -2748,10 +2748,10 @@
           "questionId": "251",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAvec ce web documentaire, en fait, deux journalistes français ont été guidés par des blogueurs africains. And des internautes. They have parcouru le Mali and the Sénégal and have découvert comment le numérique avait changé la vie des habitants. Par exemple, le téléphone portable qui n'est pas du tout un gadget pour les Africains, mais au contraire, c'était un vrai besoin, puisqu'avant la seule solution pour parler à quelqu'un, souvent il méritait de se déplacer puisqu'il n'avait pas de réseau de téléphones fixes. Qu'est-ce que le téléphone portable a changé dans la vie des habitants du Sénégal et du Mali?",
-            "rawFile": "data/tv5monde-52/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAvec ce web documentaire, en fait, deux journalistes français ont été guidés par des blogueurs africains et des internautes. Ils ont parcouru le Mali et le Sénégal et ont donc découvert comment le numérique avait changé la vie des habitants. Par exemple, le téléphone portable qui n'est pas du tout un gadget pour les Africains, mais au contraire c'était un vrai besoin, puisqu'avant la seule solution pour parler à quelqu'un, souvent, il méritait de se déplacer, puisqu'il n'y avait pas de réseau de téléphone fixe. Qu'est-ce que le téléphone portable a changé dans la vie des habitants du... Sénégal et du Mali.",
+            "rawFile": "data/tv5monde-52/q11-whisper-large-v3.json"
           }
         },
         {
@@ -2862,10 +2862,10 @@
           "questionId": "254",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour Sylvie Brunel, géographe bien sûr, puis aussi évidemment un million de... Action contre la faim notamment. And là vous publiez un livre complet iconoclaste. Vous dites que finalement la géographie amoureuse du monde, ça veut dire que les hommes are rendu la terre encore plus belle. Alors que chaque jour on nous dit le contraire. Donc je trouve qu'elle est profondément démobilisatrice que j'ai voulu montrer que si la Terre est belle, si nous pouvons être sept milliards sur cette terre, et si nous vivons globalement bien mieux que nos ancêtres, contrairement à ce qu'on dit, c'est parce que ce sont les hommes qui aménagent la Terre, qui la rendent habitable.\n\nQuel est le constat de Sylvie Brunel sur notre planète?",
-            "rawFile": "data/tv5monde-52/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour Sylvie Brunel, géographe bien sûr, puis aussi évidemment militante, Action contre la faim notamment. Et là vous publiez un livre complètement iconoclaste, vous dites... que finalement la géographie amoureuse du monde, ça veut dire que les hommes ont rendu la Terre encore plus belle, alors que chaque jour on nous dit le contraire. C'est justement parce que j'en avais assez de cette espèce de dramaturgie, dont je trouve qu'elle est profondément démobilisatrice, que j'ai voulu montrer que si la Terre est belle, si nous pouvons être 7 milliards sur cette Terre, et si nous vivons globalement bien mieux... que nos ancêtres, contrairement à ce qu'on dit, c'est parce que ce sont les hommes qui aménagent la terre, qui la rendent habitable.\n\nQuel est le constat de Sylvie Brunel sur notre planète ?",
+            "rawFile": "data/tv5monde-52/q14-whisper-large-v3.json"
           }
         },
         {
@@ -2900,10 +2900,10 @@
           "questionId": "255",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nPour moi j'ai essayé les deux en fait il y a très longtemps. I thought the chansons in France and Anglais, but I've been the impression that it's in a language maternal is a plus visceral, in the case for me, parce que I've had an approach as a theoretical and as images of Angela, alors que the France me demanded to assume. Alors que l'angle, because it's a language qui est apprise. Pour moi, il y avait une espèce de petite barrière que je mettais entre moi et mon propos.\n\nQue dit ce jeune auteur-compositeur de son rapport aux langues et à l'écriture?",
-            "rawFile": "data/tv5monde-52/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nPour moi, j'ai essayé les deux, en fait, il y a très longtemps. J'ai écrit des chansons en français et en anglais. Mais j'ai quand même l'impression qu'écrire dans sa langue maternelle... ça a quelque chose de plus viscéral, en tout cas pour moi, parce que j'avais une approche assez théorique et assez imagée de l'anglais, alors que le français me demandait d'assumer beaucoup plus ce que je disais. Moi, j'aime avoir une écriture qui est beaucoup plus violente par rapport à ce que j'ai besoin de dire. Et pour moi, l'écrire en français, c'était une manière de me faire plus de violence à moi et en même temps de devoir l'assumer totalement. Alors que l'anglais, vu que c'est une langue qui est apprise, pour moi, il y avait une espèce de petite barrière que je mettais entre moi et mon propos.\n\nQue dit ce jeune auteur-compositeur de son rapport aux langues et à l'écriture ?",
+            "rawFile": "data/tv5monde-52/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -3101,10 +3101,10 @@
           "questionId": "285",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJe suis un alligator. Nous voici dans mon royaume. The bassiness of Rio Paraguay. After the augmentation of the temperature lies to the changement of climate, inquiétant for us is in time to pass. With all the reptiles, the sex of the embryon depends on the temperature ambient. For us, a ligator. Si la température moyenne continue de s'élever, il y aura bientôt nettement plus de mâles que de femelles qui naîtront. Une grave menace pour notre espèce.\n\nQuel danger menacent ces animaux?",
-            "rawFile": "data/tv5monde-53/q05-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJe suis un alligator. Nous voici dans mon royaume, le bassin du Rio Paraguay. Avec l'augmentation de la température liée au changement du climat, Quelque chose d'inquiétant pour nous est en train de se passer. Chez tous les reptiles, le sexe de l'embryon dépend de la température ambiante. Pour nous, alligators, si la température moyenne continue de s'élever, il y aura bientôt nettement plus de mâles que de femelles qui naîtront. Une grave menace pour notre espèce.\n\nQuel danger menacent ces animaux ?",
+            "rawFile": "data/tv5monde-53/q05-whisper-large-v3.json"
           }
         },
         {
@@ -3139,10 +3139,10 @@
           "questionId": "286",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour. Aujourd'hui, je vous emmène à la découverte de la langue des signes française.\n\nQue ça soit le nord, que ça soit le sud, it is a variante de langue des signes. Par contre for two other pays francophones. en Afrique où ils utilisent la langue des signes américaine, l'ASL. Tout simplement parce que les Américains sont arrivés là-bas, ont vu qu'ils n'avaient pas de langue des signes, donc ils leur ont apporté la leur.\n\nOù utilise-t-on la langue des signes française?",
-            "rawFile": "data/tv5monde-53/q06-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour, aujourd'hui je vous emmène à la découverte de la langue des signes française.\n\nQue ça soit le nord, que ça soit le sud, il y a déjà des variantes de langue des signes. Tout simplement parce que ce sont comme des accents, mais bien évidemment c'est une langue qui est comprise par tout le monde. Par contre, pour tous les autres pays francophones, il y a des pays, notamment en Afrique, où ils utilisent la langue des signes américaine, l'ASL. Tout simplement parce que les Américains sont arrivés là-bas, ont vu qu'ils n'avaient pas de langue des signes, donc ils leur ont apporté la leur.\n\nOù utilise-t-on la langue des signes française ?",
+            "rawFile": "data/tv5monde-53/q06-whisper-large-v3.json"
           }
         },
         {
@@ -3177,10 +3177,10 @@
           "questionId": "287",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAvec ce téléphone, on va dire on va faire des économies. To the person is not pretty to make six, six hundred euros all the time, two years on a new telephone. And so we changed uniquely the composition that turns on pan. We say so much, it is 10 seconds, and it's formidable. After the interest is that for the temps, On peut faire évoluer son téléphone, on peut augmenter ses capacités, améliorer ses performances et donc garder un téléphone 5 ou 10 ans sans problème.\n\nQuel est l'avantage de ce téléphone?",
-            "rawFile": "data/tv5monde-53/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAvec ce téléphone, on va dire, on va faire des économies. Tout le monde n'est pas prêt à mettre 600, 700 euros tous les ans, tous les deux ans. dans un nouveau téléphone. Et donc là, on change uniquement le composant qui tombe en panne. On le fait soi-même, ça prend 10 secondes, et donc c'est formidable. Après, l'autre intérêt, c'est que sur le temps, on peut faire évoluer son téléphone. On peut augmenter ses capacités, améliorer ses performances, et donc garder un téléphone 5 ou 10 ans sans problème.\n\nQuel est l'avantage de ce téléphone ?",
+            "rawFile": "data/tv5monde-53/q07-whisper-large-v3.json"
           }
         },
         {
@@ -3215,10 +3215,10 @@
           "questionId": "288",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nIls seront bientôt partout les objets connectés, dans votre salle de bain. In your cuisine and produits that it is possible to control with your smartphone. It's the case not with this lampe d'ambiance conducive by an entrepreneur lyonnaise. It's a part of my telephone that I On peut choisir l'intensité et la couleur de l'éclairage. Le choix est quasiment illimité. La lumière peut aussi suivre le rythme de ma musique.\n\nQuelle est la particularité de cette lampe?",
-            "rawFile": "data/tv5monde-53/q08-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nIls seront bientôt partout les objets connectés, dans votre salle de bain, dans votre cuisine et même à côté de votre lit. Autant de produits qu'il sera possible, qu'il est déjà possible de contrôler avec son smartphone. C'est le cas notamment de cette lampe d'ambiance conçue par une entreprise lyonnaise. Et c'est à partir de mon téléphone que je peux choisir l'intensité et la couleur de l'éclairage. Le choix est quasiment illimité. La lumière peut aussi suivre le rythme de ma musique.",
+            "rawFile": "data/tv5monde-53/q08-whisper-large-v3.json"
           }
         },
         {
@@ -3291,10 +3291,10 @@
           "questionId": "290",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nPour la passion, je l'ai depuis longtemps, depuis tout petit, puisque mon père était passionné de bout de bois, donc voilà quand j'ai toujours vécu dans les vieux meubles, dans les vieux morceaux de bois. Puis un jour mon médecin de famille m'a donné un meuble à restaurer et à partir de ça j'ai voulu faire de la restauration de meubles. The buttons is to conserve the meuble and to pérennise, to prolong in the time, on guarding our authenticity and value. The principal quality of the restaurateur, it's the passion. Connaître le mobilier, puis beaucoup de patience également. Et beaucoup d'humilité, oui, oui.\n\nSelon Alain Guérou, quel est l'objectif de son métier?",
-            "rawFile": "data/tv5monde-53/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLa passion, je l'ai depuis longtemps, depuis tout petit, puisque mon père était passionné de bout de bois. Donc voilà, quand j'ai toujours vécu... J'ai vécu dans les vieux meubles, dans les vieux morceaux de bois. Puis un jour, mon médecin de famille m'a donné un meuble à restaurer. Et à partir de ça, j'ai voulu faire de la restauration de meubles. Le but de la restauration, c'est de conserver le meuble, de le pérenniser, de le prolonger dans le temps, en gardant toute son authenticité. et ce qui fait sa valeur. La principale qualité d'un restaurateur, c'est la passion. Connaître le mobilier, puis beaucoup de patience également, et beaucoup d'humilité. selon Alain Guéraud.\n\nQuel est l'objectif de son métier ?",
+            "rawFile": "data/tv5monde-53/q10-whisper-large-v3.json"
           }
         },
         {
@@ -3405,10 +3405,10 @@
           "questionId": "293",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn peut parler d'une résurrection, une plante disparition. After 4 siècles d'hibernation, la plante, cultivée in laboratoire by des chercheurs, is en pas de retrouver son cycle naturel.\n\nÀ quoi est liée la renaissance de cette plante?",
-            "rawFile": "data/tv5monde-53/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn peut parler d'une résurrection. Une plante disparue depuis 400 ans a brusquement fait sa réapparition dans le nord du Canada en raison de la fonte des glaces. Après quatre siècles d'hibernation, la plante, cultivée en laboratoire par des chercheurs, est en passe de retrouver son cycle naturel.\n\nA quoi est liée la renaissance de cette plante ?",
+            "rawFile": "data/tv5monde-53/q13-whisper-large-v3.json"
           }
         },
         {
@@ -3834,10 +3834,10 @@
           "questionId": "169",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nC'est une histoire d'amour avec le public, Pierre Perret. Je crois parce qu'il est resté. À 80, ça n'arrête pas, toutes les générations sont là. Qu'évoque l'artiste dans cet entretien?",
-            "rawFile": "data/tv5monde-47/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nC'est une histoire d'amour avec le public, Pierre Perret. Je crois parce qu'il est resté fidèle tout au long et si j'en juge par les... Les moyennes d'âge dans les salles, il y a des gamins qui ont 10 ans, il y en a qui ont 25 ans, et de 45 ans à 80, ça n'arrête pas, toutes les générations sont là. Qu'évoque l'artiste dans cet entretien ?",
+            "rawFile": "data/tv5monde-47/q09-whisper-large-v3.json"
           }
         },
         {
@@ -3872,10 +3872,10 @@
           "questionId": "170",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAlors il y a une pédagogie importante avec ces dessins, notamment pour les jeunes qui viennent. C'est un message. complémentaire au fond des événements and des témoignages que vous présentez à longueur d'année. de dessin de presse et leur donner le goût de la liberté d'opinion.\n\nSelon cette personne, quel est l'intérêt du dessin de presse?",
-            "rawFile": "data/tv5monde-47/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAlors il y a une pédagogie importante avec ces dessins, notamment pour les jeunes qui viennent. C'est un message complémentaire au fond des événements et des témoignages que vous présentez. à longueur d'année. Oui, et puis c'est un média extraordinaire pour des enfants ou des adolescents pour comprendre l'actualité. En un principe du dessin de presse que vous commentez, que vous connaissez, c'est-à-dire l'immédiateté du trait, l'immédiateté du sujet, eh bien les professeurs que nous recevons ici, nous formons pratiquement 7 à 800 professeurs tous les ans sur... la pédagogie du dessin de presse et nous recevons 110 000 scolaires tous les ans précisément pour leur expliquer comment fonctionne le dessin de presse et leur donner le goût de la liberté d'opinion.\n\nSelon cette personne, quel est l'intérêt du dessin de presse ?",
+            "rawFile": "data/tv5monde-47/q10-whisper-large-v3.json"
           }
         },
         {
@@ -3910,10 +3910,10 @@
           "questionId": "171",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDepuis 2008, l'Organisation mondiale de la santé reconnaît les méthodes. traditional capable of prevenir, diagnostic and traiter certain maladies physiques and mental. Attention aussi à l'automédication. Elle entraîne en médecine traditionnelle de nombreuses erreurs. Quadneufdoc est rendue à Niame, au Niger, pour rencontrer des tradits praticiens.\n\nQue propose l'émission QuadneufDoc?",
-            "rawFile": "data/tv5monde-47/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDepuis 2008, l'Organisation mondiale de la santé reconnaît les médecines traditionnelles capables de prévenir, diagnostiquer et traiter. certaines maladies physiques et mentales. Cependant, les médicaments traditionnels peuvent avoir des effets indésirables ou entraîner de graves complications quand ils sont mal utilisés. Attention aussi à l'automédication. Elle entraîne en médecine traditionnelle de nombreuses erreurs. Quaneuf Doc s'est rendue à Niamey au Niger pour rencontrer des tradis praticiens.\n\nQue propose l'émission Quad9Doc ?",
+            "rawFile": "data/tv5monde-47/q11-whisper-large-v3.json"
           }
         },
         {
@@ -3948,10 +3948,10 @@
           "questionId": "172",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe beurre était certainement une richesse puisque mettre du beurre dans les épinards en compromet. Oui parce que ça voulait dire Tout une génération, pour eux, le beurre, la génération de mes parents and my generation, le beurre symboliquement, c'est un produit un peu comme le pain, qui est très très fort. très ancré dans notre culture parce qu'il y a eu un manque, parce qu'il n'y a pas longtemps qu'on peut vraiment le consommer.\n\nPourquoi le beurre a-t-il une valeur symbolique?",
-            "rawFile": "data/tv5monde-47/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe beurre était certainement une richesse puisque mettre du beurre dans les épinards, on comprend très bien ce que ça veut dire. C'est enrichir le produit. Donc ça veut bien dire que le beurre avait quand même... Derrière, il y a une expression de richesse, vouloir le beurre et l'argent du beurre, c'est un petit peu la même chose. Oui, parce que ça voulait dire que le beurre, quand on pouvait avoir du beurre, c'est qu'à un moment donné, on peut manger. Toute une génération, pour eux, le beurre, la génération de mes parents et une partie de ma génération, le beurre symboliquement. C'est un produit un peu comme le pain, qui est très très fort, très ancré dans notre culture, parce qu'il y a eu un manque, parce qu'il n'y a pas longtemps qu'on peut vraiment le consommer.\n\nPourquoi le beurre a-t-il une valeur symbolique ?",
+            "rawFile": "data/tv5monde-47/q12-whisper-large-v3.json"
           }
         },
         {
@@ -4024,10 +4024,10 @@
           "questionId": "174",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMoi je crois que le coup de pouce à donner à la planète, c'est vraiment justement de fédérer toutes les initiatives dont on ne parle pas et d'imaginer un secrétariat d'État ou un ministère pour tous se regrouper, échanger avec des passerelles tout ce qu'on fait, lancer peut-être une chaîne de télé là-dessus, lancer des sites internet, développer des émissions comme la vôtre, il faut y faire honneur. and de manière à ce que tout le monde puisse se parler and that crée une dynamique where on se dit c'est possible mais c'est tout con à faire parce que la reality c'est que c'est tout con à faire. C'est simple. On est dans un monde economic where on pense que plus on est complex, plus on est intelligent. C'est tout l'inverse. Être intelligent, c'est avoir la clarté de l'esprit.\n\nQue propose cette personne pour agir pour la planète?",
-            "rawFile": "data/tv5monde-47/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMoi je crois que le coup de pouce à donner à la planète, c'est vraiment justement de fédérer toutes les initiatives dont on ne parle pas. ou un ministère pour tous se regrouper, échanger avec des passerelles tout ce qu'on fait, lancer peut-être une chaîne de télé là-dessus, lancer des sites internet, développer des émissions comme la vôtre, il faut y faire honneur, et de manière à ce que tout le monde puisse se parler, et que ça crée une dynamique où on se dit, c'est possible, mais c'est tout con à faire, parce que la réalité c'est que c'est tout con à faire. C'est simple. On est dans un monde économique où on pense que plus on est complexe, plus on est intelligent. C'est tout l'inverse. Être intelligent, c'est avoir la clarté de l'esprit.\n\nQue propose cette personne pour agir pour la planète ?",
+            "rawFile": "data/tv5monde-47/q14-whisper-large-v3.json"
           }
         },
         {
@@ -4062,10 +4062,10 @@
           "questionId": "175",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMais alors pourquoi un site spécifiquement dédié à l' Donc the idea was I mean it would... Il faudrait faire une information plus approfondie, plus régulière, en français, qui n'existe pas dans les médias français. Qu'est-ce qui a motivé cette femme à créer son site?",
-            "rawFile": "data/tv5monde-47/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMais alors pourquoi un site spécifiquement dédié à l'information de l'Afrique australe et de l'Afrique du Sud en particulier, que vous connaissez très bien ? C'est un site vraiment d'information. On a trouvé que... Bon, je m'en suis rendu compte, moi, au moment de la Coupe du Monde, notamment, qu'on disait beaucoup à la fois de lieux communs, et dans les lieux communs, il y avait beaucoup de choses qui étaient un peu assez erronées, des contre-vérités, et aussi des choses un peu erronées, des incompréhensions de ce pays. C'est quand même assez difficile à percevoir. Donc l'idée m'est venue, je me suis dit, mais il faudrait faire une information plus approfondie, plus régulière, en français, qui n'existe pas dans les médias français. Qu'est-ce qui a motivé cette femme à créer son site ?",
+            "rawFile": "data/tv5monde-47/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -4111,10 +4111,10 @@
           "questionId": "1",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nEt toi alors, comment est-ce que tu as fait?\n\nQue tu vas au lycée le matin?\nA. Je commence tôt.\nB. Je pars à 8h.\nC. Je prends le bus. Des je rentre seul.",
-            "rawFile": "data/tv5monde-42/q01-parakeet.json"
+            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nEt toi alors, comment est-ce que tu vas au lycée le matin ?\nA. Je commence tôt.\nB. Je pars à 8 heures.\nC. Je prends le bus.\nD. Je rentre seule.",
+            "rawFile": "data/tv5monde-42/q01-whisper-large-v3.json"
           }
         },
         {
@@ -4339,10 +4339,10 @@
           "questionId": "7",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour Hélène Ravie de vous accueillir avec avec Julien. Hélène, vous entrez tout juste en faculté à la Sorbonne.\n\nQuelle spécialité? Biologie. Biologie, ce qui veut dire que vous avez obtenu il y a quelques mois un bac S, je suppose. Exact. Oui. Les vacances se sont bien passées. Avez-vous eu le temps de vous reposer? Absolument. C'était mérité cette année particulièrement. Qu'avez-vous fait pendant ces deux mois, deux mois et demi de vacances au moins? et la République tchèque. Est-ce que vous êtes partis avec des amis? Non, juste la famille. Juste la famille, très bien.\n\nQue fait Hélène actuellement?",
-            "rawFile": "data/tv5monde-42/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour Hélène ! Bonjour ! Ravi de vous accueillir avec Julien. Hélène, vous entrez tout juste en faculté à la Sorbonne.\n\nQuelle spécialité ? Biologie. Biologie, ce qui veut dire que vous avez obtenu il y a quelques mois un bac S, je suppose. Exact. Oui. Les vacances se sont bien passées. Avez-vous eu le temps de vous reposer ? Absolument. C'était mérité cette année particulière. Ah, pour sûr, oui. Qu'avez-vous fait pendant ces deux mois, deux mois et demi de vacances ? au moins. J'ai fait un tour en Europe, j'ai visité la Pologne, l'Autriche, les Pays-Bas et la République tchèque. Est-ce que vous êtes partie avec des amis ? Non, juste la famille. Juste la famille, très bien.\n\nQue fait Hélène actuellement ?",
+            "rawFile": "data/tv5monde-42/q07-whisper-large-v3.json"
           }
         },
         {
@@ -4377,10 +4377,10 @@
           "questionId": "8",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes papas sont dans la rue. Ils voudraient que tous les pères d'Europe... Impair belge a droit à 10 jours, mais il n'est pas payé à 100%. Impère allemand, lui, n'a rien. Pour quelles raisons les pères manifestent-ils?",
-            "rawFile": "data/tv5monde-42/q08-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes papas sont dans la rue. Ils voudraient que tous les pères d'Europe aient droit à 10 jours de congé paternité payés à 100%. En cette matière, les différences sont énormes entre les 27 pays membres de l'Union européenne. Un père belge a droit à 10 jours, mais il n'est pas payé à 100%. Un père allemand, lui, n'a rien. Pour quelles raisons les pères manifestent-ils ?",
+            "rawFile": "data/tv5monde-42/q08-whisper-large-v3.json"
           }
         },
         {
@@ -4529,10 +4529,10 @@
           "questionId": "12",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe Parlement européen a également voté contre certaines pratiques qui pourraient être en train de se faire. Je pense notamment at that call à viande qui était reclamée par l'industrie agroalimentaire. Ce n'est pas possible, nous voulons des denrées de bonne qualité.\n\nDe quoi cette femme accuse-t-elle les entreprises agroalimentaires?",
-            "rawFile": "data/tv5monde-42/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe Parlement européen a également voté contre certaines pratiques qui peuvent faire peur. Je pense notamment à cette colle à viande qui était réclamée par... l'industrie agroalimentaire. Oui, l'industrie agroalimentaire, elle voudrait pouvoir tout vendre comme étant de la viande et nous sommes arrivés à les en empêcher. Nous avons dit très clairement non, ce n'est pas possible, nous voulons des denrées de bonne qualité.\n\nDe quoi cette femme accuse-t-elle les entreprises agroalimentaire.",
+            "rawFile": "data/tv5monde-42/q12-whisper-large-v3.json"
           }
         },
         {
@@ -4605,10 +4605,10 @@
           "questionId": "14",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt nous recevons ce matin le dessinateur Stéphane Heet. Bonjour. L'univers de Proust en livres n'est pas très accessible, n'est pas facile d'accès.\n\nQuelle est, selon vous, la valeur ajoutée de la bande dessinée? It's certainly plus facile to mémoriser un texte quand il est associé à une image.\n\nSelon Stéphane Huet, que permet l'adaptation en bande dessinée d'un roman de Proust?",
-            "rawFile": "data/tv5monde-42/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt nous recevons ce matin le dessinateur Stéphane Heuette. Bonjour. Bonjour. L'univers de Proust en livre n'est pas très accessible, n'est pas facile d'accès.\n\nQuelle est selon vous la valeur ajoutée de la bande dessinée ? Il est certainement plus facile de mémoriser un texte quand il est associé à une image. Et puis il y a toute cette partie documentaire qui permet de mieux comprendre un monde qui tout de même a disparu. Même si Paris semble-t-il n'a pas changé, en fait Paris a beaucoup changé et la France a beaucoup changé. Donc la bande dessinée permet d'illustrer, de documenter un peu le propos.\n\nSelon Stéphane Huet,\n\nQue permet l'adaptation en bande dessinée d'un roman de Proust ?",
+            "rawFile": "data/tv5monde-42/q14-whisper-large-v3.json"
           }
         },
         {
@@ -4768,10 +4768,10 @@
           "questionId": "43",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nBonjour madame. Est-ce que je peux passer? Je peux vous poser quelques questions. Nous aimerions avoir votre avis sur le magasin.\nA. Comme ça, c'est parfait.\nB. D'accord si ça prend 5 minutes. Merci, ce sera tout.\nD oui, ça va bien ensemble.",
-            "rawFile": "data/tv5monde-43/q03-parakeet.json"
+            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nBonjour madame, est-ce que je peux vous poser quelques questions ? Nous aimerions avoir votre avis sur le magasin.\nA. Comme ça, c'est parfait.\nB. D'accord, si ça prend cinq minutes.\nC. Merci, ce sera tout.\nD. Oui, ça va bien ensemble.",
+            "rawFile": "data/tv5monde-43/q03-whisper-large-v3.json"
           }
         },
         {
@@ -4844,10 +4844,10 @@
           "questionId": "45",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nUne fois qu'on sait qu'on veut devenir parfumeur, le parfumeur Donc en fait, une fois qu'on sait qu'on veut devenir parfumeur, il faut devenir scientifique d'abord avant de devenir parfumeur. Qu'apprend-on sur Mathilde Laurent?",
-            "rawFile": "data/tv5monde-43/q05-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nUne fois qu'on sait qu'on veut devenir parfumeur, le parcours est un petit peu long parce qu'il faut faire des études scientifiques. parce qu'il y a une seule école qui forme au métier de la parfumerie, qui est l'ISIPCA à Versailles, et pour y entrer, il faut avoir une formation de chimie. Donc en fait, une fois qu'on sait qu'on veut devenir parfumeur, il faut devenir scientifique d'abord avant de devenir parfumeur. Qu'apprend-on sur Mathilde Laurent ?",
+            "rawFile": "data/tv5monde-43/q05-whisper-large-v3.json"
           }
         },
         {
@@ -4920,10 +4920,10 @@
           "questionId": "47",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJe me définis plus comme un artisan. Un artisan reste fondamentalement attaché à ses produits et à ses valeurs. Après on peut être artisan et artiste. Mais j'aime bien le mot artisan parce que dans artisan il y a The côté manuel, the côté travail, l'engagement. J'aime l'engagement. La gastronomie française, déjà le mot gastronomie, c'est la cuisine de sa region. Valoriser les produits de sa region définit complètement le mot gastronomie.\n\nQuel est le métier de cette personne?",
-            "rawFile": "data/tv5monde-43/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJe me définis plus comme un artisan qu'un artiste. Un artisan reste fondamentalement attaché à ses produits et à ses valeurs. Après, on peut être artisan et artiste. Mais j'aime bien le mot artisan parce que dans artisan, il y a le côté manuel, le côté travail, l'engagement. J'aime l'engagement. La gastronomie française, déjà le mot gastronomie, c'est la cuisine de sa région. Valoriser les produits de sa région définit complètement le mot gastronomie.\n\nQuel est le métier de cette personne ?",
+            "rawFile": "data/tv5monde-43/q07-whisper-large-v3.json"
           }
         },
         {
@@ -5034,10 +5034,10 @@
           "questionId": "50",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nPour Sadrak, les sports d'équipe symbolisent le type de collaboration et de détention. dont les haïtiens ont besoin pour guérir et avancer. La façon dont les joueurs de l'équipe interagissent. Jean-Ho est défenseur. C'est de cette manière qu'ils peuvent se positionner. Pour améliorer et diriger le pays. En travaillant pour l'avenir de son pays, jour après. Après jour, Sadrak réalise tout simplement son rêve.\n\nQuel est le rêve de Sadrak?",
-            "rawFile": "data/tv5monde-43/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nPour Sadraque, les sports d'équipe symbolisent le type de collaboration et de détermination dont les Haïtiens ont besoin pour guérir et avancer. Les Capables viennent en exemple social, en exemple la façon dont les joueurs de l'équipe interagissent. C'est de cette manière qu'ils peuvent se positionner pour améliorer et diriger le pays. En travaillant pour l'avenir de son pays, jour après jour, Sadrach réalise tout simplement son rêve.\n\nQuel est le rêve de Sadrach ?",
+            "rawFile": "data/tv5monde-43/q10-whisper-large-v3.json"
           }
         },
         {
@@ -5186,10 +5186,10 @@
           "questionId": "54",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDepuis 2008, l'Organisation mondiale de la santé reconnaît les médecins. traditional capable of prevenir, diagnostic and traiter certain maladies physique and mental. Attention aussi à l'automédication. Elle entraîne en médecine traditionnelle de nombreuses erreurs. Quadneufdox est rendue à Niame, au Niger, pour rencontrer des tradits praticiens. L'Organisation Mondiale de la Santé conseille de favoriser les passerelles entre médecins traditionnels et médecins dits classiques. Quant aux consommateurs, lorsqu'ils ont recours à la tradite médecine, ils doivent s'assurer que leur traitement traditionnel est adapté à leur maladie. Et que le praticien est qualifié.\n\nQuel est le point de vue de l'Organisation mondiale de la santé sur les médecines traditionnelles?",
-            "rawFile": "data/tv5monde-43/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDepuis 2008, l'Organisation mondiale de la santé reconnaît les médecines traditionnelles capables de prévenir, diagnostiquer et traiter les maladies. certaines maladies physiques et mentales. Cependant, les médicaments traditionnels peuvent avoir des effets indésirables ou entraîner de graves complications quand ils sont mal utilisés. Attention aussi à l'automédication. Elle entraîne en médecine traditionnelle de nombreuses erreurs. Quaneuf Doc s'est rendue à Niamey au Niger pour rencontrer des tradipraticiens. L'Organisation mondiale de la santé conseille de favoriser les passerelles entre médecins traditionnels et médecins dits classiques. Quant aux consommateurs, lorsqu'ils ont recours à la tradimédecine, ils doivent s'assurer que leur traitement traditionnel est adapté à leur maladie et que le praticien est qualifié.\n\nQuel est le point de vue de l'Organisation mondiale de la santé sur les médecines traditionnelles ?",
+            "rawFile": "data/tv5monde-43/q14-whisper-large-v3.json"
           }
         },
         {
@@ -5224,10 +5224,10 @@
           "questionId": "55",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Ecoutez le document sonore et la question. Choisissez la bonne réponse.\n\nFait que moi, il est là mon réflexe dans le sens où quand je raconte des histoires, quand j'ai le mot ou je ne l'ai pas sur le bord du jasage, ben j'en invente d'autres parce que je me dis qu'il ne faut pas attendre. Pour moi, il y a une urgence de parler quand je compte, je garoche des mots. Des fois ils n'ont pas de sens, des fois ils font juste la musique, mais au moins il y a une musique dans cet angle.\n\nSelon l'intervenant, quel est le propre d'une langue vivante?",
-            "rawFile": "data/tv5monde-43/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJe pense qu'au Québec, on a quand même un vigoureux sur l'invention langagière, sur le délire verbal, sur la matérialité de la langue qui fait qu'on se permet de l'invention. On se permet d'avoir une langue vivante parce qu'on se pète les bretelles que le français est une langue vivante. Mais après, il faut le faire vivre, la langue qu'on utilise. Moi, il est là mon réflexe, dans le sens où quand je raconte des histoires, quand le mot, je ne l'ai pas sur le bord du jasage, j'en invente d'autres parce que je me dis qu'il ne faut pas attendre. Pour moi, il y a une urgence de parler quand je compte, je garoche des mots. Des fois, ils n'ont pas de sens, des fois, ils font juste de la musique, mais au moins, il y a une musique dans cet angle-là.\n\nSelon l'intervenant, quel est le propre d'une langue vivante ?",
+            "rawFile": "data/tv5monde-43/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -5501,10 +5501,10 @@
           "questionId": "87",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJ'adore les fleurs. J'adore en avoir chez moi. J'adore en offrir. My mom was her. When I was participated with his parents at seven, she was florist. And it's my mom who made the good flowers. Avec mon père parfois on jardine un peu. On aime bien les rosiers, on a mis plein de rosiers partout chez nous autour de la maison. J'aime bien faire ça. Ça me détend pas mal.\n\nComment est née la passion de cette femme?",
-            "rawFile": "data/tv5monde-44/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nJ'adore les fleurs. J'adore en avoir chez moi, j'adore en offrir, j'adore en envoyer. J'aurais bien aimé faire ça dans la vie, fleuriste. Ma maman, c'était son premier métier.\n\nQuand elle est partie de chez ses parents à 16 ans, elle a fait fleuriste. Et donc, c'est ma maman qui m'a donné le goût des fleurs. Avec mon père, parfois, on jardine un peu. On aime bien les rosiers. On a mis plein de rosiers partout chez nous, autour de la maison. J'aime bien faire ça. Ça me détend pas mal.\n\nComment est née la passion de cette femme ?",
+            "rawFile": "data/tv5monde-44/q07-whisper-large-v3.json"
           }
         },
         {
@@ -5539,10 +5539,10 @@
           "questionId": "88",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nComment êtes-vous devenue une star? En gagnant un concours de chant? No. At the book I travaillais comme serveuse dans un bar karaoke, and it m'arrives souvent to chanter en rangeant la salle, par plaisir. I ne pensais pas devenir professionnel. Un soir, pensant être seule, Je chantais comme d'habitude, et en fait un ami du patron était resté. Il travaillait pour une maison de disques, et voilà. Et ensuite, vous avez enchaîné les concerts, les émissions de radio et de télévision. Exactement.\n\nComment cette chanteuse est-elle devenue célèbre?",
-            "rawFile": "data/tv5monde-44/q08-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nComment êtes-vous devenu une star ? En gagnant un concours de chant ? Non.\nA l'époque, je travaillais comme serveuse dans un bar. karaoké et il m'arrivait souvent de chanter en rangeant la salle par plaisir. Je ne pensais pas devenir professionnelle. Un soir, pensant être seule, je chantais comme d'habitude et en fait un ami du patron était resté. Il travaillait pour une maison de disques et voilà. Et ensuite... Vous avez enchaîné les concerts, les émissions de radio et de télévision. Exactement.\n\nComment cette chanteuse est-elle devenue célèbre ?",
+            "rawFile": "data/tv5monde-44/q08-whisper-large-v3.json"
           }
         },
         {
@@ -5691,10 +5691,10 @@
           "questionId": "92",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nRéunion après réunion, Katharina. Commence par écouter, puis elle oriente la conversation vers ses priorités. Elle cherche à obtenir les informations qui pourront lui être utiles pour la rédaction du rapport final. Il s'agit de vendre un produit. Le droit humain à l'eau et à l'assainissement. Je veux captiver les gens pour qu'ils comprennent, qu'ils soient convaincus, utiliser les droits humains comme cadre de travail pour la question de l'eau et de l'assainissement, par exemple, c'est faire un meilleur travail qui leur permettra.\n\nPourquoi Katharina se bat-t-elle?",
-            "rawFile": "data/tv5monde-44/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nRéunion après réunion, Katharina commence par écouter, puis elle oriente la conversation vers ses priorités. Elle cherche à obtenir les informations qui pourront lui être utiles pour la rédaction du rapport final. Il s'agit de vendre un produit, le droit humain à l'eau et à l'assainissement. Je veux captiver les gens pour qu'ils comprennent, qu'ils soient convaincus. Utiliser les droits humains comme cadre de travail. pour la question de l'eau et de l'assainissement par exemple. C'est faire un meilleur travail qui leur permettra de mieux servir les personnes qu'ils sont censés servir.\n\nPourquoi Katharina se bat-elle ?",
+            "rawFile": "data/tv5monde-44/q12-whisper-large-v3.json"
           }
         },
         {
@@ -5729,10 +5729,10 @@
           "questionId": "93",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nTant de livres pour célébrer la province. Pour célébrer quoi? Les Bretons têtuent, les Auvergniens près de leur sous. Pour souligner la diversity extraordinaire de la France. C'est ce qui fait sa principal richesse. And the character of them vary also in function of their regions. It's very Pierre.\nA lot of the mondialisation, alone of this? Alright, there's so much brassage of the population. But we have to have a character breton. Tempérament provençal, vous avez des caractères propres aux Savoyards ou aux Berrichons, c'est comme ça et moi et mon étonnement justement c'est que ça persiste encore.\n\nQuelle est l'opinion de l'écrivain interviewé?",
-            "rawFile": "data/tv5monde-44/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nTant de livres pour célébrer la province, pour célébrer quoi ? Les bretons têtus, les auvergnats près de leur sou ? Pour souligner la diversité extraordinaire de la France. C'est ce qui fait sa principale richesse. C'est que vous allez d'une région à une province à l'autre, vous faites 50-100 kilomètres, c'est toujours des paysages à chaque fois différents. Et les caractères des gens varient aussi en fonction des régions de France. C'est vrai toujours ça, Pierre-Paul ? À l'heure de la mondialisation ? Alors qu'il y a eu tellement de brassage de population, mais vous avez toujours un caractère breton, un tempérament provençal, vous avez des caractères propres aux Savoyards ou aux Bérichons, c'est comme ça. Et mon étonnement, justement, c'est que ça persiste encore.\n\nQuelle est l'opinion de l'écrivain ?",
+            "rawFile": "data/tv5monde-44/q13-whisper-large-v3.json"
           }
         },
         {
@@ -5805,10 +5805,10 @@
           "questionId": "95",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEst-ce que la modernité, telle que vous l'étudiez, is compatible with the sauvegarde necessary of the planet. It's a nous devoir. C'est ça l'avenir à faire soi-même. It's really the question. La modernity nous donne des tas de moyens. On a pu imaginer that we oblige à en faire certainement, and notamment des choses pas jolies like la guerre, l'oppression economic. Peut-être que alors we have invented other systems, not literature, that we permit to have d'autres choses beaucoup plus intéressantes, et là on n'est même pas en carrefour, on est devant une mosaïque de carrefour, d'état de choix qui vont nous permettre de décider si cette modernité nous amène à l'extinction de l'espèce.\n\nOu bien si on arrive à faire quelque chose de bien.\n\nQue prône le philosophe interrogé pour l'avenir de la planète?",
-            "rawFile": "data/tv5monde-44/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEst-ce que la modernité telle que vous l'étudiez est compatible avec la sauvegarde nécessaire de la planète ? C'est à nous de voir. C'est ça, l'avenir à faire soi-même. C'est une réponse de philosophe. Je suis désolé. C'est vraiment là qu'est la question. C'est que la modernité nous donne des tas de moyens. On a pu imaginer qu'elle nous obligeait à en faire certaines choses, et notamment des choses pas jolies, comme la guerre, l'oppression économique. Peut-être qu'aujourd'hui, on a inventé d'autres systèmes, notamment l'Internet. qui nous permettent de faire d'autres choses beaucoup plus intéressantes. Et là, on n'est même pas en carrefour, on est devant une mosaïque de carrefours, des tas de choix qui vont nous permettre de décider si cette modernité, elle nous amène à l'extinction de l'espèce. ou bien si on arrive à faire quelque chose de bien.\n\nQue prône le philosophe interrogé pour l'avenir de la planète ?",
+            "rawFile": "data/tv5monde-44/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -6120,10 +6120,10 @@
           "questionId": "208",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nQuel est votre premier souvenir de théâtre? J'ai 10 ans. And my pair a saison at Congo of César. I was enthusiasm by this scene after the debut of the spectacle. I adore watching the action. S'habiller, se maquiller, entendre le public s'installer dans la salle. Qu'est-ce que cette personne a aimé lorsqu'elle est allée au théâtre pour la première fois?",
-            "rawFile": "data/tv5monde-50/q08-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nQuel est votre premier souvenir de théâtre ? J'ai 10 ans et mon père joue une saison au Congo, de Césaire. Je suis enthousiasmée par tout ce qui se passe derrière la scène avant le début du spectacle. J'adore voir les acteurs s'habiller, se maquiller, entendre le public s'installer dans la salle. Qu'est-ce que cette personne a aimé lorsqu'elle est allée au théâtre pour la première fois ?",
+            "rawFile": "data/tv5monde-50/q08-whisper-large-v3.json"
           }
         },
         {
@@ -6158,10 +6158,10 @@
           "questionId": "209",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMoi quand j'étais étudiant en design, je me suis fait I'm saying I do design these objects, concevoir these things for these humans. So it's compromised these humans. It's not just like a group of consumers, adolescents, adults, and seniors, que j'essaie de savoir qui ils sont vraiment.\n\nComment ils voient, comment ils entendent, comment ils pensent, comment ils croient.\n\nQue veut faire cette personne?",
-            "rawFile": "data/tv5monde-50/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMoi, quand j'étais étudiant en design, je me suis fait une réflexion en me disant « je dois dessiner des objets, concevoir des choses pour des êtres humains. Donc il faut que je commence par comprendre ces êtres humains-là. Il ne faut pas que je les considère juste comme des groupes de consommateurs, des enfants, des adolescents, des adultes, des seniors, mais que j'essaie de savoir qui ils sont vraiment.\n\nComment ils voient, comment ils entendent, comment ils pensent, comment ils croient.",
+            "rawFile": "data/tv5monde-50/q09-whisper-large-v3.json"
           }
         },
         {
@@ -6196,10 +6196,10 @@
           "questionId": "210",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nCe qui fait que je me sens passionné pour les dictionnaires. C'est que it's really the trait d'union entre les générations, le trait d'union entre les gens de two niveau culturel, parce que tout le monde consulte le dictionnaire for an orthographe, pour un mot qu'on ne comprend pas. à la fois précis, simple, élégant aussi, des définitions qu'on puisse lire, qui ne soient pas trop jargonnantes.\n\nQuel est l'avis de l'intervenant sur les dictionnaires?",
-            "rawFile": "data/tv5monde-50/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nCe qui fait que je me sens passionné par les dictionnaires, c'est que c'est vraiment le trait d'union entre les générations, le trait d'union entre les gens de tout niveau culturel, parce que tout le monde consulte le dictionnaire pour une orthographe, pour un mot qu'on ne comprend pas. Il s'agit d'être à la fois précis, simple, élégant aussi, de définitions qu'on puisse lire, qui ne soient pas trop jargonnantes.",
+            "rawFile": "data/tv5monde-50/q10-whisper-large-v3.json"
           }
         },
         {
@@ -6234,10 +6234,10 @@
           "questionId": "211",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nL'avantage, moi je ne le situerai pas là, je le situerai dans le fait que moi je suis née dans une I am the quatrième generation of a family of cuisiniers. I'm the jupons of my grandparents and my papa who was chef. And that is a very advantage. In the case, the fact that I have a parcours very traditional. apprentissage du métier fait que je suis quelqu'un de très intuitive. Et ça c'est peut-être un avantage. Parce que c'est vrai que du coup je laisse parler mon cœur avant de laisser parler ma tête, avant de laisser parler la technique. Et ça c'est peut-être intéressant dans mon approche.\n\nComment travaille cette personne?",
-            "rawFile": "data/tv5monde-50/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nL'avantage, moi, je ne le situerai pas là, je le situerai dans le fait que moi, je suis née dans une cuisine. Je suis la quatrième génération d'une famille de cuisiniers. J'ai grandi dans les jupons de mes grands-parents et de... de mon papa qui était chef et là ça c'est un vrai avantage. En tous les cas, le fait que je n'ai pas un parcours vraiment très traditionnel dans l'apprentissage du métier fait que je suis quelqu'un de très intuitive et ça c'est peut-être un avantage parce que c'est vrai que du coup je laisse parler mon cœur avant de laisser parler ma tête, avant de laisser parler la technique et ça c'est peut-être intéressante dans mon approche.\n\nComment travaille cette personne ?",
+            "rawFile": "data/tv5monde-50/q11-whisper-large-v3.json"
           }
         },
         {
@@ -6272,10 +6272,10 @@
           "questionId": "212",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nUne bonne nouvelle, c'est le meilleur médicament du monde. Une mauvaise nouvelle... It's the désespoir that's abatted. Tout the both and mauvaise nouvelles that I've had the chance to traversing have been uttered. I mean already at what point the eche are important. Et à quel point les échecs m'ont fait faire plus de progrès que mes succès. Je veux dire que la plus grande université du monde, c'est la souffrance, c'est la sueur, c'est la difficulté. Tout est compliqué avant d'être simple. Qu'est-ce qui a permis à l'intervenant de progresser?",
-            "rawFile": "data/tv5monde-50/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nUne bonne nouvelle, c'est le meilleur médicament du monde. Une mauvaise nouvelle, c'est le désespoir qui s'abat. Toutes les bonnes et mauvaises nouvelles... que j'ai eu la chance de traverser ont été utiles. Je mesure aujourd'hui à quel point les échecs sont importants. et à quel point les échecs m'ont fait faire plus de progrès que mes succès. Je veux dire que la plus grande université du monde, c'est la souffrance, c'est la sueur. C'est la difficulté. Tout est compliqué avant d'être simple. Qu'est-ce qui a permis à l'intervenant de progresser ?",
+            "rawFile": "data/tv5monde-50/q12-whisper-large-v3.json"
           }
         },
         {
@@ -6310,10 +6310,10 @@
           "questionId": "213",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nNon moi je pense qu'en fait, effectivement, pour la bande dessinée, il y a un certain nombre d'ingrédients. We retrieve in Belgique. The bande dessinée is a little cinema of poor. And we in Belgique we have petrol, but we have a idea. We are a bit irreverencious, it's right, rebel, we have a lot of imagination and we Sommes surréalistes et donc tous ces ingrédients sont utiles pour faire de la bande dessinée, ce qui explique, à mon avis, cette grande cette grande tradition et aussi toute une série d'auteurs qui ont le mérite d'avoir fait vivre.\n\nQue dit l'intervenante? Sur la bande dessinée belge.",
-            "rawFile": "data/tv5monde-50/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nNon, moi je pense qu'en fait, effectivement, pour la bande dessinée, il y a un certain nombre d'ingrédients qu'on retrouve en Belgique. Donc la bande dessinée, c'est un peu le cinéma du pauvre. Et nous, en Belgique, nous n'avons pas de pétrole, mais nous avons beaucoup d'idées. Nous sommes un petit peu irrévérencieux, c'est vrai, rebelles, nous avons beaucoup d'imagination et nous sommes surréalistes. Et donc tous ces ingrédients sont utiles pour faire de la bande dessinée. Ce qui explique, à mon avis, cette grande tradition et aussi une série d'auteurs qui ont... le mérite d'avoir fait vivre.\n\nQue dit l'intervenante sur la bande dessinée belge ?",
+            "rawFile": "data/tv5monde-50/q13-whisper-large-v3.json"
           }
         },
         {
@@ -6348,10 +6348,10 @@
           "questionId": "214",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nC'est compliqué à dire parce que d'abord la domination de l'anglais, moi je mets la formule en... cause. L'anglais est omniprésent partout à certains niveaux d'activité. Par contre, quand il s'agit de l'usage spontané par les masses, c'est-à-dire la majorité de la population de la Terre. D'une langue bien maîtrisée, l'anglais is not too dominant. I could promote in China, it's arrived for a journey entire, sending one person who parts anglais. We are angry partout, it's not very On parle anglais partout dans les banques.\n\nQuelle est l'attitude de cet intervenant à propos de la langue anglaise?",
-            "rawFile": "data/tv5monde-50/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nC'est compliqué à dire parce que d'abord, la domination de l'anglais, moi, je mets la formule en cause. L'anglais est omniprésent partout, à certains niveaux d'activité. Par contre, quand il s'agit de l'usage spontané par les masses, c'est-à-dire la majorité de la population de la Terre, d'une langue bien maîtrisée, l'anglais n'est pas du tout dominant. On peut se promener en Chine, et ça m'est arrivé pendant des journées entières. sans rencontrer une seule personne qui parle anglais. C'est une chose. On croit qu'on parle anglais partout, c'est pas vrai. On parle anglais partout dans les banques.\n\nQuelle est l'attitude de cet intervenant à propos de la langue anglaise ?",
+            "rawFile": "data/tv5monde-50/q14-whisper-large-v3.json"
           }
         },
         {
@@ -6386,10 +6386,10 @@
           "questionId": "215",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt une des choses importantes, et qu'on s'est rendu compte depuis quelques années, C'est que le monde extérieur n'est pas comme un film, n'est pas quelque chose d'extérieur à nous, but au contraire, c'est quelque chose that notre cerveau vit d'une façon presque hallucinée. The images du monde extérieur s'incarnent en nous. J'entendais tout à l'heure que l'adolescent était comme autiste au monde. Pas du tout. L'adolescent au contraire est hypersensible au monde. Et du coup, il est obligé de compartimenter, de faire des cases, de ranger des choses, de faire des priorités. Le rôle des parents, finalement, c'est peut-être d'ouvrir des portes et de permettre à l'adolescent de se construire, de continuer à se construire.\n\nQue mentionne ce chercheur à propos du cerveau des adolescents?",
-            "rawFile": "data/tv5monde-50/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt une des choses importantes, qu'on s'est rendu compte depuis quelques années, c'est que le monde extérieur n'est pas comme un film, n'est pas quelque chose d'extérieur. ...extérieur à nous, mais au contraire, c'est quelque chose que notre cerveau vit d'une façon presque hallucinée. Les images du monde extérieur s'incarnent en nous. J'entendais tout à l'heure que l'adolescent était comme autiste au monde. Pas du tout ! L'adolescent, au contraire, est hypersensible au monde. Et du coup, il est obligé de compartimenter, de... de faire des cases, de ranger des choses, de faire des priorités. Le rôle des parents, finalement, c'est peut-être d'ouvrir des portes et de permettre à l'adolescent de se construire, de continuer à se construire.\n\nQue mentionne ce chercheur à propos du cerveau des adolescents ?",
+            "rawFile": "data/tv5monde-50/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -6473,10 +6473,10 @@
           "questionId": "322",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nOh, j'adore ce présentateur télé. Tu sais, il est sur TV5Monde. Il passe tous les mardis soirs. Ah? Ah oui, c'est l'heure du journal.\nB Ah oui, ils ont annulé le film.\nC Ah oui, j'ai déjà regardé ces émissions.\nD? Ah oui, j'ai préféré ce programme-là.",
-            "rawFile": "data/tv5monde-55/q02-parakeet.json"
+            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nOh, j'adore ce présentateur télé. Tu sais, il est sur TV5MONDE. Il passe tous les mardis soirs.\nA. Ah oui, c'est l'heure du journal.\nB. Ah oui, ils ont annulé le film.\nC. Ah oui, j'ai déjà regardé ces émissions.\nD. Ah oui, j'ai préféré ce programme-là.",
+            "rawFile": "data/tv5monde-55/q02-whisper-large-v3.json"
           }
         },
         {
@@ -6701,10 +6701,10 @@
           "questionId": "328",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt maintenant, chers auditeurs de Radio Loire FM, l'annonce de Ryan. Bonjour, I'm Oriane. I've 22 years. I would partake an appartement with a locataire who travail from me. I never have designants car they find trophy. Je suis jeune, mais j'aime le calme. Pour moi, l'argent n'est pas un problème, mais je veux habiter avec d'autres gens. En effet, je viens d'arriver dans cette ville et je ne connais personne.\n\nPourquoi Oriane veut-elle vivre en colocation?",
-            "rawFile": "data/tv5monde-55/q08-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt maintenant, chers auditeurs de Radio-Loire FM, l'annonce d'Oriane. Bonjour, je m'appelle Oriane. J'ai 22 ans. Je voudrais partager un appartement avec des locataires qui travaillent comme moi. Je ne souhaite pas vivre avec des étudiants car ils font trop la fête. Je suis jeune, mais j'aime le calme. Pour moi, l'argent n'est pas un problème, mais je veux habiter avec d'autres gens. En effet, je viens d'arriver dans cette ville et je ne connais personne.\n\nPourquoi Oriane veut-elle vivre en colocation ?",
+            "rawFile": "data/tv5monde-55/q08-whisper-large-v3.json"
           }
         },
         {
@@ -6739,10 +6739,10 @@
           "questionId": "329",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour Monsieur Rollin. Qu'est-ce qui vous arrive? Je me suis fait mal au dos. Hm. Prenez ses cachets matin and soir pendant cinq jours, and fate plus d'effort and ne portez rien de lourd. Je vous donne un arrêt de travail de quelques jours. Avec les médicaments et du repos, vous irez beaucoup mieux dans une semaine.\n\nQue doit faire M. Rollin pour soigner son dos?",
-            "rawFile": "data/tv5monde-55/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nBonjour, Monsieur Rollin. Qu'est-ce qui vous arrive ? Je me suis fait mal au dos en déplaçant un meuble. Hmm... Prenez ces cachets matin et soir. pendant 5 jours. Et surtout, ne faites plus d'efforts et ne portez rien de lourd. Avec mon travail à la piscine, ça ne va pas être facile. Je vous donne un arrêt de travail de quelques jours. Avec les médicaments et du repos, vous irez beaucoup mieux dans une semaine.\n\nQue doit faire M. Rolin pour soigner son dos ?",
+            "rawFile": "data/tv5monde-55/q09-whisper-large-v3.json"
           }
         },
         {
@@ -6777,10 +6777,10 @@
           "questionId": "330",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nNous vivons dans un monde qui est un monde de l'impatience, de la rapidité. And the apprentice veults de la lenteur. que la lecture numérique est quelque chose de tout à fait particulier qui est surtout, comment dire, dirigé vers l'utilité. On prélève un renseignement dans la lecture numérique. Mais on ne s'approprie pas le texte, on ne se le met ni en bouche, ni en mémoire. Et c'est cela qui fait, je crois, le prix, la saveur des apprentissages.\n\nQuel est le risque de l'école du numérique selon cette spécialiste?",
-            "rawFile": "data/tv5monde-55/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nNous vivons dans un monde qui est un monde de l'impatience, de la rapidité et les apprentissages veulent tous de la lenteur. Et l'école du numérique, vous n'y croyez pas, il me semble.\n\nPourquoi ? Si, bien sûr. Oui, je crois que l'école peut tout à fait s'ouvrir au numérique. Je crois que la lecture numérique est quelque chose de tout à fait particulier, qui est surtout dirigé vers l'utilité. On prélève un renseignement dans la lecture numérique, mais on ne s'approprie pas le texte, on ne se le met ni en bouche, ni en mémoire. Et c'est cela qui fait, je crois, le prix, la saveur des apprentissages.\n\nQuel est le risque de l'école du numérique, selon cette spécialiste ?",
+            "rawFile": "data/tv5monde-55/q10-whisper-large-v3.json"
           }
         },
         {
@@ -6815,10 +6815,10 @@
           "questionId": "331",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEst-ce que vous savez que le premier groupe mondial pour l'enseignement du tourisme et de l'hôtellerie est français? The toute dernière école vient d'ouvrir au Mexique. In this pays, l'objectif de Vatel is clair. Former en 4 ans, des jeunes Mexicans to devenir des cadres capables de travailler. In the plus and restaurants of the planet. The students find also cursus anime, in France, l'école pilote de Vatel. The apprentice of the languages is a cœur of their formation. That's why the installation is local. de l'Alliance française de Mexico qui dispose des meilleurs professeurs pour enseigner le français du tourisme.\n\nQue permet l'école Vatel aux étudiants mexicains?",
-            "rawFile": "data/tv5monde-55/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEst-ce que vous savez que le premier groupe mondial pour l'enseignement du tourisme et de l'hôtellerie est français ? Et oui, depuis 30 ans, l'école Vattel forme des milliers d'étudiants à ses métiers dans le monde. 26 écoles à travers le monde. La toute dernière école vient d'ouvrir au Mexique. Dans ce pays, l'objectif de Vattel est clair, former en 4 ans des jeunes mexicains à devenir des cadres capables de travailler dans les plus grands hôtels et restaurants de la planète. Les étudiants font aussi une partie de leur cursus à Nîmes, en France, l'école pilote de Vattel. L'apprentissage de la langue française est donc au cœur de leur formation. C'est pourquoi l'école s'est installée dans les locaux de l'Alliance française de Mexico qui dispose des meilleurs professeurs pour enseigner le français du tourisme.\n\nQue permet l'école Vattel aux étudiants mexicains ?",
+            "rawFile": "data/tv5monde-55/q11-whisper-large-v3.json"
           }
         },
         {
@@ -6929,10 +6929,10 @@
           "questionId": "334",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\n1 million de tonnes chaque année, c'est ce que représentent les couches jetables en France. In France, chaque nourrisson engaspille 6 000 pendant les two years of his life. The group Suez evaluation the potential of recyclage of matière, plastic, fibre, polymère, pourrait être valorisé voire servir to produce biogaz, an immense gâchis. Colin, you have reagir sur les couches culottes. Alors that could be anecdotique, but it's a very problem. But in two anfants have ported chacun six couches culottes. Et c'est vrai qu'on se rend compte qu'on génère comme ça beaucoup de pollution dont on ne se rend pas compte et qui viennent du confort dans lequel on est.\n\nComment réagit l'invité de l'émission?",
-            "rawFile": "data/tv5monde-55/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\n1 million de tonnes chaque année, c'est ce que représentent les couches jetables en France. Chaque nourrisson en gaspille 6 000 pendant les deux premières années de sa vie. Le groupe Suez évalue en En ce moment, le potentiel de recyclage des matières, plastiques, fibres, polymères, pourraient être valorisés, voire servir pour produire du biogaz.\n\nDe quoi éviter un immense gâchis. Colin, je vous ai vu réagir sur les couches culottes. Alors, ça peut paraître anecdotique, mais c'est un vrai problème. Mais je n'avais jamais pensé qu'en deux ans, j'avais... Mes enfants avaient porté chacun 6000 couches culottes. C'est énorme. Et c'est vrai qu'on se rend compte qu'on génère comme ça beaucoup de pollution dont on ne se rend pas compte et qui viennent du confort dans lequel on est.\n\nComment réagit l'invité de l'émission ?",
+            "rawFile": "data/tv5monde-55/q14-whisper-large-v3.json"
           }
         },
         {
@@ -7206,10 +7206,10 @@
           "questionId": "486",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAlors, juste avant les repas de réveillon, dernier petit conseil, avant... Pendant, what's the consequence? Pendant I consecution because it's the fit and people profit. But after it will certainly have attention to diminutional consumation of alcohol, pass them to low, and diminute also his quantity.\n\nSelon cette personne, que doit-on faire pendant les fêtes?",
-            "rawFile": "data/tv5monde-60/q06-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAlors, juste avant les repas de réveillon, un dernier petit conseil. Avant, pendant, après, qu'est-ce que vous conseillez ? Pendant, je ne conseille rien parce que c'est les fêtes et il faut que les gens profitent. Mais après, il faut certainement faire plus attention à diminuer sa consommation d'alcool, passer même à de l'eau. et puis diminuer aussi ces quantités de sucre et de graisse dans les jours qui suivent.",
+            "rawFile": "data/tv5monde-60/q06-whisper-large-v3.json"
           }
         },
         {
@@ -7282,10 +7282,10 @@
           "questionId": "488",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe Grand Louvre avait été Imaginez, organisé for 5 millions de personnes par an. Or cela fait déjà 3 ans que l'on dépasse à Paris la barre des 9 millions. Conclusion, il va falloir améliorer l'accueil du public with a mode ordre précis. Plus, c'est qu'il faut faire mieux que ce soit dans les files d'attente, dans la billetterie, dans la restauration ou encore dans le système de circulation du public, dans les quelques 404 salles de ce qui est le musée le plus visité du monde. Qu'apprend-on sur le musée du Louvre?",
-            "rawFile": "data/tv5monde-60/q08-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe Grand Louvre avait été imaginé, organisé pour 5 millions de personnes par an. Or cela fait déjà 3 ans que l'on dépasse à Paris la barre des 9 millions. Conclusion, il va falloir améliorer l'accueil du public avec un mot d'ordre précis. « Ce n'est pas tant qu'il faut faire plus, c'est qu'il faut faire mieux, que ce soit dans les files d'attente, dans la billetterie, dans la restauration ou encore dans le système de circulation du public, dans les quelques 404 salles de ce qui est le musée le plus visité du monde. » Qu'apprend-on sur le musée du Louvre ?",
+            "rawFile": "data/tv5monde-60/q08-whisper-large-v3.json"
           }
         },
         {
@@ -7358,10 +7358,10 @@
           "questionId": "490",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nVous vous intéressez précisément à ces problèmes de mesure de la Pollution, alors we have prepared notamment an product, an approach that we transport sur soi in permanence, is that de many to respire. In fact, plus generally Plume Labs, it's a great startup parisien. The pollution in the village already is an enjecation of sant major, it's also an enjecation of bien-être for those who don't care, for those who don't courir en ville, se déplacer, et ça devient en fait une forme d'épidémie.\n\nQue permet l'appareil proposé par l'entreprise Plume Labs?",
-            "rawFile": "data/tv5monde-60/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nVous vous intéressez précisément à ces problèmes de mesure de la pollution. Vous préparez notamment un produit, un appareil qu'on pourra transporter sur soi en permanence, c'est ça ? Tout à fait, de manière à pouvoir savoir ce qu'on respire. En fait, plus généralement, Plume Labs, c'est donc une jeune start-up parisienne, et qui, à travers le monde, cherche à apporter à ses utilisateurs les moyens de ne pas subir la pollution. Parce que la pollution dans les villes aujourd'hui, c'est devenu d'abord un enjeu de santé publique majeur, c'est aussi un enjeu de bien-être pour ceux qui veulent sortir, pour ceux qui veulent courir en ville, se déplacer, et ça devient en fait une forme d'épidémie.\n\nQue permet l'appareil proposé par l'entreprise Plume Labs ?",
+            "rawFile": "data/tv5monde-60/q10-whisper-large-v3.json"
           }
         },
         {
@@ -7472,10 +7472,10 @@
           "questionId": "493",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes solutions, les outils pour lancer une économie verte, a priori, It exited. I think there are other reasons. One, we have a search and a few years on the energy fossil. And the fine. completely forgé nos economy, to nos industry, la chimie, beaucoup de choses en depend, y compris the pesticides for the agriculture. And it has forgiveness. Donc we have evidently the mal to sort of an imaginaire and culture. Monter sur les énergies fossiles. Qu'est-ce qui empêche l'essor de l'économie verte?",
-            "rawFile": "data/tv5monde-60/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes solutions, les outils pour lancer une économie verte, a priori, ils existent. Alors pourquoi est-ce que ça coince aujourd'hui ? Je crois qu'il y a plusieurs raisons. Un, on a vécu depuis un siècle et demi autour des énergies fossiles. Ça a été le charbon et puis évidemment le pétrole, le gaz. Et au fond, ça a complètement forgé notre économie, toute notre industrie, de la chimie, beaucoup de choses en dépendent, y compris les pesticides. pour l'agriculture, et puis ça a forgé notre imaginaire. Donc on a évidemment du mal à sortir d'un imaginaire et d'une culture montée sur les énergies fossiles. Qu'est-ce qui empêche l'essor de l'économie verte ?",
+            "rawFile": "data/tv5monde-60/q13-whisper-large-v3.json"
           }
         },
         {
@@ -7510,10 +7510,10 @@
           "questionId": "494",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nChaque matin, à 9h, on se retrouve avec tous les productions. politiques, quelles sont les priorités des sujets. Alors c'est très intéressant parce qu'on a des collègues russes, chinois, arabes et chacun apporte son point de vue de journaliste.\n\nSelon la personne interrogée,\n\nQuel est le point fort des réunions évoquées?",
-            "rawFile": "data/tv5monde-60/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nChaque matin, à 9h, on se retrouve avec tous les producteurs et les journalistes du département pour faire un point éditorial. On voit quels sont les grands sujets dans le monde et on décide. Du sujet du jour, de la vidéo qu'on mettra sur le site, mais aussi de qui va couvrir quoi, comment, quelles sont les sensibilités politiques, quelles sont les priorités des sujets. Alors c'est très intéressant parce qu'on a des collègues russes, chinois, arabes, et chacun apporte son point de vue de journaliste.\n\nSelon la personne interrogée,\n\nQuel est le point fort des réunions évoquées ?",
+            "rawFile": "data/tv5monde-60/q14-whisper-large-v3.json"
           }
         },
         {
@@ -7548,10 +7548,10 @@
           "questionId": "495",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nÉcoutez, c'est moi je pense et j'en suis convaincue. The same faith to convaincre les francophones québécois to continue to militer for the surview of France, is to donate as latitude for francophones à part entière. Sinon l'attraction de l'anglais is là and encore plus qu'ici. I think it will absolutely, of course, and the fact that we do assume different. The Quebec are very avid. de connaître les emplois, les équivalents qui ont cours en Europe.\n\nSelon l'intervenant, à quoi les francophones québécois doivent-ils être incités?",
-            "rawFile": "data/tv5monde-60/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nUn coffin d'apparentière. C'est moi, je pense et j'en suis convaincu, la seule façon de convaincre les francophones québécois de continuer. à militer pour la survie du français, c'est de leur donner assez de latitude pour qu'ils se sentent québécois, francophones à part entière. Sinon, l'attraction de l'anglais est là. Et on l'a subi encore plus qu'ici. Donc moi, je pense qu'il faut absolument, au contraire, faire naître ce sentiment de fierté et de... Du fait qu'on doit s'assumer comme différent, on est différent et on s'assume comme différent, ça ne veut pas dire qu'on coupe les ponts. Les Québécois sont très avides de connaître les emplois, les équivalents qui ont cours en Europe.\n\nSelon l'intervenant.\n\nÀ quoi les francophones québécois doivent-ils être incités ?",
+            "rawFile": "data/tv5monde-60/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -7749,10 +7749,10 @@
           "questionId": "525",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLa femme qui s'occupe des évaluations nous a dit que... Khibba had a petit problème avec la compréhension des questions and a eu du mal à comprendre quelques questions, pas la totalité. Ils vont nous rappeler pour dire pour nous envoyer à une école qui est tout près. Qu'apprend-on, Suriba?",
-            "rawFile": "data/tv5monde-66/q05-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLa femme qui s'occupe des évaluations nous a dit que Hiba avait un petit problème avec la compréhension des questions et il a eu du mal à comprendre. prendre quelques questions par la totalité. Ils vont nous rappeler pour nous envoyer à une école qui est tout près de notre logement. Qu'apprend-on sur IBA ?",
+            "rawFile": "data/tv5monde-66/q05-whisper-large-v3.json"
           }
         },
         {
@@ -7825,10 +7825,10 @@
           "questionId": "527",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nCe qui est fantastique dans ce métier, c'est qu'on voit ce qu'on crée, c'est-à-dire If I was a bureau two months via an ordinary, I cried. I live the matter, I part of a product. We arrive at the product, we don't have an exploitation, it's not evident. But we are a product, we have another product, we valorise. On crée quelque chose. Tous les jours on crée quelque chose et on amène quelque chose aux gens. Sa fierté, c'est son fromage. L'artisan. Qu'est-ce que l'intervenante apprécie dans son métier?",
-            "rawFile": "data/tv5monde-66/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nCe qui est fantastique dans ce métier, c'est qu'on voit ce qu'on crée. C'est-à-dire que si j'allais au bureau tous les matins derrière un ordinateur, malheureusement je ne créerais pas grand-chose. Vous savez ce qu'aujourd'hui ? Je me lève le matin, je pars d'un produit. Déjà on arrive au produit, il faut avoir une exploitation, il faut avoir des bêtes, c'est pas toujours évident, mais on part d'un produit, on en fait un autre produit. On le valorise, on crée quelque chose. Tous les jours, on crée quelque chose et on amène quelque chose aux gens. Sa fierté, c'est son fromage, l'artisan. Qu'est-ce que l'intervenante apprécie dans son métier ?",
+            "rawFile": "data/tv5monde-66/q07-whisper-large-v3.json"
           }
         },
         {
@@ -7939,10 +7939,10 @@
           "questionId": "530",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nIl m'avait dit non, je pense que he avait déjà monté l'ours de Tchekov à an exercice d'élèves. Il m'avait dit Si j'étais vous, eh ben j'tenterais peut-être ma chance au théâtre. I me présentera au conservatoire. Je rentre à Paris, I mean I présente au conservatoire, je suis prix élève, je suis pris comme stagiaire at the Comédie Française. Mon père a dit it's very facility incroyable. Well, I démarrent. Qu'est-ce qui a poussé cet homme à faire du théâtre?",
-            "rawFile": "data/tv5monde-66/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt j'ai dit à mon prof de lettre, M. Jacques, j'ai envie de faire cagne. Il m'avait dit, non, je pense que... Il avait déjà monté l'ours de Tchékov à un exercice d'élève. Il m'avait dit, si j'étais vous, je tenterais peut-être ma chance au théâtre. Je me présenterais au conservatoire. Je rentre à Paris, je me présente au conservatoire, je suis pris élève. Je suis pris comme stagiaire à la comédie française. Mon père a dit, c'est vraiment un métier d'une... Une facilité incroyable. Voilà comment ça a démarré. Qu'est-ce qui a poussé cet homme à faire du théâtre ?",
+            "rawFile": "data/tv5monde-66/q10-whisper-large-v3.json"
           }
         },
         {
@@ -7977,10 +7977,10 @@
           "questionId": "531",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes ruches citadines se multiplient un peu partout dans le monde. And Paris n'échappe pas à la règle. On en trouve partout, sur les bâtiments les plus prestigieux de la capitale, but also chez de simples particuliers. Parce qu'ils sont à l'abri des pesticides and other engrais, les abeilles ont fait des villes un de leurs. Terrain de butinage favori et c'est tant mieux car il y a urgence. Je chapitre Twitter depuis 1960. Des abeilles, on en perd, disons, une colonie ou deux chaque année. Mais depuis trois ans... Chaque année, c'est un tiers de mon chepelle qui meurt. C'est pas normal. Qu'est-ce qui facilite l'installation de ruches en ville?",
-            "rawFile": "data/tv5monde-66/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLes ruches citadines se multiplient un peu partout dans le monde et Paris n'échappe pas à la règle. On en trouve partout, sur les bâtiments les plus prestigieux de la capitale, mais aussi chez de simples particuliers. Parce qu'elles sont à l'abri des pesticides et autres engrais, les abeilles ont fait des villes un de leurs terrains de butinage favoris, et c'est tant mieux, car il y a urgence. Je chopie tout le terre depuis 1960. Des abeilles, on en perd, disons, une colonie ou deux chaque année. Mais depuis trois ans, chaque année, c'est un tiers de mon chapelle qui meurt. C'est pas normal. Qu'est-ce qui facilite l'installation de ruches en ville ?",
+            "rawFile": "data/tv5monde-66/q11-whisper-large-v3.json"
           }
         },
         {
@@ -8178,10 +8178,10 @@
           "questionId": "561",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nJ'ai rencontré les nouveaux voisins. Et. Ils sont sympathiques a oui chez eux.\nB oui de c oui lundi. Oui, très",
-            "rawFile": "data/tv5monde-68/q01-parakeet.json"
+            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nJ'ai rencontré les nouveaux voisins. Et ils sont sympathiques ?\nA. Oui, chez eux.\nB. Oui, d'eux.\nC. Oui, lundi\nD. Oui, très",
+            "rawFile": "data/tv5monde-68/q01-whisper-large-v3.json"
           }
         },
         {
@@ -8330,10 +8330,10 @@
           "questionId": "565",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDes idées simples pour améliorer nos comportements écologiques. Voici un refrigerateur sans electricity that vient du Canada. Entre the two pots, we can make what we can make is made. humide et donc le pot va rester au frais et à l'intérieur on peut mettre des fruits et des légumes.\n\nQue permet cette méthode?",
-            "rawFile": "data/tv5monde-68/q05-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nDes idées simples pour améliorer nos comportements écologiques. Voici un réfrigérateur sans électricité qui nous vient du Canada. C'est deux pots en céramique de différentes grosseurs. Entre les deux pots, on peut mettre du sable et ensuite ce qu'il faut faire, c'est mettre de l'eau. Donc l'eau va garder l'humidité, ce qui va faire en sorte que ça va être humide et donc le pot va rester au frais. Et à l'intérieur, on peut mettre des fruits et des légumes.",
+            "rawFile": "data/tv5monde-68/q05-whisper-large-v3.json"
           }
         },
         {
@@ -8406,10 +8406,10 @@
           "questionId": "567",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAlors, juste avant les repas de réveillon, dernier petit conseil, avant... Pendant, afin, what do you consey? Pendant I consecration because it's the fit and the people profit. But after it will certainly have attention to diminutional consumation of alcohol, pass it to low, and diminute also his quantity.\n\nSelon cette personne, que doit-on faire pendant les fêtes?",
-            "rawFile": "data/tv5monde-68/q07-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAlors, juste avant les repas de réveillon, un dernier petit conseil. Avant, pendant, après, qu'est-ce que vous conseillez ? Pendant, je ne conseille rien parce que c'est les fêtes et il faut que les gens profitent. Mais après, il faut certainement faire plus attention à diminuer sa consommation d'alcool, passer même à de l'eau et puis diminuer aussi ces quantités de sucre et de graisse dans les jours qui suivent.\n\nSelon cette personne, que doit-on faire pendant les fêtes ?",
+            "rawFile": "data/tv5monde-68/q07-whisper-large-v3.json"
           }
         },
         {
@@ -8558,10 +8558,10 @@
           "questionId": "571",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nKenatsa, votre enfance dans le sud algérien, c'est le désert d'abord qui est la plus. Première image qui vous marque? Oui, certainement. Parce qu'au déo commencement, on ne comprend pas. On regarde, on constate, on observe. Et le désert s'est imposé à moi comme une espèce de prophétie. Et ça reste une sortie de prophétie. C'est-à-dire que quelque part it vous nourrit ce que je disais. Qu'au fond, il apporte quoi à l'homme que vous êtes? L'apaisement, c'est sûr. L'apaisement.\n\nQue représente le désert pour cet écrivain?",
-            "rawFile": "data/tv5monde-68/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nKenadza, votre enfance dans le sud algérien, c'est le désert d'abord qui est la première image qui vous marque. Oui certainement. Parce qu'au commencement on ne comprend pas, on regarde, on constate, on observe. Et le désert s'est imposé à moi comme une espèce de prophétie. Et ça s'est resté une sorte de prophétie.\n\nQuand il y a des questions qui se posent à moi et qui me dépassent, je me suis dit Il suffit de me rendre dans le désert pour d'un seul coup trouver quelques réponses. C'est-à-dire que quelque part, il vous nourrit, c'est ce que je disais, qu'au fond, il apporte quoi à l'homme que vous êtes ? L'apaisement, c'est sûr. L'apaisement...\n\nQue représente le désert pour cet écrivain ?",
+            "rawFile": "data/tv5monde-68/q11-whisper-large-v3.json"
           }
         },
         {
@@ -8596,10 +8596,10 @@
           "questionId": "572",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMoi je suis d'origine grecque et donc mes parents sont... My brother was cordonier. It's a fashion to a artistic also, because he said. Elle était arrivée avant d'arriver en France et passée en Angleterre, etc. Donc elle a fait son enfance en Angleterre, elle devait avoir 10 ans. Et quand j'étais enfant, ma mère racontait plein d'histoires extraordinaires. Mais en mélangeant tous les...\nA bit of what you raconte in my history. Qu'est-ce que l'auteur a gardé de son enfance?",
-            "rawFile": "data/tv5monde-68/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMoi je suis d'origine grecque et donc mes parents sont insta-façants venus en France en 1917, donc ça fait quand même longtemps. Mon père était cordonnier. C'est un métier artistique aussi. comme il le faisait lui, sûrement. Et ma mère est arrivée avant d'arriver en France, elle est passée en Angleterre, etc. Donc elle a fait ses... Son enfant, son oncle, était en dehors dix ans. Et quand j'étais enfant, ma mère racontait plein d'histoires extraordinaires. mais en mélangeant tous les... toutes les mythologies grecques, anglaises, etc. Ce qui fait que ça passait de Ulysse à Dickens, au petit chaperon rouge, à toutes ces choses-là. Enfin, un peu comme ce que je raconte maintenant dans mes histoires. Qu'est-ce que l'auteur a gardé de son enfance ?",
+            "rawFile": "data/tv5monde-68/q12-whisper-large-v3.json"
           }
         },
         {
@@ -8634,10 +8634,10 @@
           "questionId": "573",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn est très sensible à la musique aussi quand on est adolescent, on découvre... It's also a question of identity, a sentiment of appartenance when we do we have that group, tell chanteur, tell chanteuses. But the music is a personalism, to meet his originality.\n\nQue permet la musique à l'adolescence?",
-            "rawFile": "data/tv5monde-68/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn est très sensibles à la musique aussi quand on est adolescent. On découvre un peu tout, on se dirige... Enfin c'est aussi une question d'identité, il y a un sentiment d'appartenance. quand on dit qu'on aime tel groupe, tel chanteur, telle chanteuse. Mais bien sûr, en plus, la musique, c'est une façon de se personnaliser, c'est de montrer aussi son originalité.\n\nQue permet la musique à l'adolescence ?",
+            "rawFile": "data/tv5monde-68/q13-whisper-large-v3.json"
           }
         },
         {
@@ -8672,10 +8672,10 @@
           "questionId": "574",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLina Rothmet ne se contente pas de construire du fonctionnel. Dans cet immeuble asymétrique, Chaque étage is agencé de façon toute apporte un rapport à la ville différent. Une formation de resistance face à construction and a mode of view standardisés. Dans certains, on a un cadrage in which the village transforms in a tableaux, différents tableaux qui viennent habiller l'espace intérieur. Et certains endroits, on est plutôt projeté vers l'extérieur. Qu'apprend-on sur l'architecte?",
-            "rawFile": "data/tv5monde-68/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLina Rotme ne se contente pas de construire du fonctionnel. Dans cet immeuble asymétrique, chaque étage est agencé de façon à apporter un rapport à la ville différent. Une forme de résistance face à des constructions et des modes de vie standardisés. Dans certains, on a un cadrage bien spécifique dans lequel la ville se transforme en un tableau. Différents tableaux qui viennent habiller l'espace intérieur. Et certains endroits, on est plutôt projeté vers l'extérieur. Qu'apprend-on sur l'architecte ?",
+            "rawFile": "data/tv5monde-68/q14-whisper-large-v3.json"
           }
         },
         {
@@ -8759,10 +8759,10 @@
           "questionId": "601",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nVous voulez un pantalon de quelle couleur?\nA bleu ou noir en coton taille quarante.",
-            "rawFile": "data/tv5monde-69/q01-parakeet.json"
+            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nVous voulez un pantalon de quelle couleur ? Ah ! Bleu ou noir ?\nB en coton.\nC. Pas cher.\nD. Taille 40",
+            "rawFile": "data/tv5monde-69/q01-whisper-large-v3.json"
           }
         },
         {
@@ -8797,10 +8797,10 @@
           "questionId": "602",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nSi ton père est médecin, il peut me voir en consultation?\nA Non, il a annulé ses congés.\nB Non, il a arrêté ses médicaments.\nC Non, il doit prendre rendez-vous. No, it is a la retraite.",
-            "rawFile": "data/tv5monde-69/q02-parakeet.json"
+            "text": "Écoutez l'extrait sonore et les quatre propositions.\n\nChoisissez la bonne réponse.\n\nSi ton père est médecin, Il peut me voir en consultation ? Ah ! Non, il a annulé ses congés.\nB Non, il a arrêté ses médicaments.\nC. Non, il doit prendre rendez-vous.\nD. Non, il est à la retraite.",
+            "rawFile": "data/tv5monde-69/q02-whisper-large-v3.json"
           }
         },
         {
@@ -9063,10 +9063,10 @@
           "questionId": "609",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nPour moi c'est une passion, la technique. La partie ronde. J'ai commencé donc à l'aéroport de Paris en tant que comptable, mais je ne me voyais pas faire ça toute ma vie. Une femme dans un atelier n'était pas envisageable à ce moment-là. Et on a la deuxième cellule. Mes parents m'ont dit It's very dominant to have a lot of études for rien. And I've had a sursaut and I was battue and force to tap at all the ports, I had this opportunity to formation continue for passion. Et ils m'ont dit, si j'ai mon DUT, je viens par cette technique. Qu'explique cette femme?",
-            "rawFile": "data/tv5monde-69/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nPour moi, c'est une passion, la technique. J'ai commencé à l'aéroport de Paris en tant que comptable. Mais je ne me voyais pas faire ça toute ma vie. Une femme dans un atelier n'était pas envisageable à ce moment-là. Et on a la deuxième cellule. Mes parents m'ont dit, c'est vraiment dommage, j'avais fait autant d'études pour rien. Et là, j'ai eu un sursaut et je me suis battue. Et à force de taper à toutes les portes. J'ai eu cette opportunité de partir un an en formation continue pour passer mon DUT et ils m'ont dit si j'ai mon DUT... Je viens parce que c'est technique. Qu'explique cette femme ?",
+            "rawFile": "data/tv5monde-69/q09-whisper-large-v3.json"
           }
         },
         {
@@ -9101,10 +9101,10 @@
           "questionId": "610",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nC'était important de s'interroger sur la formation musicale en France. C'était une nécessité? Je crois qu'il faut que les choses évoluent dans tous les domaines. Donc il y a des questions à se poser dans chaque domaine et la musique en est un. Et l'enseignement de la musique en est un privilégié. Puisque je pense C'est un outil de transmission exceptionnel, de valeur, transmission de valeur extrêmement important for le savoir-vivre, le vivre ensemble. est un art vertueux. Qu'explique l'intervenant à propos de l'enseignement de la musique?",
-            "rawFile": "data/tv5monde-69/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nC'était important de s'interroger sur la formation musicale en France ? C'était une nécessité ? Je crois qu'il faut que les choses évoluent dans tous les domaines. Donc il y a des questions à se poser dans chaque domaine et l'enseignement de la musique en est un privilégié, puisque je pense que c'est un outil de transmission exceptionnel, de valeur. Transmission de valeurs extrêmement importantes. pour le savoir-vivre, le vivre ensemble. Oui, la musique est un art vertueux. Qu'explique l'intervenant à propos de l'enseignement de la musique ?",
+            "rawFile": "data/tv5monde-69/q10-whisper-large-v3.json"
           }
         },
         {
@@ -9139,10 +9139,10 @@
           "questionId": "611",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nMoi je suis portant de mieux en mieux. J'ai l'impression en Europe avec des produits de plus en plus bio, les gens de font... On essaie de marcher 10 000 pas par jour. On y pense de plus en plus, but in fact on a un mode de vie aussi. That permit to do that. The idea is to get that, to manage so, to manage bio, to put some time to change. The reality is that we are in the stress, we change a bit, we have a plats to prepared, we changes. And it's not the reality of what happens.\n\nQuel problème évoque l'intervenant?",
-            "rawFile": "data/tv5monde-69/q11-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn mange pourtant de mieux en mieux. J'ai l'impression en Europe avec des produits de plus en plus bio, les gens font de plus en plus attention, on essaye de marcher 10 000 pas par jour. Ça, ce sont plutôt des conseils que vous donnez. Oui, on en parle de plus en plus. Mais on fait de moins en moins, si on le fait. Ça ne veut pas dire qu'on le fait de plus en plus. On y pense de plus en plus, mais en fait, on a un mode de vie aussi qui ne permet pas toujours de faire ça. L'idéal serait de faire ça, de manger sain, de manger bio, de prendre son temps pour manger. La réalité, c'est qu'on est dans le... On se stresse, on mange vite, on prend des plats tout préparés, on mange trop. Et donc, ce n'est pas la réalité de ce qui se passe.\n\nQuel problème évoque l'intervenant ?",
+            "rawFile": "data/tv5monde-69/q11-whisper-large-v3.json"
           }
         },
         {
@@ -9177,10 +9177,10 @@
           "questionId": "612",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nSimone Veil, Isabelle Mongère, présentatrice de notre magazine Terrienne sur TV5 Monde, nous a rejoint sur ce plateau. Bonjour Isabelle. On peut dire que cette annonce a surpris tout le monde. Lord of this ceremony. Jamais la decision to have enter a personality au Panthéon is prise aussi rapidement, que ce soit homme ou femme. Cinq jours après son décès, c'est historique. C'est inédit jusqu'à present cela. Ça prend des années, c'est un processus qui est long, il y a parfois des réclamations, des polémiques et parfois ça ne se fait pas du tout.\n\nPourquoi Isabelle Mourgère est-elle invitée?",
-            "rawFile": "data/tv5monde-69/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nEt pour parler de cette femme d'exception qui était Simone Veil, Isabelle Morgère, présentatrice de notre magazine terrienne sur TV5MONDE, nous a rejoint sur ce plateau. Bonjour Isabelle, on peut dire que cette annonce a surpris tout le monde. Oui, on peut dire qu'on ne s'y attendait pas, en tout cas pas aussi vite et peut-être pas lors de cette cérémonie. Jamais la décision de faire entrer une personnalité au Panthéon n'a été prise aussi rapidement, que ce soit homme ou femme. Cinq jours après son décès, c'est véritablement historique, c'est inédit jusqu'à présent. Cela prend des années, c'est un processus qui est long, il y a parfois des réclamations, des polémiques et parfois ça ne se fait pas du tout.\n\nPourquoi Isabelle Mourger est-elle invitée ?",
+            "rawFile": "data/tv5monde-69/q12-whisper-large-v3.json"
           }
         },
         {
@@ -9253,10 +9253,10 @@
           "questionId": "614",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nVous dirigez donc une équipe de recherche au laboratoire des sciences du... climat et de l'environnement du commissariat à l'énergie atomique. Et cette équipe, elle recherche quoi exactement? Alors en fait c'est une cinquantaine de personnes, dont une dizaine d'étudiants, qui utilisent tout un tas d'archives du climat, c'est-à-dire des milieux naturels où on va Trouve the mark of variations climatic pass. Also, that will be the coraux in the regions tropical, the sediments marins, the pollen that we have to renseign on the vegetation pass, the cernes d'arbres, the concretion that we have in the grottes, the C'est les experts quoi en gros. C'est exactement ça. C'est un travail de détective pour trouver les traces des variations passées du climat avant qu'on ait des données météorologiques.\n\nQuel est l'objectif de ces recherches?",
-            "rawFile": "data/tv5monde-69/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nVous dirigez donc une équipe de recherche au Laboratoire des sciences du climat et de l'environnement du Commissariat à l'énergie atomique. Et cette équipe, elle recherche quoi exactement ? Alors en fait, c'est une cinquantaine de personnes, dont une dizaine d'étudiants, qui utilisent tout un tas d'archives du climat, c'est-à-dire des milieux naturels où on va trouver la marque des variations climatiques passées. Alors, ça va être les coraux dans les régions tropicales, les sédiments marins, les pollens qu'on va trouver dans les lacs et qui nous renseignent sur la végétation passée, les cernes d'arbres, les concrétions qu'on trouve dans les grottes, les stalagmites ou bien les glaces, des glaciers tropicaux ou des glaciers polaires. C'est les experts, quoi, en gros. C'est exactement ça. C'est un travail de détective pour trouver les traces des variations passées du climat avant qu'on ait des données météorologiques.",
+            "rawFile": "data/tv5monde-69/q14-whisper-large-v3.json"
           }
         },
         {
@@ -9291,10 +9291,10 @@
           "questionId": "615",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOh là là! Alors mon coup de pouce pour la planète. In 40 seconds, uh je dirais qu'il faut um en fait c'est d'abord un conseil. Il faut agir. Il faut en permanence être capable d'agir. Même des petits actions. An example that me concerns, I planted these arbres, voilà on my balcon in Ile-de-France. I've been in the sud-ouest, for excess, dans le Lot-et-Garonne, à Savignac-sur-Leise, and I plante dans le terrain. J'en ai déjà planté quatre, and I will bichonner chaque année. Voilà, donc ne pas hésiter à mener des actions à tous les niveaux, voilà. Parce que je fais germer aussi des idées dans la tête de mes étudiants, aussi, qui se développent bien et en faveur d'une attitude plus respectueuse de l'environnement. Sur quoi insiste cette personne au sujet de la protection de l'environnement?",
-            "rawFile": "data/tv5monde-69/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOh là là ! Alors, mon coup de pouce pour la planète en 40 secondes ? Je dirais qu'il faut... En fait, c'est d'abord un conseil. Il faut agir. Il faut en permanence être capable d'agir. même des toutes petites actions. Un exemple qui me concerne, je plante des arbres sur mon balcon en Ile-de-France et puis quand ils ont une certaine taille et une certaine maturité, je vais dans le sud-ouest pour être précis dans le Lot-et-Garonne à Savignac-sur-Lez et je les plante dans le terrain. J'en ai déjà planté 4 et je vais les bichonner chaque année. Voilà, donc ne pas hésiter à mener des actions à tous les niveaux. Voilà. Parce que je fais germer aussi des idées dans la tête de mes étudiants aussi, qui se développent bien et en faveur d'une attitude plus respectueuse de l'environnement. Sur quoi insiste cette personne au sujet de la protection de l'environnement ?",
+            "rawFile": "data/tv5monde-69/q15-whisper-large-v3.json"
           }
         }
       ]
@@ -9644,10 +9644,10 @@
           "questionId": "649",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nL'Université française en Arménie donne la possibilité de s'ouvrir vers d'autres. and créate vers la culture française. En échangeant avec les enseignants français, avec la possibility to get a stage in France, for a student it's the premier opportunity to visit l'Europe. De passer un stage en France, c'est la grande expérience de découvrir notre mode de pensée, notre style de vie.\n\nQue présente la personne interviewée?",
-            "rawFile": "data/tv5monde-70/q09-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nL'université française en Arménie donne la possibilité de s'ouvrir vers d'autres cultures et dans le cas concret, vers la culture française. En échangeant avec les enseignants français, avec la possibilité d'aller faire un stage en France, pour beaucoup d'étudiants, c'est la première opportunité peut-être de visiter l'Europe, de passer un stage en France. C'est la grande expérience de découvrir notre mode de pensée, notre style de vie.\n\nQue présente la personne interviewée ?",
+            "rawFile": "data/tv5monde-70/q09-whisper-large-v3.json"
           }
         },
         {
@@ -9682,10 +9682,10 @@
           "questionId": "650",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAïssa Dionne est une femme d'affaires et styliste. Elle a fait le choix de se spécifique. Specialist in the tissue d'ammeublement. The very grand marks and hotels de luxe find appear to him. Some entrepreneurs comes in a centaur of employees and makes a point d'honneur to utilise the matter issues of his family, the Senegal. After these days, Elle se bat pour faire entendre que le Sénégal et l'Afrique de l'Ouest pourraient avoir une place importante dans l'industrie mondiale du textile.\n\nQue souhaite faire cette styliste sénégalaise?",
-            "rawFile": "data/tv5monde-70/q10-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nAïssa Dion est une femme d'affaires et styliste. Elle a fait le choix de se spécialiser dans les tissus d'ameublement. Les plus grandes marques et hôtels de luxe font appel à elle. Son entreprise compte plus d'une centaine d'employés et elle met un point d'honneur à utiliser des matières issues de son pays, le Sénégal. Depuis des années, elle se bat pour faire entendre que le Sénégal et l'Afrique de l'Ouest pourraient avoir une place importante dans l'industrie mondiale du textile.\n\nQue souhaite faire cette styliste sénégalaise ?",
+            "rawFile": "data/tv5monde-70/q10-whisper-large-v3.json"
           }
         },
         {
@@ -9758,10 +9758,10 @@
           "questionId": "652",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe temps, ces femmes le prennent lorsqu'elles viennent notamment se faire Tressée ici pendant des years. Elle se laisse donc tenter par un roman or an essai sur le droit des femmes or l'enfant. Colette Tossou, la patronne des lieux, n'a pas hésité lorsque la Bibliothèque nationale d'Abidjan lui a proposé d'installer cette petite vitrine dans son salon à Abobo. Et elle pousse ses employés à faire une pause-lecture lorsque le cœur leur en dit.\n\nQuel est le projet de la Bibliothèque nationale d'Abidjan?",
-            "rawFile": "data/tv5monde-70/q12-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe temps, ces femmes le prennent lorsqu'elles viennent notamment se faire tresser ici pendant des heures. Elles se laissent donc tenter par un roman ou un essai sur le droit des femmes ou de l'enfant. Colette Tossou, la patronne des lieux, n'a pas hésité lorsque la Bibliothèque nationale d'Abidjan lui a proposé d'installer cette petite vitrine dans son salon à Abobo. Et elle pousse ses employés à faire une pause lecture lorsque le cœur leur en dit.\n\nQuel est le projet de la Bibliothèque nationale d'Abidjan ?",
+            "rawFile": "data/tv5monde-70/q12-whisper-large-v3.json"
           }
         },
         {
@@ -9796,10 +9796,10 @@
           "questionId": "653",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn trouve en pleine mer de gros déchets en plastique. Uh myriade of petits fragments. The micro-détritus constitue une grave menace for the biodiversity. They peuvent blesser ou étouffer les poissons or autres organismes marins qui les ingèrent. The substances toxiques. Déséquilibre the ecosystem. The échantillons prélevés by l'équipe de Patrick Beckson are exploited at terror by the scientific. The expedition has also donated for mission to cartographier ces zones polluées qui rassemblaient from six fois la France. Un septième continent qui n'est du qu'à l'activité humaine.\n\nQuel est l'un des objectifs de l'équipe de Patrick Dexon?",
-            "rawFile": "data/tv5monde-70/q13-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nOn trouve en pleine mer de gros déchets en plastique, mais surtout une myriade de petits fragments, de micro-détritus qui constituent une grave menace. pour la biodiversité. Ils peuvent blesser ou étouffer les poissons ou autres organismes marins qui les ingèrent. Les substances toxiques qu'ils contiennent déséquilibrent aussi les écosystèmes. Les échantillons prélevés par l'équipe de Patrick Dixon seront ensuite exploités à terre par des scientifiques. L'expédition s'est aussi donnée pour mission de... cartographier ces zones polluées qui rassemblaient son grande comme six fois la France, un septième continent qui n'éduque qu'à l'activité humaine.\n\nQuel est l'un des objectifs de l'équipe de Patrick Dixon ?",
+            "rawFile": "data/tv5monde-70/q13-whisper-large-v3.json"
           }
         },
         {
@@ -9834,10 +9834,10 @@
           "questionId": "654",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLa Louisiane compte 26 écoles d'immersion pour environ 5000 élèves scolarisés. And the aventures of Boudini are l'une des initiatives the plus recente for accroître plus l'apprentissage of the languages. In his studio, Marshall Woodworth met the dernières touches au prochain episode of Boudini. About another animateur, Philippe Bilodeau, Ils ont développé les personnages du premier dessin animé en français louisianais, Boudini, Colinda et Coco l'Aligator, ou comme on dit ici, le Cocodri. I think it's very mentally healthy for people. Des points de vue différents, des langues différentes, mais que cela représente fidèlement cette région, la Louisiane.",
-            "rawFile": "data/tv5monde-70/q14-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLa Louisiane compte 26 écoles d'immersion pour environ 5000 élèves scolarisés et les aventures de Boudini sont l'une des initiatives les plus récentes pour accroître encore plus la capacité de l'école. plus l'apprentissage de la langue française. Dans son studio, Marshall Woodworth met les dernières touches au prochain épisode de Boudini. Avec un autre animateur, Philippe Bilodeau, ils ont développé les personnages du premier dessin animé en français louisianais, Boudini, Colinda et Coco l'Alligator, ou comme on dit ici, le cocodrie. Je pense que c'est très sain pour l'esprit de voir différents types de personnes à l'écran, des points de vue différents, des langues différentes, mais que cela représente fidèlement cette région, la Louisiane. Qu'apprend-on sur le dessin animé Bouddhini ?",
+            "rawFile": "data/tv5monde-70/q14-whisper-large-v3.json"
           }
         },
         {
@@ -9872,10 +9872,10 @@
           "questionId": "655",
           "skill": "Compréhension orale",
           "transcription": {
-            "model": "nvidia/parakeet-tdt-0.6b-v3",
+            "model": "openai/whisper-large-v3",
             "language": "fr",
-            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe frugalisme, c'est un mode de vie qui consiste à se serrer la ceinture et à Along with Fanny Paris, who is specialist in the mode of consummation and anthropologue at Lausanne, the démarche of frugalists is paradoxical. One code, did he, it will One society that they desoit, métro, boulot, dodo, what sense to my view, j'en ai marre? And the other code they profit of this system because they continue to perceive a revenue boursian, for example. And the other bémol, is that the frugalism is not pour les petits salaires. Il faut quand même gagner un minimum pour pouvoir économiser.\n\nQue pense Fanny Paris de la démarche frugaliste?",
-            "rawFile": "data/tv5monde-70/q15-parakeet.json"
+            "text": "Écoutez le document sonore et la question.\n\nChoisissez la bonne réponse.\n\nLe frugalisme c'est un mode de vie qui consiste à se serrer la ceinture et à travailler comme un malade durant toutes les premières années de sa vie pour pouvoir prendre sa retraite avant de se faire enlever.\n\nSelon Fanny Paris, qui est spécialiste des modes de consommation et qui est anthropologue à Lausanne, la démarche des frugalistes est paradoxale. D'un côté, dit-elle, ils veulent s'émanciper d'une société qui les déçoit, métro, boulot, dodo, quel sens à ma vie, j'en ai marre. Et de l'autre côté, ils profitent de ce système puisqu'ils continuent souvent à s'émanciper. à percevoir un revenu boursier, par exemple. Et puis l'autre bémol, c'est que le frugalisme, ce n'est pas pour les petits salaires. Il faut quand même gagner un minimum pour pouvoir économiser.\n\nQue pense Fanny Paris de la démarche frugaliste ?",
+            "rawFile": "data/tv5monde-70/q15-whisper-large-v3.json"
           }
         }
       ]

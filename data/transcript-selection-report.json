@@ -1,0 +1,6128 @@
+{
+  "counts": {
+    "parakeet": 154,
+    "whisper": 101
+  },
+  "items": [
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.212,
+        "length": 177,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 15.275,
+        "length": 182,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.937,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.55,
+        "length": 204,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": -34.062,
+        "length": 75,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": ""
+      },
+      "delta": -52.612,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.938,
+        "length": 235,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": -33.675,
+        "length": 106,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": ""
+      },
+      "delta": -52.612,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": -0.713,
+        "length": 183,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": -31.988,
+        "length": 81,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": ""
+      },
+      "delta": -31.275,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.162,
+        "length": 413,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.35,
+        "length": 428,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.188,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.863,
+        "length": 469,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 15.875,
+        "length": 470,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -2.988,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 10.575,
+        "length": 366,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.4,
+        "length": 432,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 6.825,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 8,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 14.812,
+        "length": 625,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 18.262,
+        "length": 661,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 3.45,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -1.75,
+        "length": 340,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.675,
+        "length": 534,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 20.425,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 10,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 25.262,
+        "length": 741,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.3,
+        "length": 744,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 0.038,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 24.625,
+        "length": 850,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.625,
+        "length": 850,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.0,
+      "override": true
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 12,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.3,
+        "length": 744,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 19.337,
+        "length": 747,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -2.963,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 2.95,
+        "length": 716,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.125,
+        "length": 730,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 16.175,
+      "override": false
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 23.675,
+        "length": 774,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.113,
+        "length": 809,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.438,
+      "override": true
+    },
+    {
+      "displayNumber": 1,
+      "lotId": 58,
+      "question": 15,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.512,
+        "length": 681,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.975,
+        "length": 718,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.463,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.175,
+        "length": 174,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 7.2,
+        "length": 176,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BD"
+      },
+      "delta": -12.975,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.8,
+        "length": 224,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 5.812,
+        "length": 225,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BD"
+      },
+      "delta": -12.988,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.625,
+        "length": 210,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "whisper": {
+        "score": -33.862,
+        "length": 91,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": ""
+      },
+      "delta": -49.487,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.837,
+        "length": 227,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": -34.062,
+        "length": 75,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": ""
+      },
+      "delta": -54.9,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.775,
+        "length": 462,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.863,
+        "length": 469,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.088,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.7,
+        "length": 536,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 19.312,
+        "length": 585,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -2.387,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 7,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.9,
+        "length": 552,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.1,
+        "length": 568,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.2,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.537,
+        "length": 443,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.637,
+        "length": 451,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.1,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 9,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.613,
+        "length": 609,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.8,
+        "length": 544,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -2.812,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 22.575,
+        "length": 846,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.312,
+        "length": 905,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.738,
+      "override": true
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 11,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.312,
+        "length": 505,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 14.25,
+        "length": 340,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -2.062,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 7.725,
+        "length": 618,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.9,
+        "length": 712,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 13.175,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 13,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.625,
+        "length": 690,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.6,
+        "length": 688,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.025,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 14,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.613,
+        "length": 929,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.475,
+        "length": 918,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.137,
+      "override": false
+    },
+    {
+      "displayNumber": 2,
+      "lotId": 57,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -26.45,
+        "length": 604,
+        "englishArtifacts": 5,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 28.613,
+        "length": 1009,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 55.062,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.913,
+        "length": 233,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": -33.625,
+        "length": 110,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": ""
+      },
+      "delta": -52.538,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.012,
+        "length": 241,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 16.1,
+        "length": 248,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.912,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.975,
+        "length": 238,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 16.0,
+        "length": 240,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.975,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.275,
+        "length": 342,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "BCD"
+      },
+      "whisper": {
+        "score": 13.675,
+        "length": 374,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "BD"
+      },
+      "delta": -9.6,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.475,
+        "length": 358,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.488,
+        "length": 359,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.225,
+        "length": 418,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.287,
+        "length": 423,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -2.588,
+        "length": 433,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.587,
+        "length": 527,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 19.175,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.262,
+        "length": 421,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": -6.475,
+        "length": 122,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -21.737,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 9.875,
+        "length": 470,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.175,
+        "length": 494,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 6.3,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -0.2,
+        "length": 624,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.337,
+        "length": 667,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 18.537,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 11,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.575,
+        "length": 766,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.65,
+        "length": 772,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.075,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 12,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.375,
+        "length": 510,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.8,
+        "length": 544,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.425,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 21.8,
+        "length": 784,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.45,
+        "length": 836,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.65,
+      "override": true
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 14,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.837,
+        "length": 627,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": -0.025,
+        "length": 638,
+        "englishArtifacts": 0,
+        "artifactPhrases": 1,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -19.862,
+      "override": false
+    },
+    {
+      "displayNumber": 3,
+      "lotId": 56,
+      "question": 15,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.7,
+        "length": 856,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.913,
+        "length": 873,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.213,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.212,
+        "length": 177,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 20.325,
+        "length": 186,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "delta": 0.113,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.438,
+        "length": 195,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 18.488,
+        "length": 199,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "delta": 0.05,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.913,
+        "length": 233,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 17.925,
+        "length": 234,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.988,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.65,
+        "length": 212,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 7.625,
+        "length": 210,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BD"
+      },
+      "delta": -13.025,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.238,
+        "length": 579,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": -3.238,
+        "length": 221,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -24.475,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.325,
+        "length": 506,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": -5.387,
+        "length": 209,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -21.712,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -26.163,
+        "length": 467,
+        "englishArtifacts": 4,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.738,
+        "length": 939,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 47.9,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.15,
+        "length": 492,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 19.35,
+        "length": 508,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "delta": 0.2,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 19.962,
+        "length": 477,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.425,
+        "length": 594,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 1.463,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 10,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.375,
+        "length": 510,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.725,
+        "length": 458,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -2.65,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 1.988,
+        "length": 639,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.075,
+        "length": 886,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 23.087,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 6.95,
+        "length": 876,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.637,
+        "length": 931,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 18.688,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 3.812,
+        "length": 625,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.087,
+        "length": 727,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 19.275,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 14,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.875,
+        "length": 710,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.913,
+        "length": 713,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.038,
+      "override": false
+    },
+    {
+      "displayNumber": 4,
+      "lotId": 45,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -7.175,
+        "length": 1026,
+        "englishArtifacts": 5,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.212,
+        "length": 1137,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 31.387,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.975,
+        "length": 238,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 18.0,
+        "length": 240,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.975,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 2,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 4.825,
+        "length": 146,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "AB"
+      },
+      "whisper": {
+        "score": 14.875,
+        "length": 150,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "delta": 10.05,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.625,
+        "length": 210,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "whisper": {
+        "score": 17.587,
+        "length": 207,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": -0.038,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 9.45,
+        "length": 196,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "AD"
+      },
+      "whisper": {
+        "score": 9.6,
+        "length": 208,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BD"
+      },
+      "delta": 0.15,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 5,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -28.9,
+        "length": 408,
+        "englishArtifacts": 5,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 28.262,
+        "length": 821,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 9,
+        "optionLabels": ""
+      },
+      "delta": 57.162,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 6,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -30.363,
+        "length": 451,
+        "englishArtifacts": 8,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.675,
+        "length": 534,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 51.038,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 15.325,
+        "length": 426,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.725,
+        "length": 538,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 1.4,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 8,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -1.9,
+        "length": 328,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 12.725,
+        "length": 538,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 14.625,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 19.55,
+        "length": 764,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.562,
+        "length": 765,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.012,
+      "override": true
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 10,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.262,
+        "length": 581,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.275,
+        "length": 582,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 2.55,
+        "length": 684,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.562,
+        "length": 685,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 18.012,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 12,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.963,
+        "length": 477,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.9,
+        "length": 472,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 13,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.5,
+        "length": 600,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.425,
+        "length": 594,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.075,
+      "override": false
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 21.988,
+        "length": 799,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.962,
+        "length": 877,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.975,
+      "override": true
+    },
+    {
+      "displayNumber": 5,
+      "lotId": 52,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 5.85,
+        "length": 628,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.863,
+        "length": 949,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 18.012,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.712,
+        "length": 217,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABC"
+      },
+      "whisper": {
+        "score": -2.338,
+        "length": 213,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "D"
+      },
+      "delta": -20.05,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.463,
+        "length": 197,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "whisper": {
+        "score": 15.512,
+        "length": 201,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "delta": 0.05,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.3,
+        "length": 264,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 16.288,
+        "length": 263,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABC"
+      },
+      "delta": -3.012,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.975,
+        "length": 318,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.863,
+        "length": 309,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.112,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 5,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 4.988,
+        "length": 559,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.188,
+        "length": 575,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 12.2,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 6,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 18.825,
+        "length": 546,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.975,
+        "length": 718,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 2.15,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -12.762,
+        "length": 579,
+        "englishArtifacts": 5,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.7,
+        "length": 616,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 30.462,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 8,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -23.288,
+        "length": 537,
+        "englishArtifacts": 7,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.025,
+        "length": 562,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 40.312,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 9,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.525,
+        "length": 522,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.538,
+        "length": 523,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.013,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 21.25,
+        "length": 740,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.863,
+        "length": 789,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.613,
+      "override": true
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 11,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.538,
+        "length": 683,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.562,
+        "length": 685,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.025,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 12,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.0,
+        "length": 800,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.188,
+        "length": 815,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.188,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 7.812,
+        "length": 305,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.225,
+        "length": 418,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "delta": 10.413,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 14,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.988,
+        "length": 719,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 21.988,
+        "length": 719,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "delta": 0.0,
+      "override": false
+    },
+    {
+      "displayNumber": 6,
+      "lotId": 53,
+      "question": 15,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.95,
+        "length": 796,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.925,
+        "length": 794,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -0.025,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.562,
+        "length": 205,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 17.663,
+        "length": 213,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.9,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.288,
+        "length": 263,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 8.1,
+        "length": 248,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BD"
+      },
+      "delta": -13.188,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.788,
+        "length": 223,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 8.062,
+        "length": 245,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "CD"
+      },
+      "delta": -12.725,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.562,
+        "length": 365,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.6,
+        "length": 368,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 0.038,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.837,
+        "length": 467,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.85,
+        "length": 468,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.013,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.5,
+        "length": 520,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.363,
+        "length": 589,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.863,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 7,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.337,
+        "length": 427,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.0,
+        "length": 480,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.663,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.512,
+        "length": 601,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.35,
+        "length": 588,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.162,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -4.8,
+        "length": 256,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.15,
+        "length": 412,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 19.95,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -0.85,
+        "length": 412,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.275,
+        "length": 902,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 26.125,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 15.713,
+        "length": 457,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.637,
+        "length": 611,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 3.925,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 0.925,
+        "length": 554,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.225,
+        "length": 898,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 24.3,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 13,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.925,
+        "length": 634,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.975,
+        "length": 638,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.05,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 5.363,
+        "length": 909,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.95,
+        "length": 876,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 17.587,
+      "override": false
+    },
+    {
+      "displayNumber": 7,
+      "lotId": 47,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -7.762,
+        "length": 339,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.85,
+        "length": 868,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 32.612,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 1,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 19.925,
+        "length": 234,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABC"
+      },
+      "whisper": {
+        "score": 22.812,
+        "length": 225,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "delta": 2.887,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.025,
+        "length": 322,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 8.375,
+        "length": 270,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "CD"
+      },
+      "delta": -13.65,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.975,
+        "length": 318,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 21.062,
+        "length": 325,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.913,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.587,
+        "length": 287,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABC"
+      },
+      "whisper": {
+        "score": 18.7,
+        "length": 296,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": 0.113,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.625,
+        "length": 530,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.725,
+        "length": 538,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.1,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.075,
+        "length": 646,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.363,
+        "length": 589,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.712,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 22.512,
+        "length": 681,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.825,
+        "length": 786,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 1.312,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 8,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 15.613,
+        "length": 289,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.512,
+        "length": 441,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 1.9,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 9,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.575,
+        "length": 526,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.65,
+        "length": 532,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.075,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 10,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.163,
+        "length": 813,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.2,
+        "length": 816,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.037,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 11,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.512,
+        "length": 521,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.262,
+        "length": 501,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -2.25,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 9.075,
+        "length": 406,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.025,
+        "length": 562,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 7.95,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 13,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 24.163,
+        "length": 813,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.262,
+        "length": 821,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.1,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 3.637,
+        "length": 451,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.538,
+        "length": 763,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 21.9,
+      "override": false
+    },
+    {
+      "displayNumber": 8,
+      "lotId": 42,
+      "question": 15,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.587,
+        "length": 767,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.387,
+        "length": 751,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.2,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 26.6,
+        "length": 208,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 13.675,
+        "length": 214,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "BD"
+      },
+      "delta": -12.925,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.325,
+        "length": 266,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABC"
+      },
+      "whisper": {
+        "score": 18.462,
+        "length": 277,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": 0.137,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 3,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 25.038,
+        "length": 323,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "ABD"
+      },
+      "whisper": {
+        "score": 27.95,
+        "length": 316,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "ABCD"
+      },
+      "delta": 2.912,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.85,
+        "length": 388,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.913,
+        "length": 393,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 5,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -4.262,
+        "length": 299,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.6,
+        "length": 528,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 20.863,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.55,
+        "length": 764,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.475,
+        "length": 758,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.075,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 20.887,
+        "length": 551,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.075,
+        "length": 566,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.188,
+      "override": true
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.387,
+        "length": 351,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.45,
+        "length": 356,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 9,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.25,
+        "length": 580,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.35,
+        "length": 588,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.1,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 18.387,
+        "length": 511,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.75,
+        "length": 540,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.363,
+      "override": true
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 11,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 25.9,
+        "length": 872,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 23.238,
+        "length": 899,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -2.662,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 12,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.762,
+        "length": 701,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.988,
+        "length": 719,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.225,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 13,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.675,
+        "length": 614,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.512,
+        "length": 601,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -0.163,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 20.488,
+        "length": 839,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.55,
+        "length": 1004,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 4.062,
+      "override": false
+    },
+    {
+      "displayNumber": 9,
+      "lotId": 43,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -1.2,
+        "length": 544,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.062,
+        "length": 885,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 24.262,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.587,
+        "length": 287,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABD"
+      },
+      "whisper": {
+        "score": 18.475,
+        "length": 278,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": -0.112,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.0,
+        "length": 240,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 20.062,
+        "length": 245,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.938,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.075,
+        "length": 326,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 9.438,
+        "length": 355,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "AB"
+      },
+      "delta": -12.637,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.125,
+        "length": 330,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 19.163,
+        "length": 333,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.962,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.762,
+        "length": 621,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.675,
+        "length": 614,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -0.087,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.413,
+        "length": 593,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.425,
+        "length": 594,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 0.038,
+        "length": 483,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.538,
+        "length": 603,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 21.5,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 8,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 21.725,
+        "length": 618,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.8,
+        "length": 624,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": "A"
+      },
+      "delta": 3.075,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 9,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.738,
+        "length": 699,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.775,
+        "length": 702,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.037,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 10,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 25.625,
+        "length": 770,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.688,
+        "length": 775,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 11,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.625,
+        "length": 770,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.637,
+        "length": 771,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 22.025,
+        "length": 642,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.7,
+        "length": 696,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 2.675,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -5.95,
+        "length": 724,
+        "englishArtifacts": 5,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 23.038,
+        "length": 883,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 28.988,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 14,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.288,
+        "length": 823,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.288,
+        "length": 823,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.0,
+      "override": false
+    },
+    {
+      "displayNumber": 10,
+      "lotId": 44,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -15.038,
+        "length": 877,
+        "englishArtifacts": 6,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.425,
+        "length": 994,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 37.463,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.875,
+        "length": 230,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 7.988,
+        "length": 239,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BD"
+      },
+      "delta": -12.887,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 25.637,
+        "length": 291,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 25.7,
+        "length": 296,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "ABCD"
+      },
+      "delta": 0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.438,
+        "length": 355,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "whisper": {
+        "score": 9.475,
+        "length": 358,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "CD"
+      },
+      "delta": -9.962,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 24.163,
+        "length": 333,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 21.225,
+        "length": 338,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.938,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.475,
+        "length": 518,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.525,
+        "length": 522,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.05,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.725,
+        "length": 378,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.762,
+        "length": 381,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.037,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 7,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.325,
+        "length": 346,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.337,
+        "length": 347,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 8,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 5.325,
+        "length": 426,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.775,
+        "length": 462,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 12.45,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -14.062,
+        "length": 475,
+        "englishArtifacts": 6,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.062,
+        "length": 565,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 35.125,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 16.55,
+        "length": 524,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.1,
+        "length": 488,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -0.45,
+      "override": true
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 6.775,
+        "length": 702,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.613,
+        "length": 769,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 18.838,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -0.262,
+        "length": 619,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.8,
+        "length": 624,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 18.062,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 0.438,
+        "length": 675,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.062,
+        "length": 725,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 18.625,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 16.387,
+        "length": 671,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.363,
+        "length": 749,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 8.975,
+      "override": false
+    },
+    {
+      "displayNumber": 11,
+      "lotId": 50,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 14.75,
+        "length": 860,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.012,
+        "length": 881,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 6.262,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.387,
+        "length": 271,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 20.562,
+        "length": 285,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.825,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 2,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 19.163,
+        "length": 333,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "whisper": {
+        "score": 22.175,
+        "length": 334,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "delta": 3.012,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.337,
+        "length": 347,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 22.387,
+        "length": 351,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "delta": 0.05,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 25.125,
+        "length": 410,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 10,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.275,
+        "length": 422,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 10,
+        "optionLabels": ""
+      },
+      "delta": 0.15,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.562,
+        "length": 525,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.55,
+        "length": 524,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": -0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.062,
+        "length": 485,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.025,
+        "length": 482,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": -0.038,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 7,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.475,
+        "length": 518,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.4,
+        "length": 512,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.075,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 8,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -11.363,
+        "length": 531,
+        "englishArtifacts": 6,
+        "artifactPhrases": 0,
+        "frenchSignals": 9,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.238,
+        "length": 579,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 9,
+        "optionLabels": ""
+      },
+      "delta": 36.6,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 21.475,
+        "length": 438,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.663,
+        "length": 533,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 1.188,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 19.375,
+        "length": 590,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.325,
+        "length": 746,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 1.95,
+      "override": true
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 3.312,
+        "length": 745,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.8,
+        "length": 944,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 22.488,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 12,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.575,
+        "length": 606,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 22.925,
+        "length": 634,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "delta": 0.35,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 13,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.925,
+        "length": 874,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.188,
+        "length": 895,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.262,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -8.363,
+        "length": 771,
+        "englishArtifacts": 5,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.188,
+        "length": 895,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 31.55,
+      "override": false
+    },
+    {
+      "displayNumber": 12,
+      "lotId": 55,
+      "question": 15,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.575,
+        "length": 846,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.575,
+        "length": 846,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.0,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.887,
+        "length": 231,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 22.95,
+        "length": 236,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "delta": 0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.562,
+        "length": 365,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 19.637,
+        "length": 371,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.925,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.8,
+        "length": 304,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 20.837,
+        "length": 307,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.963,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.688,
+        "length": 295,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 20.762,
+        "length": 301,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.925,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.15,
+        "length": 412,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.212,
+        "length": 417,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 6,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -12.587,
+        "length": 433,
+        "englishArtifacts": 5,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.113,
+        "length": 489,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 28.7,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 7,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.562,
+        "length": 605,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.413,
+        "length": 593,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.15,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 8,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 7.375,
+        "length": 590,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.913,
+        "length": 633,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 12.538,
+      "override": true
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 9,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.9,
+        "length": 552,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.012,
+        "length": 561,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -1.887,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -18.188,
+        "length": 625,
+        "englishArtifacts": 6,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.375,
+        "length": 830,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 38.562,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 11,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.038,
+        "length": 723,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 23.512,
+        "length": 761,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.475,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 12,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.988,
+        "length": 719,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.663,
+        "length": 693,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.325,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -6.887,
+        "length": 569,
+        "englishArtifacts": 4,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.125,
+        "length": 730,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 28.012,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 0.9,
+        "length": 392,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.175,
+        "length": 654,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 8,
+        "optionLabels": ""
+      },
+      "delta": 23.275,
+      "override": false
+    },
+    {
+      "displayNumber": 13,
+      "lotId": 60,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 11.562,
+        "length": 605,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.575,
+        "length": 846,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 9.012,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.7,
+        "length": 216,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 15.738,
+        "length": 219,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.962,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.837,
+        "length": 227,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 15.85,
+        "length": 228,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.987,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.538,
+        "length": 203,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 15.525,
+        "length": 202,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 2,
+        "optionLabels": "BCD"
+      },
+      "delta": -3.013,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.738,
+        "length": 219,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 9.75,
+        "length": 220,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BD"
+      },
+      "delta": -12.988,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 5,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 14.525,
+        "length": 362,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 14.738,
+        "length": 379,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.213,
+      "override": true
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.8,
+        "length": 464,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.825,
+        "length": 466,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.025,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 5.212,
+        "length": 577,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.012,
+        "length": 721,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 13.8,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.45,
+        "length": 676,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.975,
+        "length": 718,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 0.525,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 9,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.913,
+        "length": 713,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 23.837,
+        "length": 707,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "delta": -0.075,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 16.637,
+        "length": 531,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.988,
+        "length": 639,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 3.35,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 13.012,
+        "length": 721,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.113,
+        "length": 729,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 6.1,
+      "override": true
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 12,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.537,
+        "length": 443,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.575,
+        "length": 446,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.037,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 13,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 23.725,
+        "length": 698,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 23.825,
+        "length": 706,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "delta": 0.1,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 14,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.688,
+        "length": 775,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.462,
+        "length": 837,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.775,
+      "override": false
+    },
+    {
+      "displayNumber": 14,
+      "lotId": 66,
+      "question": 15,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.137,
+        "length": 891,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.288,
+        "length": 903,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.15,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 1,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -2.6,
+        "length": 192,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "B"
+      },
+      "whisper": {
+        "score": 20.562,
+        "length": 205,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "delta": 23.163,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.4,
+        "length": 192,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 17.55,
+        "length": 204,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": -2.85,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 25.312,
+        "length": 265,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 25.7,
+        "length": 296,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "ABCD"
+      },
+      "delta": 0.387,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 22.425,
+        "length": 354,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 22.462,
+        "length": 357,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABCD"
+      },
+      "delta": 0.037,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 5,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -9.238,
+        "length": 381,
+        "englishArtifacts": 4,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.637,
+        "length": 531,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 25.875,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 15.338,
+        "length": 427,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 15.438,
+        "length": 435,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.1,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 7,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -18.525,
+        "length": 438,
+        "englishArtifacts": 6,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.85,
+        "length": 548,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 37.375,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 14.312,
+        "length": 345,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 14.35,
+        "length": 348,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.037,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 9,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.887,
+        "length": 631,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.887,
+        "length": 631,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.0,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 10,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.488,
+        "length": 759,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.688,
+        "length": 775,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.2,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 17.438,
+        "length": 595,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.6,
+        "length": 768,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 4.163,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 3.863,
+        "length": 549,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 22.325,
+        "length": 826,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 18.462,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -13.35,
+        "length": 372,
+        "englishArtifacts": 5,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.962,
+        "length": 477,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 31.312,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 4.975,
+        "length": 558,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.2,
+        "length": 576,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 12.225,
+      "override": false
+    },
+    {
+      "displayNumber": 15,
+      "lotId": 68,
+      "question": 15,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.375,
+        "length": 590,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.4,
+        "length": 592,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.025,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 1,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -0.938,
+        "length": 165,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 19.288,
+        "length": 183,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "BCD"
+      },
+      "delta": 20.225,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 2,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 18.337,
+        "length": 267,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "ABC"
+      },
+      "whisper": {
+        "score": 18.462,
+        "length": 277,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": "BCD"
+      },
+      "delta": 0.125,
+      "override": true
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 24.6,
+        "length": 368,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 24.587,
+        "length": 367,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "delta": -0.013,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.725,
+        "length": 538,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.738,
+        "length": 539,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.8,
+        "length": 624,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 20.6,
+        "length": 688,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.8,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.6,
+        "length": 528,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.625,
+        "length": 530,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.025,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 7,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.913,
+        "length": 473,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.462,
+        "length": 437,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": -0.45,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.113,
+        "length": 489,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 16.125,
+        "length": 490,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 5.95,
+        "length": 636,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.438,
+        "length": 675,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 12.488,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 17.7,
+        "length": 616,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.738,
+        "length": 619,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.038,
+      "override": true
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 11,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -24.625,
+        "length": 590,
+        "englishArtifacts": 7,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 14.6,
+        "length": 848,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 39.225,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 10.337,
+        "length": 667,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 24.387,
+        "length": 831,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 14.05,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 13,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 20.712,
+        "length": 617,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "whisper": {
+        "score": 20.863,
+        "length": 629,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": "A"
+      },
+      "delta": 0.15,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -10.625,
+        "length": 910,
+        "englishArtifacts": 6,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 26.512,
+        "length": 1001,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 37.138,
+      "override": false
+    },
+    {
+      "displayNumber": 16,
+      "lotId": 69,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 10.875,
+        "length": 870,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 25.738,
+        "length": 939,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 14.863,
+      "override": true
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 1,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 19.288,
+        "length": 183,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABD"
+      },
+      "whisper": {
+        "score": -31.988,
+        "length": 81,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 3,
+        "optionLabels": ""
+      },
+      "delta": -51.275,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 2,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 24.25,
+        "length": 340,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "whisper": {
+        "score": 24.363,
+        "length": 349,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 4,
+        "optionLabels": "ABCD"
+      },
+      "delta": 0.113,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 3,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 14.088,
+        "length": 327,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 14.125,
+        "length": 330,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.037,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 4,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 18.512,
+        "length": 521,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 18.512,
+        "length": 521,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.0,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 5,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.5,
+        "length": 520,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.375,
+        "length": 590,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.875,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 6,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.2,
+        "length": 576,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.188,
+        "length": 575,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": -0.012,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 7,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 17.175,
+        "length": 574,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.438,
+        "length": 595,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.262,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 8,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 16.812,
+        "length": 545,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.262,
+        "length": 581,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 0.45,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 9,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 6.175,
+        "length": 494,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 12.875,
+        "length": 550,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 6.7,
+      "override": true
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 10,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 5.625,
+        "length": 610,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.575,
+        "length": 606,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 11.95,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 11,
+      "choice": "parakeet",
+      "parakeet": {
+        "score": 21.45,
+        "length": 756,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 21.512,
+        "length": 761,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 0.062,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 12,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 11.2,
+        "length": 576,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 17.3,
+        "length": 584,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 6.1,
+      "override": true
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 13,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 0.887,
+        "length": 711,
+        "englishArtifacts": 3,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.837,
+        "length": 787,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "delta": 18.95,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 14,
+      "choice": "whisper",
+      "parakeet": {
+        "score": 7.125,
+        "length": 730,
+        "englishArtifacts": 2,
+        "artifactPhrases": 0,
+        "frenchSignals": 5,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 22.85,
+        "length": 868,
+        "englishArtifacts": 0,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "delta": 15.725,
+      "override": false
+    },
+    {
+      "displayNumber": 17,
+      "lotId": 70,
+      "question": 15,
+      "choice": "whisper",
+      "parakeet": {
+        "score": -45.15,
+        "length": 708,
+        "englishArtifacts": 11,
+        "artifactPhrases": 0,
+        "frenchSignals": 6,
+        "optionLabels": ""
+      },
+      "whisper": {
+        "score": 19.175,
+        "length": 894,
+        "englishArtifacts": 1,
+        "artifactPhrases": 0,
+        "frenchSignals": 7,
+        "optionLabels": ""
+      },
+      "delta": 64.325,
+      "override": false
+    }
+  ]
+}
